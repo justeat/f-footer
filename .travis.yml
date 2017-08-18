@@ -1,0 +1,16 @@
+language: node_js
+
+node_js:
+  - "6"
+  - "8"
+
+cache: yarn
+
+sudo: false
+
+notifications:
+  email: false
+
+scripts:
+  - yarn run lint
+  - yarn danger ci
