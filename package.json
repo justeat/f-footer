@@ -1,0 +1,55 @@
+{
+  "name": "@justeat/f-footer",
+  "description": "Fozzie footer – Footer Component for Just Eat projects",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://github.com/justeat/f-footer",
+  "contributors": [
+    "Github contributors <https://github.com/justeat/f-footer/graphs/contributors>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justeat/f-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justeat/f-footer/issues"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "@justeat/gulp-build-fozzie": "^5.2.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "keywords": [
+    "fozzie",
+    "eyeglass-module"
+  ],
+  "eyeglass": {
+    "name": "f-footer",
+    "sassDir": "src/scss",
+    "needs": "^1.1.2",
+    "exports": false
+  },
+  "scripts": {
+    "prestart": "yarn test",
+    "test": "gulp scripts:test",
+    "test:cover": "gulp scripts:test:coverage",
+    "lint": "gulp scripts:lint"
+  },
+  "stylelint": {
+    "extends": "@justeat/stylelint-config-fozzie"
+  },
+  "browserslist": [
+    "> 5%",
+    "last 2 versions",
+    "ie > 8",
+    "Safari >= 8"
+  ],
+  "jest": {
+    "roots": [
+      "src/js"
+    ]
+  }
+}
