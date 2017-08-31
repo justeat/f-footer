@@ -1,0 +1,51 @@
+/**
+ * Site Selector styling
+ * =================================
+ * Site Selector Module
+ *
+ * Switches countries of sites
+ *
+ */
+
+
+/**
+ * Component Variables
+ */
+$siteSelector-textColor: $color-text !default;
+$siteSelector-chevronColor: $grey--dark !default;
+
+
+/**
+ * Base Component styles
+ */
+.c-siteSelector {
+    position: relative;
+}
+
+    .c-siteSelector-link {
+        align-items: center;
+        color: $siteSelector-textColor;
+        display: flex;
+        text-decoration: none;
+
+        p {
+            margin: 0 0 0 spacing();
+        }
+    }
+
+    .c-siteSelector-flag {
+        height: 11px;
+        width: 16px;
+
+        @include media('>=wide') {
+            height: 16px;
+            width: 24px;
+        }
+    }
+
+    .c-siteSelector-chevron {
+        height: 6px;
+        margin-left: spacing();
+        width: 14px;
+        fill: $siteSelector-chevronColor;
+    }

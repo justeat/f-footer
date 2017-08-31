@@ -1,0 +1,279 @@
+/**
+ * f-footer
+ * =================================
+ * Footer Component for Just Eat projects
+ *
+ * This component allows a project to 'install' via a mixin the styles required
+ * to show the Just Eat footer at the bottom of their site or application.
+ *
+ * Documentation: tbc
+ * Repo: https://github.com/justeat/f-footer
+ *
+ * Index:
+ * - Imports
+ * - Component Variables
+ * - Partials
+ * - Base Component styles
+ *
+ */
+
+
+/**
+ * Imports
+ */
+@import 'fozzie-colour-palette';
+@import 'kickoff-utils'; // imports a set of helper functions and mixins – https://github.com/TryKickoff/kickoff-utils.scss
+@import 'include-media'; // Cleaner media query declarations – http://include-media.com
+
+
+/**
+ * Component Variables
+ */
+$footer-bgColor: $grey--lightest !default;
+$footer-bgLight: $grey--offWhite !default;
+$footer-textColor: $color-text !default;
+$footer-borderColor: $color-border--interactive !default;
+$footer-chevronColor: $grey--dark !default;
+$footer-socialIconColor: $grey--dark !default;
+
+
+/**
+ * Partials
+ */
+@import 'partials/siteSelector';
+
+
+/**
+ * Base Component styles
+ */
+.c-footer {
+    background-color: $footer-bgColor;
+    color: $footer-textColor;
+}
+
+    .c-footer-heading {
+        @include font-size(mid);
+        padding: spacing(x2);
+        position: relative;
+
+        @include media('>=mid') {
+            padding-left: 0;
+            padding-top: 0;
+        }
+    }
+
+
+    .c-footer-row {
+        @include media('>=mid') {
+            padding: spacing(x4);
+            position: relative;
+        }
+    }
+
+        .c-footer-row--bgLight {
+            background-color: $footer-bgLight;
+            padding-bottom: spacing(x2);
+        }
+
+
+    .c-footer-panel {
+
+        @include media('<mid') {
+            border-bottom: 1px solid $footer-borderColor;
+
+            &.is-collapsible {
+                cursor: pointer;
+
+                .c-footer-list {
+                    max-height: none;
+                    overflow: hidden;
+                }
+
+                &.is-collapsed {
+                    .c-footer-chevron {
+                        transform: rotate(0deg);
+                    }
+
+                    .c-footer-list {
+                        max-height: 0;
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+
+        &:last-of-type {
+            border-bottom: none;
+        }
+
+        .c-footer-heading {
+            @include media('>=mid') {
+                padding: 0;
+            }
+        }
+
+        a {
+            color: $footer-textColor;
+            display: inline-block;
+            padding: spacing() spacing(x2);
+            text-decoration: none;
+            width: 100%;
+
+            @include media('>=mid') {
+                padding: 0 0 spacing();
+                width: auto;
+            }
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+
+    .c-footer-chevron {
+        position: absolute;
+        top: 24px;
+        right: spacing(x2);
+        fill: $footer-chevronColor;
+        height: 11px;
+        transform: rotate(180deg);
+        width: 20px;
+    }
+
+
+    .c-footer-list {
+        @extend %u-unstyled;
+        margin-bottom: spacing(x2);
+        margin-left: spacing(x2);
+
+        @include media('>=mid') {
+            margin: spacing(x2) 0 0 0;
+        }
+    }
+
+        .c-footer-list--inline {
+            align-items: center;
+            display: flex;
+            flex-flow: row wrap;
+            margin-top: 0;
+
+            @include media('>=mid') {
+                margin-bottom: 0;
+            }
+        }
+
+    .c-footer-social,
+    .c-footer-cards {
+        @include media('>mid') {
+            order: 2;
+        }
+    }
+
+    .c-footer-feedback,
+    .c-footer-countries {
+        @include media('>mid') {
+            order: 1;
+        }
+    }
+
+    .c-footer-feedbackText {
+        margin: 0 0 0 spacing(x2);
+
+        @include media('>=mid') {
+            margin-left: 0;
+        }
+    }
+
+    .c-footer-countries {
+        display: flex;
+        flex-direction: column;
+        padding: spacing(x2);
+
+        @include media('>=mid') {
+            align-items: center;
+            flex-direction: row;
+            padding: 0;
+        }
+
+        .c-footer-vatNumber {
+            flex-basis: 50%;
+            margin: spacing(x2) 0 0 0;
+
+            @include media('>=mid') {
+                margin: 0 0 0 spacing(x2);
+            }
+        }
+    }
+
+    .c-footer-cards {
+        text-align: right;
+        border-bottom: solid 1px $footer-borderColor;
+        padding: spacing(x3) spacing(x2);
+
+        @include media('>=mid') {
+            border: none;
+            padding: 0;
+        }
+
+        .c-footer-list {
+            margin: 0;
+
+            @include media('>=mid') {
+                float: right;
+            }
+        }
+    }
+
+
+    .c-footer-certificate {
+        @include media('<=mid') {
+            flex-basis: 100%;
+            margin-top: spacing(x3);
+            order: 1;
+        }
+    }
+
+
+    .c-footer-icon {
+        display: block;
+        margin: 0 spacing(x3) 0 0;
+
+        @include media('>=mid') {
+            margin-bottom: spacing(x2);
+        }
+
+        @include media('>=wide') {
+            margin-right: spacing(x2);
+        }
+    }
+
+        .c-footer-icon--app {
+            height: 40px;
+
+            @include media('>=mid', '<=wide') {
+                height: 32px;
+            }
+        }
+
+        .c-footer-icon--social {
+            height: 32px;
+            fill: $footer-socialIconColor;
+            transition: $default-transition;
+            width: 32px;
+
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+
+        .c-footer-icon--card {
+            height: 25px;
+            margin: 0;
+            width: 100px;
+        }
+
+        .c-footer-icon--certificate {
+            height: 25px;
+            margin: 0 spacing(x4) 0 0;
+        }
