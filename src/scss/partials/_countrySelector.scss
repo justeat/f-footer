@@ -77,8 +77,8 @@ $countrySelector-borderColor: $color-border !default;
 
             &:last-child {
                 border-top: solid 1px $countrySelector-borderColor;
-                margin: -#{spacing()} -#{spacing(x2)};
-                padding: spacing() spacing(x2);
+                margin: -#{spacing()} -#{spacing(x2)} 0;
+                padding: spacing() spacing(x2) 0;
             }
         }
     }
