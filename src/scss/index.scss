@@ -29,12 +29,12 @@
 /**
  * Component Variables
  */
-$footer-bgColor: $grey--lightest !default;
-$footer-bgLight: $grey--offWhite !default;
-$footer-textColor: $color-text !default;
-$footer-borderColor: $color-border--interactive !default;
-$footer-chevronColor: $grey--dark !default;
-$footer-socialIconColor: $grey--dark !default;
+$footer-bgColor         : $grey--lightest !default;
+$footer-bgLight         : $grey--offWhite !default;
+$footer-textColor       : $color-text !default;
+$footer-borderColor     : $color-border--interactive !default;
+$footer-chevronColor    : $grey--dark !default;
+$footer-socialIconColor : $grey--dark !default;
 
 
 /**
@@ -206,12 +206,13 @@ $footer-socialIconColor: $grey--dark !default;
     }
 
     .c-footer-cards {
-        text-align: right;
         border-bottom: solid 1px $footer-borderColor;
         padding: spacing(x3) spacing(x2);
 
         @include media('>=mid') {
             border: none;
+            display: flex;
+            justify-content: flex-end;
             padding: 0;
         }
 
