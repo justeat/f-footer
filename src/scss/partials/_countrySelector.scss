@@ -1,0 +1,76 @@
+/**
+ * Country Selector styling
+ * =================================
+ * Styles relating to the country selector
+ *
+ */
+
+
+/**
+ * Component Variables
+ */
+$countrySelector-textColor      : $color-text !default;
+$countrySelector-chevronColor   : $grey--dark !default;
+$countrySelector-crossColor     : $blue !default;
+$countrySelector-bgColor        : $grey--offWhite !default;
+$countrySelector-borderColor    : $color-border !default;
+$countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
+
+
+/**
+ * Base Component styles
+ */
+.c-countrySelector {
+    position: relative;
+}
+
+    .c-countrySelector-chevron {
+        height: 6px;
+        margin-left: spacing();
+        width: 14px;
+        fill: $countrySelector-chevronColor;
+    }
+
+    .c-countrySelector-cross {
+        fill: $countrySelector-crossColor;
+        height: 8px;
+        margin-left: auto;
+        width: 8px;
+    }
+
+    .c-countrySelector-list {
+        @extend %u-unstyled;
+        background-color: $countrySelector-bgColor;
+        box-shadow: $countrySelector-boxShadow;
+        list-style: none;
+        min-width: 190px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        z-index: zIndex(high);
+    }
+
+    .c-countrySelector-link {
+        align-items: center;
+        color: $countrySelector-textColor;
+        display: flex;
+        padding: spacing(x2) spacing(x2) 0;
+        position: relative;
+        text-decoration: none;
+
+        p {
+            margin: 0 0 0 spacing();
+        }
+    }
+
+        .c-countrySelector-link--selected {
+            border-top: solid 1px $countrySelector-borderColor;
+            font-weight: $font-weight-bold;
+            margin-top: spacing();
+            padding: spacing() spacing(x2) spacing(x2);
+        }
+
+    .c-countrySelector-flag {
+        height: 16px;
+        width: 24px;
+    }
