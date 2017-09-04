@@ -1,9 +1,7 @@
 /**
- * Site Selector styling
+ * Country Selector styling
  * =================================
- * Site Selector Module
- *
- * Switches countries of sites
+ * Styles relating to the country selector
  *
  */
 
@@ -11,11 +9,12 @@
 /**
  * Component Variables
  */
-$countrySelector-textColor: $color-text !default;
-$countrySelector-chevronColor: $grey--dark !default;
-$countrySelector-crossColor: $blue !default;
-$countrySelector-bgColor: $grey--offWhite !default;
-$countrySelector-borderColor: $color-border !default;
+$countrySelector-textColor      : $color-text !default;
+$countrySelector-chevronColor   : $grey--dark !default;
+$countrySelector-crossColor     : $blue !default;
+$countrySelector-bgColor        : $grey--offWhite !default;
+$countrySelector-borderColor    : $color-border !default;
+$countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
 
 
 /**
@@ -24,27 +23,6 @@ $countrySelector-borderColor: $color-border !default;
 .c-countrySelector {
     position: relative;
 }
-
-    .c-countrySelector-link {
-        align-items: center;
-        color: $countrySelector-textColor;
-        display: flex;
-        position: relative;
-        text-decoration: none;
-
-        p {
-            margin: 0 0 0 spacing();
-        }
-    }
-
-        .c-countrySelector-link--selected {
-            font-weight: $font-weight-bold;
-        }
-
-    .c-countrySelector-flag {
-        height: 16px;
-        width: 24px;
-    }
 
     .c-countrySelector-chevron {
         height: 6px;
@@ -63,22 +41,36 @@ $countrySelector-borderColor: $color-border !default;
     .c-countrySelector-list {
         @extend %u-unstyled;
         background-color: $countrySelector-bgColor;
-        box-shadow: 0 2px 28px rgba(51, 51, 51, 0.08);
+        box-shadow: $countrySelector-boxShadow;
         list-style: none;
         min-width: 190px;
-        padding: spacing(x2);
         position: absolute;
-        left: -#{spacing(x2)};
-        bottom: -#{spacing(x2)};
+        left: 0;
+        bottom: 0;
         z-index: zIndex(high);
+    }
 
-        li {
-            margin-bottom: spacing(x2);
+    .c-countrySelector-link {
+        align-items: center;
+        color: $countrySelector-textColor;
+        display: flex;
+        padding: spacing(x2) spacing(x2) 0;
+        position: relative;
+        text-decoration: none;
 
-            &:last-child {
-                border-top: solid 1px $countrySelector-borderColor;
-                margin: -#{spacing()} -#{spacing(x2)} 0;
-                padding: spacing() spacing(x2) 0;
-            }
+        p {
+            margin: 0 0 0 spacing();
         }
+    }
+
+        .c-countrySelector-link--selected {
+            border-top: solid 1px $countrySelector-borderColor;
+            font-weight: $font-weight-bold;
+            margin-top: spacing();
+            padding: spacing() spacing(x2) spacing(x2);
+        }
+
+    .c-countrySelector-flag {
+        height: 16px;
+        width: 24px;
     }
