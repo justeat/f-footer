@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/%40justeat%2Ff-footer.svg)](https://badge.fury.io/js/%40justeat%2Ff-footer)
 [![Build Status](https://travis-ci.org/justeat/f-footer.svg)](https://travis-ci.org/justeat/f-footer)
+[![Dependency Status](https://gemnasium.com/badges/github.com/justeat/f-footer.svg)](https://gemnasium.com/github.com/justeat/f-footer)
 
 Allows any project to install and use a variation of the Just Eat footer on their project.
 
