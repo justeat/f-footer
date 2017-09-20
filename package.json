@@ -24,7 +24,7 @@
     "include-media": "^1.4.9"
   },
   "devDependencies": {
-    "@justeat/gulp-build-fozzie": "^5.5.3",
+    "@justeat/gulp-build-fozzie": "^6.1.0",
     "gulp": "^3.9.1"
   },
   "keywords": [
