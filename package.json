@@ -1,8 +1,8 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "0.7.0",
-  "main": "index.js",
+  "version": "0.8.0",
+  "main": "dist/js/index.js",
   "homepage": "https://github.com/justeat/f-footer",
   "contributors": [
     "Github contributors <https://github.com/justeat/f-footer/graphs/contributors>"
@@ -21,10 +21,14 @@
   "dependencies": {
     "@justeat/fozzie-colour-palette": "^0.6.0",
     "@kickoff/utils.scss": "2.1.1",
-    "include-media": "^1.4.9"
+    "include-media": "^1.4.9",
+    "lite-ready": "^1.0.4",
+    "qwery": "^4.0.0"
   },
   "devDependencies": {
     "@justeat/gulp-build-fozzie": "^6.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
     "gulp": "^3.9.1"
   },
   "keywords": [
@@ -38,8 +42,10 @@
     "exports": false
   },
   "scripts": {
-    "prepare": "yarn run lint",
-    "lint": "gulp scss:lint --prod"
+    "prepare": "yarn run lint:css && yarn run lint:js && yarn run compile",
+    "compile": "babel -d dist src",
+    "lint:css": "gulp scss:lint --prod",
+    "lint:js": "gulp scripts:lint --prod"
   },
   "stylelint": {
     "extends": "@justeat/stylelint-config-fozzie"
