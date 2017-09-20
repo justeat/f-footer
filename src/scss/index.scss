@@ -55,6 +55,7 @@ $footer-socialIconColor : $grey--dark !default;
         @include font-size(mid);
         padding: spacing(x2);
         position: relative;
+        user-select: none;
 
         @include media('>=mid') {
             padding-left: 0;
@@ -80,24 +81,20 @@ $footer-socialIconColor : $grey--dark !default;
 
         @include media('<mid') {
             border-bottom: 1px solid $footer-borderColor;
+            cursor: pointer;
 
-            &.is-collapsible {
-                cursor: pointer;
+            .c-footer-list {
+                max-height: none;
+                overflow: hidden;
+            }
 
-                .c-footer-list {
-                    max-height: none;
-                    overflow: hidden;
+            &.is-collapsed {
+                .c-footer-chevron {
+                    transform: rotate(180deg);
                 }
 
-                &.is-collapsed {
-                    .c-footer-chevron {
-                        transform: rotate(180deg);
-                    }
-
-                    .c-footer-list {
-                        max-height: 0;
-                        margin-bottom: 0;
-                    }
+                .c-footer-list {
+                    display: none;
                 }
             }
         }
@@ -250,9 +247,11 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-icon--app {
             height: 40px;
+            width: 135px;
 
             @include media('>=mid', '<=wide') {
                 height: 32px;
+                width: 108px;
             }
         }
 
