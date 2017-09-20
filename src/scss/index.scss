@@ -250,9 +250,11 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-icon--app {
             height: 40px;
+            width: 135px;
 
             @include media('>=mid', '<=wide') {
                 height: 32px;
+                width: 108px;
             }
         }
 
