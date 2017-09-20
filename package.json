@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "main": "index.js",
   "homepage": "https://github.com/justeat/f-footer",
   "contributors": [
@@ -20,10 +20,12 @@
   },
   "dependencies": {
     "@justeat/fozzie-colour-palette": "^0.6.0",
-    "@justeat/gulp-build-fozzie": "^5.5.3",
     "@kickoff/utils.scss": "2.1.1",
-    "gulp": "^3.9.1",
     "include-media": "^1.4.9"
+  },
+  "devDependencies": {
+    "@justeat/gulp-build-fozzie": "^6.1.0",
+    "gulp": "^3.9.1"
   },
   "keywords": [
     "fozzie",
