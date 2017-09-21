@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "main": "dist/js/index.js",
   "homepage": "https://github.com/justeat/f-footer",
   "contributors": [
@@ -42,8 +42,9 @@
     "exports": false
   },
   "scripts": {
-    "prepare": "yarn run lint:css && yarn run lint:js && yarn run compile",
+    "prepare": "yarn run lint && yarn run compile",
     "compile": "babel -d dist src",
+    "lint": "yarn run lint:css && yarn run lint:js",
     "lint:css": "gulp scss:lint --prod",
     "lint:js": "gulp scripts:lint --prod"
   },
