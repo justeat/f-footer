@@ -5,3 +5,6 @@ node_js:
   - "8"
 
 cache: yarn
+
+scripts:
+  - yarn run lint
