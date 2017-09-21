@@ -28,8 +28,8 @@ v0.8.0
 
 ### Added
 - Added Javascript behaviour which controls how the footer behaves on page load.
-- Added Javascript lint npm script
-- Added Javascript compile task
+- Added Javascript lint npm script.
+- Added Javascript compile task.
 - Javascript is transpiled when package is deployed.
 
 
