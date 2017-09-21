@@ -268,12 +268,10 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-icon--card {
             height: 25px;
-            margin: 0;
-            width: 100px;
+            margin-bottom: 0;
         }
 
         .c-footer-icon--certificate {
             height: 50px;
             margin: 0 spacing(x4) 0 0;
-            width: 50px;
         }
