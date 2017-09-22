@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.9.0
+------------------------------
+*September 21, 2017*
+
+### Changed
+- Updated icons styles.
+
+
 v0.8.1
 ------------------------------
 *September 20, 2017*
@@ -20,8 +28,8 @@ v0.8.0
 
 ### Added
 - Added Javascript behaviour which controls how the footer behaves on page load.
-- Added Javascript lint npm script
-- Added Javascript compile task
+- Added Javascript lint npm script.
+- Added Javascript compile task.
 - Javascript is transpiled when package is deployed.
 
 
