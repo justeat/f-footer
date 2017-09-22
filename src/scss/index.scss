@@ -65,15 +65,30 @@ $footer-socialIconColor : $grey--dark !default;
 
 
     .c-footer-row {
+        padding: 0;
+
         @include media('>=mid') {
             padding: spacing(x4);
             position: relative;
         }
     }
 
-        .c-footer-row--bgLight {
+        .c-footer-row--light {
             background-color: $footer-bgLight;
-            padding-bottom: spacing(x2);
+            margin: 0 -#{spacing(x2)};
+            padding: spacing(x2) 0;
+
+            @include media('<mid') {
+                .c-footer-heading {
+                    padding-bottom: spacing();
+                    padding-top: 0;
+                }
+            }
+
+            @include media('>=mid') {
+                margin: 0;
+                padding: spacing(x4) 0 spacing(x2);
+            }
         }
 
 
@@ -184,7 +199,7 @@ $footer-socialIconColor : $grey--dark !default;
     .c-footer-countries {
         display: flex;
         flex-direction: column;
-        padding: spacing(x2);
+        padding: 0;
 
         @include media('>=mid') {
             align-items: center;
