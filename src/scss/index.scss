@@ -262,11 +262,9 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-icon--app {
             height: 40px;
-            width: 135px;
 
             @include media('>=mid', '<=wide') {
                 height: 32px;
-                width: 108px;
             }
         }
 
@@ -284,9 +282,17 @@ $footer-socialIconColor : $grey--dark !default;
         .c-footer-icon--card {
             height: 25px;
             margin-bottom: 0;
+
+            @include media('>=wide') {
+                margin: 0 0 0 spacing(x4);
+            }
         }
 
         .c-footer-icon--certificate {
             height: 50px;
             margin: 0 spacing(x4) 0 0;
+
+            @include media('>=wide') {
+                margin: 0 spacing(x2) 0 spacing(x4);
+            }
         }
