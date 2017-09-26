@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.14.0
+------------------------------
+*September 26, 2017*
+
+### Changed
+- Added `"files"` property to `package.json` to explicitly state which files should be published.
+
+
 v0.13.0
 ------------------------------
 *September 26, 2017*
