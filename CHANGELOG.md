@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.12.0
+------------------------------
+*September 26, 2017*
+
+### Removed
+- Removed icons — they now live in the [`f-icons`](https://github.com/justeat/f-icons) module.
+
+
 v0.11.0
 ------------------------------
 *September 26, 2017*
