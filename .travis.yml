@@ -6,5 +6,11 @@ node_js:
 
 cache: yarn
 
+sudo: false
+
+notifications:
+  email: false
+
 scripts:
   - yarn run lint
+  - yarn danger ci
