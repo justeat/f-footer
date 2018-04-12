@@ -1,0 +1,37 @@
+<div class="g-col g-span6">
+    <h2 class="c-footer-heading">{{i18n "downloadOurApps"}}</h2>
+
+    <ul class="c-footer-list c-footer-list--inline">
+        {{#each appStoreIcons as | appStoreIcon |}}
+            <li>
+                <a href="{{appStoreIcon.url}}" target="_blank">
+                    <img class="c-footer-icon c-icon--{{appStoreIcon.key}}" src="{{appStoreIcon.logoUrl}}" alt="{{appStoreIcon.altText}}" />
+                </a>
+            </li>
+        {{/each}}
+    </ul>
+</div>
+
+<div class="g-col g-span3 c-footer-social">
+    <h2 class="c-footer-heading">{{i18n "followUs"}}</h2>
+
+    <ul class="c-footer-list c-footer-list--inline">
+
+        {{#each socialIcons as | socialIcon |}}
+            <li>
+                <a href="{{socialIcon.url}}" target="_blank">
+                    <img class="c-footer-icon c-footer-icon--social" src="{{socialIcon.logoUrl}}" />
+                </a>
+            </li>
+        {{/each}}
+    </ul>
+</div>
+
+<div class="g-col g-span3 c-footer-feedback is-invisible">
+    <h2 class="c-footer-heading">{{i18n "feedback"}}</h2>
+
+    <p class="c-footer-feedbackText">
+        {{i18n "improveOurWebsite"}}
+        <a href="#">{{i18n "sendFeedback"}}</a>
+    </p>
+</div>

@@ -1,0 +1,232 @@
+{
+    "language": "it-IT",
+    "currentCountry": {
+        "name": "Italy",
+        "flagUrl": "/assets/img/icons/flags/flag.it.svg",
+        "localisedName": "Italia"
+    },
+    "countries": [
+        {
+            "name": "Australia",
+            "flagUrl": "/assets/img/icons/flags/flag.au.svg",
+            "localisedName": "Australia",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Brazil",
+            "flagUrl": "/assets/img/icons/flags/flag.br.svg",
+            "localisedName": "Brasile",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Canada",
+            "flagUrl": "/assets/img/icons/flags/flag.ca.svg",
+            "localisedName": "Canada",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Denmark",
+            "flagUrl": "/assets/img/icons/flags/flag.dk.svg",
+            "localisedName": "Danimarca",
+            "siteUrl": "#"
+        },
+        {
+            "name": "France",
+            "flagUrl": "/assets/img/icons/flags/flag.fr.svg",
+            "localisedName": "Francia",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Ireland",
+            "flagUrl": "/assets/img/icons/flags/flag.ie.svg",
+            "localisedName": "Irlanda",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Norway",
+            "flagUrl": "/assets/img/icons/flags/flag.no.svg",
+            "localisedName": "Norvegia",
+            "siteUrl": "#"
+        },
+        {
+            "name": "New Zealand",
+            "flagUrl": "/assets/img/icons/flags/flag.nz.svg",
+            "localisedName": "Nuova Zelanda",
+            "siteUrl": "#"
+        },
+        {
+            "name": "United Kingdom",
+            "flagUrl": "/assets/img/icons/flags/flag.gb.svg",
+            "localisedName": "Regno Unito",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Spain",
+            "flagUrl": "/assets/img/icons/flags/flag.es.svg",
+            "localisedName": "Spagna",
+            "siteUrl": "#"
+        },
+        {
+            "name": "Switzerland",
+            "flagUrl": "/assets/img/icons/flags/flag.ch.svg",
+            "localisedName": "Svizzera",
+            "siteUrl": "#"
+        }
+
+    ],
+    "links": [
+        {
+            "url": "#",
+            "text": "Contatti"
+        },
+        {
+            "url": "#",
+            "text": "Affiliazione ristoranti"
+        },
+        {
+            "url": "#",
+            "text": "Partner centre"
+        },
+        {
+            "url": "#",
+            "text": "Suggerisci un ristorante"
+        },
+        {
+            "url": "#",
+            "text": "Aiuto?"
+        }
+    ],
+    "cuisineLinks": [
+        {
+            "url": "#",
+            "text": "Pizza a domicilio"
+        },
+        {
+            "url": "#",
+            "text": "Cinese a domicilio"
+        },
+        {
+            "url": "#",
+            "text": "Sushi a domicilio"
+        },
+        {
+            "url": "#",
+            "text": "Hamburger a domicilio"
+        },
+        {
+            "url": "#",
+            "text": "Pizza a domicilio"
+        }
+    ],
+    "locationLinks": [
+        {
+            "url": "#",
+            "text": "Palermo"
+        },
+        {
+            "url": "#",
+            "text": "Roma"
+        },
+        {
+            "url": "#",
+            "text": "Milano"
+        },
+        {
+            "url": "#",
+            "text": "Napoli"
+        },
+        {
+            "url": "#",
+            "text": "Torino"
+        },
+        {
+            "url": "#",
+            "text": "Bologna"
+        },
+        {
+            "url": "#",
+            "text": "Tutte le città"
+        },
+        {
+            "url": "#",
+            "text": "Offerte e Sconti"
+        }
+    ],
+    "aboutUsLinks": [
+        {
+            "url": "#",
+            "text": "Termini e Condizioni"
+        },
+        {
+            "url": "#",
+            "text": "Cookie Policy"
+        },
+        {
+            "url": "#",
+            "text": "Informazioni su Just Eat"
+        },
+        {
+            "url": "#",
+            "text": "Domande frequenti"
+        },
+        {
+            "url": "#",
+            "text": "Miglior Prezzo Garantito"
+        },
+        {
+            "url": "#",
+            "text": "Lavora con noi"
+        },
+        {
+            "url": "#",
+            "text": "Area stampa"
+        },
+        {
+            "url": "#",
+            "text": "Le nostre App"
+        }
+    ],
+    "appStoreIcons": [
+        {
+            "url": "#",
+            "key": "ios",
+            "logoUrl": "/assets/img/icons/appstore/ios.it.svg",
+            "altText": ""
+        },
+        {
+            "url": "#",
+            "key": "android",
+            "logoUrl": "/assets/img/icons/appstore/android.it.svg",
+            "altText": ""
+        }
+    ],
+    "socialIcons": [
+        {
+            "url": "#",
+            "key": "facebook",
+            "logoUrl": "/assets/img/icons/social/icon-facebook.svg"
+        },
+        {
+            "url": "#",
+            "key": "twitter",
+            "logoUrl": "/assets/img/icons/social/icon-twitter.svg"
+        }
+    ],
+    "paymentIcons": [
+        {
+            "type": "card",
+            "key": "mastercard--securecode",
+            "logoUrl": "/assets/img/icons/cards/mastercard--securecode.svg"
+        },
+        {
+            "type": "card",
+            "key": "visa--verified",
+            "logoUrl": "/assets/img/icons/cards/visa--verified.svg"
+        },
+        {
+            "type": "card",
+            "key": "paypal",
+            "logoUrl": "/assets/img/icons/cards/paypal.svg"
+        }
+    ]
+}
