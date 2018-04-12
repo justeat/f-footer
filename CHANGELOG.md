@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v0.18.0
 ------------------------------
-*April 11, 2018*
+*April 12, 2018*
 
 ### Added
 - Handlebars partials
