@@ -10,6 +10,8 @@ v0.18.0
 
 ### Added
 - Handlebars partials
+- Sample data for docs in `footer-docs-data.json`.
+- Some footer translations in `footer.json`.
 
 
 v0.17.0
