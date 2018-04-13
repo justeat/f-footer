@@ -1,26 +1,26 @@
 <div class="c-countrySelector">
     <a class="c-countrySelector-link c-countrySelector-link--selected" href="#" data-toggle-target="countrySelector-list">
-        <img class="c-icon--flag--small" src="{{currentCountry.flagUrl}}" />
-        <p>{{i18n "currentCountryName"}}</p>
-        <img class="c-countrySelector-chevron c-icon--chevron--small" src="/assets/img/icons/arrows/chevron.svg" />
+        <img class="c-icon--flag--small" src="{{currentCountry.flagUrl}}" alt="" />
+        <p>{{ i18n "currentCountryName" }}</p>
+        <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{chevronUrl}}" alt="" />
     </a>
 
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
         {{#each countries as | country |}}
             <li>
                 <a class="c-countrySelector-link" target="_blank" href="{{country.siteUrl}}">
-                    <img class="c-icon--flag--small" src="{{country.flagUrl}}" />
+                    <img class="c-icon--flag--small" src="{{country.flagUrl}}" alt="" />
                     <p>{{country.localisedName}}</p>
                 </a>
             </li>
         {{/each}}
         <li>
             <a class="c-countrySelector-link c-countrySelector-link--selected" href="#" data-toggle-target="countrySelector-list">
-                <img class="c-icon--flag--small" src="{{currentCountry.flagUrl}}" />
+                <img class="c-icon--flag--small" src="{{currentCountry.flagUrl}}" alt="" />
                 <p>{{currentCountry.localisedName}}</p>
             </a>
 
-            <img class="c-countrySelector-cross" src="/assets/img/icons/operators/cross.svg" data-toggle-target="countrySelector-list" />
+            <img class="c-countrySelector-cross" src="{{crossUrl}}" data-toggle-target="countrySelector-list" alt="" />
         </li>
     </ul>
 </div>

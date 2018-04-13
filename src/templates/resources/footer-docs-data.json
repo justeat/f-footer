@@ -1,5 +1,8 @@
 {
     "language": "it-IT",
+    "chevronUrl": "/assets/img/icons/arrows/chevron.svg",
+    "crossUrl": "/assets/img/icons/operators/cross.svg",
+    "improveOurWebsiteUrl": "#",
     "currentCountry": {
         "name": "Italy",
         "flagUrl": "/assets/img/icons/flags/flag.it.svg",
@@ -204,12 +207,14 @@
         {
             "url": "#",
             "key": "facebook",
-            "logoUrl": "/assets/img/icons/social/icon-facebook.svg"
+            "logoUrl": "/assets/img/icons/social/icon-facebook.svg",
+            "altText": ""
         },
         {
             "url": "#",
             "key": "twitter",
-            "logoUrl": "/assets/img/icons/social/icon-twitter.svg"
+            "logoUrl": "/assets/img/icons/social/icon-twitter.svg",
+            "altText": ""
         }
     ],
     "paymentIcons": [
