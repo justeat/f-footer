@@ -6,74 +6,75 @@
     "currentCountry": {
         "name": "Italy",
         "flagUrl": "/assets/img/icons/flags/flag.it.svg",
-        "localisedName": "Italia"
+        "localisedName": "Italia",
+        "siteUrl": "https://www.justeat.it"
     },
     "countries": [
         {
             "name": "Australia",
             "flagUrl": "/assets/img/icons/flags/flag.au.svg",
-            "localisedName": "Australia",
-            "siteUrl": "#"
+            "localisedName": "localised-australia",
+            "siteUrl": "https://www.menulog.com.au"
         },
         {
             "name": "Brazil",
             "flagUrl": "/assets/img/icons/flags/flag.br.svg",
-            "localisedName": "Brasile",
-            "siteUrl": "#"
+            "localisedName": "localised-brazil",
+            "siteUrl": "https://www.ifood.com.br"
         },
         {
             "name": "Canada",
             "flagUrl": "/assets/img/icons/flags/flag.ca.svg",
-            "localisedName": "Canada",
-            "siteUrl": "#"
+            "localisedName": "localised-canada",
+            "siteUrl": "https://www.just-eat.ca"
         },
         {
             "name": "Denmark",
             "flagUrl": "/assets/img/icons/flags/flag.dk.svg",
-            "localisedName": "Danimarca",
-            "siteUrl": "#"
+            "localisedName": "localised-denmark",
+            "siteUrl": "https://www.just-eat.dk"
         },
         {
             "name": "France",
             "flagUrl": "/assets/img/icons/flags/flag.fr.svg",
-            "localisedName": "Francia",
-            "siteUrl": "#"
+            "localisedName": "localised-france",
+            "siteUrl": "https://www.just-eat.fr"
         },
         {
             "name": "Ireland",
             "flagUrl": "/assets/img/icons/flags/flag.ie.svg",
-            "localisedName": "Irlanda",
-            "siteUrl": "#"
+            "localisedName": "localised-ireland",
+            "siteUrl": "https://www.just-eat.ie"
         },
         {
             "name": "Norway",
             "flagUrl": "/assets/img/icons/flags/flag.no.svg",
-            "localisedName": "Norvegia",
-            "siteUrl": "#"
+            "localisedName": "localised-norway",
+            "siteUrl": "https://www.just-eat.no"
         },
         {
             "name": "New Zealand",
             "flagUrl": "/assets/img/icons/flags/flag.nz.svg",
-            "localisedName": "Nuova Zelanda",
-            "siteUrl": "#"
+            "localisedName": "localised-newZealand",
+            "siteUrl": "https://www.menulog.co.nz"
         },
         {
             "name": "United Kingdom",
             "flagUrl": "/assets/img/icons/flags/flag.gb.svg",
-            "localisedName": "Regno Unito",
-            "siteUrl": "#"
+            "localisedName": "localised-unitedKingdom",
+            "siteUrl": "https://www.just-eat.co.uk"
         },
         {
             "name": "Spain",
             "flagUrl": "/assets/img/icons/flags/flag.es.svg",
-            "localisedName": "Spagna",
-            "siteUrl": "#"
+            "localisedName": "localised-spain",
+            "siteUrl": "https://www.just-eat.es"
         },
         {
             "name": "Switzerland",
             "flagUrl": "/assets/img/icons/flags/flag.ch.svg",
-            "localisedName": "Svizzera",
-            "siteUrl": "#"
+            "localisedName": "localised-switzerland",
+            "siteUrl": "http://www.eat.ch"
         }
 
     ],
@@ -191,47 +192,47 @@
     ],
     "appStoreIcons": [
         {
-            "url": "#",
+            "url": "iosAppUrl",
             "key": "ios",
-            "logoUrl": "/assets/img/icons/appstore/ios.it.svg",
-            "altText": ""
+            "iconSrc": "iosIconSrc",
+            "altText": "iosAppAltText"
         },
         {
-            "url": "#",
+            "url": "androidAppUrl",
             "key": "android",
-            "logoUrl": "/assets/img/icons/appstore/android.it.svg",
-            "altText": ""
+            "iconSrc": "androidIconSrc",
+            "altText": "androidAppAltText"
         }
     ],
     "socialIcons": [
         {
-            "url": "#",
+            "url": "facebookUrl",
             "key": "facebook",
-            "logoUrl": "/assets/img/icons/social/icon-facebook.svg",
-            "altText": ""
+            "iconSrc": "facebookIconSrc",
+            "altText": "facebookIconAltText"
         },
         {
-            "url": "#",
+            "url": "twitterUrl",
             "key": "twitter",
-            "logoUrl": "/assets/img/icons/social/icon-twitter.svg",
-            "altText": ""
+            "iconSrc": "twitterIconSrc",
+            "altText": "twitterIconAltText"
         }
     ],
     "paymentIcons": [
         {
             "type": "card",
             "key": "mastercard--securecode",
-            "logoUrl": "/assets/img/icons/cards/mastercard--securecode.svg"
+            "iconSrc": "/assets/img/icons/cards/mastercard--securecode.svg"
         },
         {
             "type": "card",
             "key": "visa--verified",
-            "logoUrl": "/assets/img/icons/cards/visa--verified.svg"
+            "iconSrc": "/assets/img/icons/cards/visa--verified.svg"
         },
         {
             "type": "card",
             "key": "paypal",
-            "logoUrl": "/assets/img/icons/cards/paypal.svg"
+            "iconSrc": "/assets/img/icons/cards/paypal.svg"
         }
     ]
 }
