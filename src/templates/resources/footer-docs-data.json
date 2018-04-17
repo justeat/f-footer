@@ -222,17 +222,20 @@
         {
             "type": "card",
             "key": "mastercard--securecode",
-            "iconSrc": "/assets/img/icons/cards/mastercard--securecode.svg"
+            "iconSrc": "mastercardSecurecodeIconSrc",
+            "altText": "mastercardSecurecodeIconAltText"
         },
         {
             "type": "card",
             "key": "visa--verified",
-            "iconSrc": "/assets/img/icons/cards/visa--verified.svg"
+            "iconSrc": "visaVerifiedIconSrc",
+            "altText": "visaVerifiedIconAltText"
         },
         {
             "type": "card",
             "key": "paypal",
-            "iconSrc": "/assets/img/icons/cards/paypal.svg"
+            "iconSrc": "paypalIconSrc",
+            "altText": "paypalIconAltText"
         }
     ]
 }
