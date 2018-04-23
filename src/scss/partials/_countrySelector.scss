@@ -35,6 +35,10 @@ $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
         bottom: 0;
         z-index: zIndex(high);
 
+        li:first-child {
+            margin-top: spacing();
+        }
+
         li:last-child {
             border-top: solid 1px $countrySelector-borderColor;
             display: flex;
@@ -46,7 +50,7 @@ $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
         align-items: center;
         color: $countrySelector-textColor;
         display: flex;
-        padding: spacing(x2) spacing(x2) 0;
+        padding: spacing() spacing(x2);
         position: relative;
         text-decoration: none;
 
@@ -57,7 +61,7 @@ $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
 
         .c-countrySelector-link--selected {
             font-weight: $font-weight-bold;
-            padding: spacing(x2) 0 spacing(x2) spacing(x2);
+            padding: spacing(x2);
         }
 
     .c-countrySelector-flag {

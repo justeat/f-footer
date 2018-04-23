@@ -6,12 +6,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v0.18.0
 ------------------------------
-*April 12, 2018*
+*April 24, 2018*
 
 ### Added
 - Handlebars partials
 - Sample data for docs in `footer-docs-data.json`.
 - Footer translations to `footer.json`.
+
+### Changed
+- Country selector link is now a button
 
 
 v0.17.0

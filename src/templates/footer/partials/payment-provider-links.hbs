@@ -2,7 +2,7 @@
     <ul class="c-footer-list c-footer-list--inline">
         {{#each paymentIcons as | paymentIcon |}}
             <li> {{!-- missing 'certificate' logic --}}
-                <img class="c-footer-icon c-footer-icon--{{ paymentIcon.type }} c-icon--{{ paymentIcon.key }}" src="{{#with ../this}}{{ i18n paymentIcon.iconSrc }}{{/with}}" alt="{{#with ../this}}{{ i18n paymentIcon.altText }}{{/with}}" />
+                <img class="c-footer-icon c-footer-icon--{{ paymentIcon.type }} c-icon--{{ paymentIcon.key }}" src="{{ paymentIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n paymentIcon.altText }}{{/with}}" />
             </li>
         {{/each}}
     </ul>

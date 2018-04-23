@@ -1,9 +1,9 @@
 <div class="c-countrySelector">
-    <a href="#" class="c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
+    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
         <img class="c-icon--flag--small" src="{{ currentCountry.flagUrl }}" alt="" />
         <p>{{ currentCountry.localisedName }}</p>
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ chevronUrl }}" alt="" />
-    </a>
+    </button>
 
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
         {{#each countries as | country |}}
@@ -15,10 +15,10 @@
             </li>
         {{/each}}
         <li>
-            <a class="c-countrySelector-link c-countrySelector-link--selected" href="#" data-toggle-target="countrySelector-list">
+            <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
                 <img class="c-icon--flag--small" src="{{ currentCountry.flagUrl }}" alt="" />
                 <p>{{ currentCountry.localisedName }}</p>
-            </a>
+            </button>
 
             <img class="c-countrySelector-cross" src="{{ crossUrl }}" data-toggle-target="countrySelector-list" alt="" />
         </li>

@@ -4,8 +4,8 @@
     <ul class="c-footer-list c-footer-list--inline">
         {{#each appStoreIcons as | appStoreIcon |}}
             <li>
-                <a href="{{#with ../this}}{{ i18n appStoreIcon.url }}{{/with}}" target="_blank">
-                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{#with ../this}}{{ i18n appStoreIcon.iconSrc }}{{/with}}" alt="{{#with ../this}}{{ i18n appStoreIcon.altText }}{{/with}}" />
+                <a href="{{ appStoreIcon.url }}" target="_blank">
+                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{ appStoreIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n appStoreIcon.altText }}{{/with}}" />
                 </a>
             </li>
         {{/each}}
@@ -18,8 +18,8 @@
     <ul class="c-footer-list c-footer-list--inline">
         {{#each socialIcons as | socialIcon |}}
             <li>
-                <a href="{{#with ../this}}{{ i18n socialIcon.url }}{{/with}}" target="_blank">
-                    <img class="c-footer-icon c-footer-icon--social" src="{{#with ../this}}{{ i18n socialIcon.iconSrc }}{{/with}}" alt="{{#with ../this}}{{ i18n socialIcon.altText }}{{/with}}" />
+                <a href="{{ socialIcon.url }}" target="_blank">
+                    <img class="c-footer-icon c-footer-icon--social" src="{{ socialIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n socialIcon.altText }}{{/with}}" />
                 </a>
             </li>
         {{/each}}

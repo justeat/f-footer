@@ -192,29 +192,29 @@
     ],
     "appStoreIcons": [
         {
-            "url": "iosAppUrl",
+            "url": "#",
             "key": "ios",
-            "iconSrc": "iosIconSrc",
+            "iconSrc": "/assets/img/icons/appstore/ios.it.svg",
             "altText": "iosAppAltText"
         },
         {
-            "url": "androidAppUrl",
+            "url": "#",
             "key": "android",
-            "iconSrc": "androidIconSrc",
+            "iconSrc": "/assets/img/icons/appstore/android.it.svg",
             "altText": "androidAppAltText"
         }
     ],
     "socialIcons": [
         {
-            "url": "facebookUrl",
+            "url": "#",
             "key": "facebook",
-            "iconSrc": "facebookIconSrc",
+            "iconSrc": "/assets/img/icons/social/icon-facebook.svg",
             "altText": "facebookIconAltText"
         },
         {
-            "url": "twitterUrl",
+            "url": "#",
             "key": "twitter",
-            "iconSrc": "twitterIconSrc",
+            "iconSrc": "/assets/img/icons/social/icon-twitter.svg",
             "altText": "twitterIconAltText"
         }
     ],
@@ -222,19 +222,19 @@
         {
             "type": "card",
             "key": "mastercard--securecode",
-            "iconSrc": "mastercardSecurecodeIconSrc",
+            "iconSrc": "/assets/img/icons/cards/mastercard--securecode.svg",
             "altText": "mastercardSecurecodeIconAltText"
         },
         {
             "type": "card",
             "key": "visa--verified",
-            "iconSrc": "visaVerifiedIconSrc",
+            "iconSrc": "/assets/img/icons/cards/visa--verified.svg",
             "altText": "visaVerifiedIconAltText"
         },
         {
             "type": "card",
             "key": "paypal",
-            "iconSrc": "paypalIconSrc",
+            "iconSrc": "/assets/img/icons/cards/paypal.svg",
             "altText": "paypalIconAltText"
         }
     ]
