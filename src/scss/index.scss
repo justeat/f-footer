@@ -80,9 +80,7 @@ $footer-socialIconColor : $grey--dark !default;
 
             @include media('<mid') {
                 .c-footer-heading {
-                    padding-bottom: spacing();
-                    padding-left: 0;
-                    padding-top: 0;
+                    padding: 0 0 spacing();
                 }
                 .c-footer-list {
                     margin-left: 0;
