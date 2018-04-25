@@ -75,7 +75,7 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-row--light {
             background-color: $footer-bgLight;
-            margin: 0 -#{spacing(x2)};
+            margin: 0;
             padding: spacing(x2) 0;
 
             @include media('<mid') {
@@ -87,7 +87,7 @@ $footer-socialIconColor : $grey--dark !default;
 
             @include media('>=mid') {
                 margin: 0;
-                padding: spacing(x4) 0 spacing(x2);
+                padding: spacing(x4) spacing(x4) spacing(x2);
             }
         }
 
