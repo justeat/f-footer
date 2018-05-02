@@ -1,12 +1,13 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "main": "dist/js/index.js",
   "files": [
     "dist",
     "src/img",
-    "src/scss"
+    "src/scss",
+    "src/templates"
   ],
   "homepage": "https://github.com/justeat/f-footer",
   "contributors": [

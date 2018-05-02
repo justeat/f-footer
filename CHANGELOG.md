@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.18.2
+------------------------------
+*May 2, 2018*
+
+### Changed
+- Add the templates directory to the package.json.
+
+
 v0.18.1
 ------------------------------
 *April 25, 2018*
