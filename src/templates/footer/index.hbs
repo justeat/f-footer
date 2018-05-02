@@ -1,0 +1,25 @@
+<footer class="c-footer">
+    <div class="l-container c-footer-row">
+        <div class="g g--stack--mid">
+            {{> site-navigation-links }}
+        </div>
+    </div>
+
+    <div class="c-footer-row c-footer-row--light">
+        <div class="g g--stack--mid l-container">
+            {{> apps-and-social-links }}
+        </div>
+    </div>
+
+    <div class="l-container c-footer-row">
+        <div class="g g--stack--mid">
+            {{> payment-provider-links }}
+
+            <div class="g-col g-span4 c-footer-countries">
+                {{> country-selector }}
+
+                <p class="c-footer-vatNumber is-hidden">{{ i18n "vatInfo" }}</p>
+            </div>
+        </div>
+    </div>
+</footer>
