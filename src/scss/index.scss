@@ -75,13 +75,15 @@ $footer-socialIconColor : $grey--dark !default;
 
         .c-footer-row--light {
             background-color: $footer-bgLight;
-            margin: 0 -#{spacing(x2)};
+            margin: 0;
             padding: spacing(x2) 0;
 
             @include media('<mid') {
                 .c-footer-heading {
-                    padding-bottom: spacing();
-                    padding-top: 0;
+                    padding: 0 0 spacing();
+                }
+                .c-footer-list {
+                    margin-left: 0;
                 }
             }
 
