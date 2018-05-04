@@ -32,7 +32,9 @@
         "localised-norway": "Norge",
         "localised-spain": "Spanien",
         "localised-switzerland": "Schweiz",
-        "localised-unitedKingdom": "Storbritannien"
+        "localised-unitedKingdom": "Storbritannien",
+        "buttonClose": "Luk",
+        "changeCurrentCountry": "Du er på den danske website. Klik her for at skifte."
     },
     "en-AU": {
         "currentCountryName": "Australia",
@@ -68,7 +70,9 @@
         "localised-norway": "Norway",
         "localised-spain": "Spain",
         "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom"
+        "localised-unitedKingdom": "United Kingdom",
+        "buttonClose": "Close",
+        "changeCurrentCountry": "You are on the Australian website. Click here to change."
     },
     "en-CA": {
         "currentCountryName": "Canada",
@@ -104,7 +108,9 @@
         "localised-norway": "Norway",
         "localised-spain": "Spain",
         "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom"
+        "localised-unitedKingdom": "United Kingdom",
+        "buttonClose": "Close",
+        "changeCurrentCountry": "You are on the Canadian website. Click here to change."
     },
     "en-GB": {
         "currentCountryName": "United Kingdom",
@@ -138,7 +144,9 @@
         "localised-norway": "Norway",
         "localised-spain": "Spain",
         "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom"
+        "localised-unitedKingdom": "United Kingdom",
+        "buttonClose": "Close",
+        "changeCurrentCountry": "You are on the UK website. Click here to change."
     },
     "en-IE": {
         "currentCountryName": "Ireland",
@@ -173,7 +181,9 @@
         "localised-norway": "Norway",
         "localised-spain": "Spain",
         "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom"
+        "localised-unitedKingdom": "United Kingdom",
+        "buttonClose": "Close",
+        "changeCurrentCountry": "You are on the Irish website. Click here to change."
     },
     "en-NZ": {
         "currentCountryName": "New Zealand",
@@ -209,7 +219,9 @@
         "localised-norway": "Norway",
         "localised-spain": "Spain",
         "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom"
+        "localised-unitedKingdom": "United Kingdom",
+        "buttonClose": "Close",
+        "changeCurrentCountry": "You are on the New Zealand website. Click here to change."
     },
     "es-ES": {
         "currentCountryName": "España",
@@ -245,7 +257,9 @@
         "localised-norway": "Noruega",
         "localised-spain": "España",
         "localised-switzerland": "Suiza",
-        "localised-unitedKingdom": "Reino Unido"
+        "localised-unitedKingdom": "Reino Unido",
+        "buttonClose": "Cerrar",
+        "changeCurrentCountry": "Estás en Just Eat España. Haz clic aquí para cambiar país."
     },
     "fr-CA": {
         "currentCountryName": "Canada",
@@ -281,7 +295,9 @@
         "localised-norway": "Norvège",
         "localised-spain": "Espagne",
         "localised-switzerland": "Suisse",
-        "localised-unitedKingdom": "Royaume-Uni"
+        "localised-unitedKingdom": "Royaume-Uni",
+        "buttonClose": "Fermer",
+        "changeCurrentCountry": "Vous êtes sur le site du Royaume-Uni. Cliquez ici pour changer le pays."
     },
     "it-IT": {
         "currentCountryName": "Italia",
@@ -314,7 +330,9 @@
         "localised-norway": "Norvegia",
         "localised-spain": "Spagna",
         "localised-switzerland": "Svizzera",
-        "localised-unitedKingdom": "Regno Unito"
+        "localised-unitedKingdom": "Regno Unito",
+        "buttonClose": "Chiudi",
+        "changeCurrentCountry": "Sei sul sito Italiano. Clicca qui per cambiare stato."
     },
     "nb-NO": {
         "currentCountryName": "Norge",
@@ -346,6 +364,8 @@
         "localised-norway": "Norge",
         "localised-spain": "Spania",
         "localised-switzerland": "Sveits",
-        "localised-unitedKingdom": "Storbritannia"
+        "localised-unitedKingdom": "Storbritannia",
+        "buttonClose": "Lukk",
+        "changeCurrentCountry": "Du er på den norske nettsiden. Klikk her for å endre."
     }
 }

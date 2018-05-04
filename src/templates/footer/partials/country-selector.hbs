@@ -1,5 +1,5 @@
 <div class="c-countrySelector">
-    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
+    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" aria-label="{{ i18n "changeCurrentCountry" }}">
         <img class="c-icon--flag--small" src="{{ currentCountry.flagUrl }}" alt="" />
         <p>{{ currentCountry.localisedName }}</p>
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ chevronUrl }}" alt="" />
@@ -20,7 +20,9 @@
                 <p>{{ currentCountry.localisedName }}</p>
             </button>
 
-            <img class="c-countrySelector-cross" src="{{ crossUrl }}" data-toggle-target="countrySelector-list" alt="" />
+            <button type="button" class="o-btnLink" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
+                <img class="c-countrySelector-cross" src="{{ crossUrl }}" alt="" />
+            </button>
         </li>
     </ul>
 </div>
