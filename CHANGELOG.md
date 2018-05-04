@@ -4,6 +4,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.19.0
+------------------------------
+*May 4, 2018*
+
+### Added
+- Descriptive international translations for country selector when using a screen reader.
+
+### Changed
+- The cross in the country selector is now a button and can be accessed via tabbing.
+
+
 v0.18.2
 ------------------------------
 *May 2, 2018*
