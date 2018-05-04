@@ -6,7 +6,8 @@
   "files": [
     "dist",
     "src/img",
-    "src/scss"
+    "src/scss",
+    "src/templates"
   ],
   "homepage": "https://github.com/justeat/f-footer",
   "contributors": [

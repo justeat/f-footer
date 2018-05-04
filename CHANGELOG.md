@@ -12,7 +12,15 @@ v0.19.0
 - Descriptive international translations for country selector when using a screen reader.
 
 ### Changed
-- The chevron in the country selector is now a button and is now in the tab index.
+- The cross in the country selector is now a button and can be accessed via tabbing.
+
+
+v0.18.2
+------------------------------
+*May 2, 2018*
+
+### Changed
+- Add the templates directory to the package.json.
 
 
 v0.18.1
