@@ -1,7 +1,3 @@
-// beforeEach(() => {
-//     window.matchMedia = window.matchMedia || (() => ({
-//         matches: false,
-//         addListener: () => {},
-//         removeListener: () => {}
-//     }));
-// });
+Object.defineProperty(window, 'matchMedia', {
+    value: jest.fn(() => ({ matches: true }))
+});

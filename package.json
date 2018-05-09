@@ -56,7 +56,8 @@
     "compile": "babel -d dist src",
     "lint": "yarn run lint:css && yarn run lint:js",
     "lint:css": "gulp scss:lint --prod",
-    "lint:js": "gulp scripts:lint --prod"
+    "lint:js": "gulp scripts:lint --prod",
+    "test": "jest"
   },
   "stylelint": {
     "extends": "@justeat/stylelint-config-fozzie"

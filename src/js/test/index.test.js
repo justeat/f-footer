@@ -3,19 +3,6 @@ import { collapseFooterPanels } from '../';
 
 describe('on page load', () => {
 
-    beforeAll(() => {
-        // window.matchMedia = window.matchMedia || (() => ({
-        //     matches: false,
-        //     addListener: () => {},
-        //     removeListener: () => {}
-        // }));
-        beforeAll(() => {
-            Object.defineProperty(window, 'matchMedia', {
-                value: jest.fn(() => ({ matches: true }))
-            });
-        });
-    });
-
     it('footer panels are collapsed', () => {
         // Arrange
         TestUtils.setBodyHtml(`

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`on page load footer panels are collapsed 1`] = `
+"
+            <div class=\\"c-footer-panel is-collapsed\\" data-panel-collapsible=\\"\\">
+                <h2>
+                    Header text
+                </h2>
+            </div>
+        "
+`;
