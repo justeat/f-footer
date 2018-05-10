@@ -80,6 +80,12 @@
     }
   ],
   "jest": {
-    "setupTestFrameworkScriptFile": "./jest.setup.js"
+    "setupTestFrameworkScriptFile": "./jest.setup.js",
+    "collectCoverageFrom": [
+      "src/js/**/*.{js,jsx}"
+    ],
+    "roots": [
+      "src/"
+    ]
   }
 }

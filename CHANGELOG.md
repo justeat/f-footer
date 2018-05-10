@@ -6,12 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v0.20.0
 ------------------------------
-*May 9, 2018*
+*May 10, 2018*
 
 ### Added
 - Tabbing to footer headings in mobile view to allow the accordions to be opened.
-- JS unit tests
+- Unit tests for the JavaScript.
 - Dependencies on `fozzie` and `lodash.throttle` and `js-test-buddy`.
+- `jest.setup.js`
 
 
 v0.19.0

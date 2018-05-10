@@ -3,9 +3,9 @@ import $ from 'qwery';
 import { getBreakpoints } from '@justeat/fozzie';
 import throttle from 'lodash.throttle';
 
-
-const breakpoints = getBreakpoints();
 let footerPanels;
+let breakpoints;
+
 const tabindexResize = () => {
     if (window.matchMedia(`(min-width: ${breakpoints.mid})`).matches) {
         footerPanels.forEach(panel => {
@@ -24,17 +24,20 @@ const collapseFooterPanels = () => {
     });
 };
 
-ready(() => {
-
-    collapseFooterPanels();
-
+const resizeInit = () => {
     window.addEventListener('resize', throttle(tabindexResize, 100));
     footerPanels = $('.c-footer-panel > h2');
-
+    breakpoints = getBreakpoints();
     tabindexResize();
+};
+
+ready(() => {
+    collapseFooterPanels();
+    resizeInit();
 });
 
 export {
     collapseFooterPanels,
-    tabindexResize
+    tabindexResize,
+    resizeInit
 };
