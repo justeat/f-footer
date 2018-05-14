@@ -100,11 +100,6 @@ $footer-socialIconColor : $grey--dark !default;
             border-bottom: 1px solid $footer-borderColor;
             cursor: pointer;
 
-            .c-footer-list {
-                max-height: none;
-                overflow: hidden;
-            }
-
             &.is-collapsed {
                 .c-footer-chevron {
                     transform: rotate(180deg);
@@ -173,6 +168,19 @@ $footer-socialIconColor : $grey--dark !default;
 
             @include media('>=mid') {
                 margin-bottom: 0;
+            }
+        }
+
+        .c-footer-list-item {
+            & + .c-footer-list-item {
+                margin: 0 0 0 spacing(x3);
+
+                @include media('>=wide') {
+                    margin-left: spacing(x2);
+                }
+            }
+            & > a {
+                display: block;
             }
         }
 
@@ -251,15 +259,11 @@ $footer-socialIconColor : $grey--dark !default;
 
     .c-footer-icon {
         display: block;
-        margin: 0 spacing(x3) 0 0;
 
         @include media('>=mid') {
             margin-bottom: spacing(x2);
         }
 
-        @include media('>=wide') {
-            margin-right: spacing(x2);
-        }
     }
 
         .c-footer-icon--app {

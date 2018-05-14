@@ -3,7 +3,7 @@
 
     <ul class="c-footer-list c-footer-list--inline">
         {{#each appStoreIcons as | appStoreIcon |}}
-            <li>
+            <li class="c-footer-list-item">
                 <a href="{{ appStoreIcon.url }}" target="_blank">
                     <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{ appStoreIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n appStoreIcon.altText }}{{/with}}" />
                 </a>
@@ -17,7 +17,7 @@
 
     <ul class="c-footer-list c-footer-list--inline">
         {{#each socialIcons as | socialIcon |}}
-            <li>
+            <li class="c-footer-list-item">
                 <a href="{{ socialIcon.url }}" target="_blank">
                     <img class="c-footer-icon c-footer-icon--social" src="{{ socialIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n socialIcon.altText }}{{/with}}" />
                 </a>
