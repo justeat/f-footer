@@ -1,10 +1,10 @@
 import ready from 'lite-ready';
 import $ from 'qwery';
 import { getBreakpoints } from '@justeat/fozzie';
-import throttle from 'lodash.throttle';
+import debounce from 'lodash.debounce';
 
 let footerPanels;
-let breakpoints;
+const breakpoints = getBreakpoints();
 
 const tabindexResize = () => {
     if (window.matchMedia(`(min-width: ${breakpoints.mid})`).matches) {
@@ -25,9 +25,8 @@ const collapseFooterPanels = () => {
 };
 
 const resizeInit = () => {
-    window.addEventListener('resize', throttle(tabindexResize, 100));
-    footerPanels = $('.c-footer-panel > h2');
-    breakpoints = getBreakpoints();
+    window.addEventListener('resize', debounce(tabindexResize, 100));
+    footerPanels = $('[data-footer-panel-heading]');
     tabindexResize();
 };
 

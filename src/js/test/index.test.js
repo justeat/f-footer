@@ -40,7 +40,7 @@ describe('on page load', () => {
             // Arrange
             TestUtils.setBodyHtml(`
                 <div class="c-footer-panel" data-panel-collapsible="">
-                    <h2 tabindex="0">
+                    <h2 data-footer-panel-heading tabindex="0">
                         Header text
                     </h2>
                 </div>
@@ -58,7 +58,7 @@ describe('on page load', () => {
             // Arrange
             TestUtils.setBodyHtml(`
                 <div class="c-footer-panel" data-panel-collapsible="">
-                    <h2>
+                    <h2 data-footer-panel-heading>
                         Header text
                     </h2>
                 </div>
@@ -79,7 +79,7 @@ describe('on page load', () => {
             // Arrange
             TestUtils.setBodyHtml(`
                 <div class="c-footer-panel" data-panel-collapsible="">
-                    <h2 tabindex="0">
+                    <h2 data-footer-panel-heading tabindex="0">
                         Header text
                     </h2>
                 </div>

@@ -3,7 +3,7 @@
 exports[`on page load at narrow width tabindex should be added to footer panel headings if it is not present 1`] = `
 "
                 <div class=\\"c-footer-panel\\" data-panel-collapsible=\\"\\">
-                    <h2 tabindex=\\"0\\">
+                    <h2 data-footer-panel-heading=\\"\\" tabindex=\\"0\\">
                         Header text
                     </h2>
                 </div>
@@ -13,7 +13,7 @@ exports[`on page load at narrow width tabindex should be added to footer panel h
 exports[`on page load at narrow width tabindex should not be removed from footer panel headings 1`] = `
 "
                 <div class=\\"c-footer-panel\\" data-panel-collapsible=\\"\\">
-                    <h2 tabindex=\\"0\\">
+                    <h2 data-footer-panel-heading=\\"\\" tabindex=\\"0\\">
                         Header text
                     </h2>
                 </div>
@@ -23,7 +23,7 @@ exports[`on page load at narrow width tabindex should not be removed from footer
 exports[`on page load at normal width tabindex should be removed from footer panel headings 1`] = `
 "
                 <div class=\\"c-footer-panel\\" data-panel-collapsible=\\"\\">
-                    <h2>
+                    <h2 data-footer-panel-heading=\\"\\">
                         Header text
                     </h2>
                 </div>

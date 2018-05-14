@@ -25,12 +25,12 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "@justeat/fozzie-colour-palette": "^1.1.0",
     "@justeat/fozzie": "^0.43.0",
+    "@justeat/fozzie-colour-palette": "^1.1.0",
     "@kickoff/utils.scss": "2.1.1",
     "include-media": "^1.4.9",
     "lite-ready": "^1.0.4",
-    "lodash.throttle": "^4.1.1",
+    "lodash.debounce": "^4.0.8",
     "qwery": "^4.0.0"
   },
   "devDependencies": {
@@ -54,10 +54,11 @@
   "scripts": {
     "prepare": "yarn run lint && yarn run compile",
     "compile": "babel -d dist src",
-    "lint": "yarn run lint:css && yarn run lint:js",
+    "lint": "yarn run lint:css && yarn run lint:js && yarn run test",
     "lint:css": "gulp scss:lint --prod",
     "lint:js": "gulp scripts:lint --prod",
-    "test": "jest"
+    "test": "gulp scripts:test",
+    "test:cover": "gulp scripts:test:coverage"
   },
   "stylelint": {
     "extends": "@justeat/stylelint-config-fozzie"
@@ -82,7 +83,7 @@
   "jest": {
     "setupTestFrameworkScriptFile": "./jest.setup.js",
     "collectCoverageFrom": [
-      "src/js/**/*.{js,jsx}"
+      "src/js/**/*.js"
     ],
     "roots": [
       "src/"
