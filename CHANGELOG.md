@@ -11,7 +11,7 @@ v0.21.0
 ### Added
 - Tabbing to footer headings in mobile view to allow the accordions to be opened.
 - Unit tests for the JavaScript.
-- Dependencies on `fozzie` and `lodash.throttle` and `js-test-buddy`.
+- Dependencies on `fozzie` and `lodash.debounce` and `js-test-buddy`.
 - `jest.setup.js`
 
 
