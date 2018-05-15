@@ -4,6 +4,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.21.0
+------------------------------
+*May 14, 2018*
+
+### Added
+- Tabbing to footer headings in mobile view to allow the accordions to be opened.
+- Unit tests for the JavaScript.
+- Dependencies on `fozzie` and `lodash.debounce` and `js-test-buddy`.
+- `jest.setup.js`
+
+
 v0.20.0
 ------------------------------
 *May 11, 2018*
