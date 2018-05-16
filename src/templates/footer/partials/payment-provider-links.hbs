@@ -1,8 +1,8 @@
 <div class="g-col g-span8 c-footer-cards">
     <ul class="c-footer-list c-footer-list--inline">
-        {{#each paymentIcons as | paymentIcon |}}
+        {{#each paymentIcons }}
             <li> {{!-- missing 'certificate' logic --}}
-                <img class="c-footer-icon c-footer-icon--{{ paymentIcon.type }} c-icon--{{ paymentIcon.key }}" src="{{ paymentIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n paymentIcon.altText }}{{/with}}" />
+                <img class="c-footer-icon c-footer-icon--{{ type }} c-icon--{{ key }}" src="{{ iconSrc }}" alt="{{ altText }}" />
             </li>
         {{/each}}
     </ul>

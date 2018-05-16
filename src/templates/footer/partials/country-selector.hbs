@@ -1,16 +1,15 @@
 <div class="c-countrySelector">
     <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
         <img class="c-icon--flag--small" src="{{ currentCountry.flagUrl }}" alt="" />
-        <p>{{ currentCountry.localisedName }}</p>
+        <p> {{ currentCountry.localisedName }}</p>
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ chevronUrl }}" alt="" />
     </button>
-
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
-        {{#each countries as | country |}}
+        {{#each countries}}
             <li>
-                <a class="c-countrySelector-link" target="_blank" href="{{ country.siteUrl }}">
-                    <img class="c-icon--flag--small" src="{{ country.flagUrl }}" alt="" />
-                    <p>{{#with ../this}}{{ i18n country.localisedName }}{{/with}}</p>
+                <a class="c-countrySelector-link" target="_blank" href="{{ siteUrl }}">
+                    <img class="c-icon--flag--small" src="{{ flagUrl }}" alt="" />
+                    <p>{{ localisedName }}</p>
                 </a>
             </li>
         {{/each}}
@@ -19,7 +18,6 @@
                 <img class="c-icon--flag--small" src="{{ currentCountry.flagUrl }}" alt="" />
                 <p>{{ currentCountry.localisedName }}</p>
             </button>
-
             <img class="c-countrySelector-cross" src="{{ crossUrl }}" data-toggle-target="countrySelector-list" alt="" />
         </li>
     </ul>

@@ -1,11 +1,11 @@
 <div class="g-col g-span6">
-    <h2 class="c-footer-heading">{{ i18n "downloadOurApps" }}</h2>
+    <h2 class="c-footer-heading">{{ downloadOurApps }}</h2>
 
     <ul class="c-footer-list c-footer-list--inline">
-        {{#each appStoreIcons as | appStoreIcon |}}
+        {{#each appStoreIcons }}
             <li>
-                <a href="{{ appStoreIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{ appStoreIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n appStoreIcon.altText }}{{/with}}" />
+                <a href="{{ url }}" target="_blank">
+                    <img class="c-footer-icon c-icon--{{ key }}" src="{{ iconSrc }}" alt="{{ altText }}" />
                 </a>
             </li>
         {{/each}}
@@ -13,13 +13,13 @@
 </div>
 
 <div class="g-col g-span3 c-footer-social">
-    <h2 class="c-footer-heading">{{ i18n "followUs" }}</h2>
+    <h2 class="c-footer-heading">{{ followUs }}</h2>
 
     <ul class="c-footer-list c-footer-list--inline">
-        {{#each socialIcons as | socialIcon |}}
+        {{#each socialIcons }}
             <li>
-                <a href="{{ socialIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-footer-icon--social" src="{{ socialIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n socialIcon.altText }}{{/with}}" />
+                <a href="{{ url }}" target="_blank">
+                    <img class="c-footer-icon c-footer-icon--social" src="{{ iconSrc }}" alt="{{ altText }}" />
                 </a>
             </li>
         {{/each}}
@@ -27,10 +27,10 @@
 </div>
 
 <div class="g-col g-span3 c-footer-feedback is-invisible">
-    <h2 class="c-footer-heading">{{ i18n "feedback" }}</h2>
+    <h2 class="c-footer-heading">{{ feedback }}</h2>
 
     <p class="c-footer-feedbackText">
-        {{ i18n "improveOurWebsite" }}
-        <a href="{{ improveOurWebsiteUrl }}">{{ i18n "sendFeedback" }}</a>
+        {{ improveOurWebsite }}
+        <a href="{{ improveOurWebsiteUrl }}">{{ sendFeedback }}</a>
     </p>
 </div>
