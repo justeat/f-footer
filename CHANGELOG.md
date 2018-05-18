@@ -4,6 +4,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.19.0
+------------------------------
+*May 2, 2018*
+
+### Changed
+- restructure the footer.json file to better integrate with the GlobalWeb project.
+- update the handlebars files to remove the dependence on the i18n handlebars helper.
+
+
 v0.18.2
 ------------------------------
 *May 2, 2018*
