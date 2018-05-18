@@ -43,6 +43,7 @@ $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
             border-top: solid 1px $countrySelector-borderColor;
             display: flex;
             margin-top: spacing();
+            justify-content: space-between;
         }
     }
 
