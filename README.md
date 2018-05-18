@@ -30,4 +30,14 @@ If you are using the [fozzie gulp build tasks](https://www.npmjs.com/package/@ju
 
 You can then use the `f-footer` fozzie footer module styling.
 
+## Shared Footer HTML
+
+The footer HTML can be imported into your project using Handlebars.
+
+The templates themselves are in the /footer folder in the /templates directory.
+
+The data required to build the templates is in the /resources folder in the /templates directory, in the file footer.json. This contains all of the translations for the various tenants. The data is structured as an array, with each item in the array consisting of the data for one tenant.
+
+When building the templates, you will need to specify the data source for the current tenant by Iterating through the array items, looking for the 'culture' property (e.g. where "culture" = "da-DK"). 
+
 ## Documentation to be completed once module is in stable state.

@@ -1,51 +1,51 @@
 <div class="g-col g-span3 c-footer-panel" data-panel-collapsible data-toggle-name="footer-panel-1">
-    <h2 class="c-footer-heading" data-footer-panel-heading data-toggle-target="footer-panel-1" data-toggle-class="is-collapsed">
-        {{ i18n "customerService" }}
+        <h2 class="c-footer-heading" data-toggle-target="footer-panel-1" data-toggle-class="is-collapsed">
+        {{ customerService }}
         <img class="c-footer-chevron c-icon--chevron u-showBelowMid" src="{{ chevronUrl }}" alt="" />
     </h2>
 
     <ul class="c-footer-list">
-        {{#each links as | link |}}
-            <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {{#each links}}
+            <li><a href="{{ url }}">{{ text }}</a></li>
         {{/each}}
     </ul>
 </div>
 
 <div class="g-col g-span3 c-footer-panel" data-panel-collapsible data-toggle-name="footer-panel-2">
-    <h2 data-test-id="cuisine-footer-heading" class="c-footer-heading" data-footer-panel-heading data-toggle-target="footer-panel-2" data-toggle-class="is-collapsed">
-        {{ i18n "cuisines" }}
+    <h2 data-test-id="cuisine-footer-heading" class="c-footer-heading" data-toggle-target="footer-panel-2" data-toggle-class="is-collapsed">
+        {{ cuisines }}
         <img class="c-footer-chevron c-icon--chevron u-showBelowMid" src="{{ chevronUrl }}" alt="" />
     </h2>
 
     <ul class="c-footer-list">
-        {{#each cuisineLinks as | cuisine |}}
-            <li><a href="{{ cuisine.url }}">{{ cuisine.text }}</a></li>
+        {{#each cuisineLinks}}
+            <li><a href="{{ url }}">{{ text }}</a></li>
         {{/each}}
     </ul>
 </div>
 
 <div class="g-col g-span3 c-footer-panel" data-panel-collapsible data-toggle-name="footer-panel-3">
-    <h2 class="c-footer-heading" data-footer-panel-heading data-toggle-target="footer-panel-3" data-toggle-class="is-collapsed">
-        {{ i18n "towns" }}
+    <h2 class="c-footer-heading" data-toggle-target="footer-panel-3" data-toggle-class="is-collapsed">
+        {{ towns }}
         <img class="c-footer-chevron c-icon--chevron u-showBelowMid" src="{{ chevronUrl }}" alt="" />
     </h2>
 
     <ul class="c-footer-list">
-        {{#each locationLinks as | location |}}
-            <li><a href="{{ location.url }}">{{ location.text }}</a></li>
+        {{#each locationLinks}}
+            <li><a href="{{ url }}">{{ text }}</a></li>
         {{/each}}
     </ul>
 </div>
 
 <div class="g-col g-span3 c-footer-panel" data-panel-collapsible data-toggle-name="footer-panel-4">
-    <h2 class="c-footer-heading" data-footer-panel-heading data-toggle-target="footer-panel-4" data-toggle-class="is-collapsed">
-        {{ i18n "about-us" }}
+    <h2 class="c-footer-heading" data-toggle-target="footer-panel-4" data-toggle-class="is-collapsed">
+        {{ aboutUs }}
         <img class="c-footer-chevron c-icon--chevron u-showBelowMid" src="{{ chevronUrl }}" alt="" />
     </h2>
 
     <ul class="c-footer-list">
-        {{#each aboutUsLinks as | aboutUsLink |}}
-            <li><a href="{{ aboutUsLink.url }}">{{ aboutUsLink.text }}</a></li>
+        {{#each aboutUsLinks}}
+            <li><a href="{{ url }}">{{ text }}</a></li>
         {{/each}}
     </ul>
 </div>
