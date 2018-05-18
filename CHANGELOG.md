@@ -4,13 +4,43 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
-v0.19.0
+v0.22.0
 ------------------------------
-*May 2, 2018*
+*May 18, 2018*
 
 ### Changed
 - restructure the footer.json file to better integrate with the GlobalWeb project.
 - update the handlebars files to remove the dependence on the i18n handlebars helper.
+
+
+v0.21.0
+------------------------------
+*May 14, 2018*
+
+### Added
+- Tabbing to footer headings in mobile view to allow the accordions to be opened.
+- Unit tests for the JavaScript.
+- Dependencies on `fozzie` and `lodash.debounce` and `js-test-buddy`.
+- `jest.setup.js`
+
+
+v0.20.0
+------------------------------
+*May 11, 2018*
+
+### Changed
+- Updating package dependencies
+
+
+v0.19.0
+------------------------------
+*May 4, 2018*
+
+### Added
+- Descriptive international translations for country selector when using a screen reader.
+
+### Changed
+- The cross in the country selector is now a button and can be accessed via tabbing.
 
 
 v0.18.2
