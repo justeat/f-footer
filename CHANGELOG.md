@@ -4,6 +4,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.23.0
+------------------------------
+*May 21, 2018*
+
+### Changed
+- Updated unit test snapshots to get the tests passing.
+- Updated docs data.
+
+### Fixed
+- Fixed localised country name for current country.
+- Fixed translation keys for AU/NZ.
+
+
 v0.21.0
 ------------------------------
 *May 14, 2018*
