@@ -10,6 +10,7 @@ v0.22.0
 
 ### Changed
 - Updated unit test snapshots to get the tests passing.
+- Updated docs data.
 
 ### Fixed
 - Fixed localised country name for current country.
