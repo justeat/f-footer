@@ -4,74 +4,62 @@
     "crossUrl": "/assets/img/icons/operators/cross.svg",
     "improveOurWebsiteUrl": "#",
     "currentCountry": {
-        "name": "Italy",
         "flagUrl": "/assets/img/icons/flags/flag.it.svg",
-        "localisedName": "Italia",
+        "localisedName": "localised-italy",
         "siteUrl": "https://www.justeat.it"
     },
     "countries": [
         {
-            "name": "Australia",
             "flagUrl": "/assets/img/icons/flags/flag.au.svg",
             "localisedName": "localised-australia",
             "siteUrl": "https://www.menulog.com.au"
         },
         {
-            "name": "Brazil",
             "flagUrl": "/assets/img/icons/flags/flag.br.svg",
             "localisedName": "localised-brazil",
             "siteUrl": "https://www.ifood.com.br"
         },
         {
-            "name": "Canada",
             "flagUrl": "/assets/img/icons/flags/flag.ca.svg",
             "localisedName": "localised-canada",
             "siteUrl": "https://www.just-eat.ca"
         },
         {
-            "name": "Denmark",
             "flagUrl": "/assets/img/icons/flags/flag.dk.svg",
             "localisedName": "localised-denmark",
             "siteUrl": "https://www.just-eat.dk"
         },
         {
-            "name": "France",
             "flagUrl": "/assets/img/icons/flags/flag.fr.svg",
             "localisedName": "localised-france",
             "siteUrl": "https://www.just-eat.fr"
         },
         {
-            "name": "Ireland",
             "flagUrl": "/assets/img/icons/flags/flag.ie.svg",
             "localisedName": "localised-ireland",
             "siteUrl": "https://www.just-eat.ie"
         },
         {
-            "name": "Norway",
             "flagUrl": "/assets/img/icons/flags/flag.no.svg",
             "localisedName": "localised-norway",
             "siteUrl": "https://www.just-eat.no"
         },
         {
-            "name": "New Zealand",
             "flagUrl": "/assets/img/icons/flags/flag.nz.svg",
             "localisedName": "localised-newZealand",
             "siteUrl": "https://www.menulog.co.nz"
         },
         {
-            "name": "United Kingdom",
             "flagUrl": "/assets/img/icons/flags/flag.gb.svg",
             "localisedName": "localised-unitedKingdom",
             "siteUrl": "https://www.just-eat.co.uk"
         },
         {
-            "name": "Spain",
             "flagUrl": "/assets/img/icons/flags/flag.es.svg",
             "localisedName": "localised-spain",
             "siteUrl": "https://www.just-eat.es"
         },
         {
-            "name": "Switzerland",
             "flagUrl": "/assets/img/icons/flags/flag.ch.svg",
             "localisedName": "localised-switzerland",
             "siteUrl": "http://www.eat.ch"
