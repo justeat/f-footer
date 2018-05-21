@@ -11,6 +11,10 @@ v0.22.0
 ### Changed
 - Updated unit test snapshots to get the tests passing.
 
+### Fixed
+- Fixed localised country name for current country.
+- Fixed translation keys for AU/NZ.
+
 
 v0.21.0
 ------------------------------
