@@ -194,13 +194,8 @@
         "altText": "Mastercard"
       }
     ],
-    "currentCountry": {
-      "name": "denmark",
-      "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-      "localisedName": "Danmark",
-      "siteUrl": "https://www.justeat.it"
-    },
-<<<<<<< HEAD
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.dk.svg",
+    "currentCountryLocalisedName": "Danmark",
     "countries": [
       {
         "name": "australia",
@@ -465,51 +460,8 @@
         "altText": ""
       }
     ],
-    "currentCountry": {
-      "name": "spain",
-      "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-      "localisedName": "España",
-      "siteUrl": "https://www.justeat.it"
-=======
-    "en-AU": {
-        "currentCountryName": "Australia",
-        "companyName": "Menulog",
-        "customerService": "",
-        "cuisines": "Cuisines",
-        "towns": "Cities",
-        "about-us": "About us",
-        "feedback": "Feedback",
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
-        "vatInfo": "",
-        "downloadOurApps": "Download our apps",
-        "iosAppAltText": "Download on the App Store",
-        "androidAppAltText": "Get it on Google Play",
-        "followUs": "Follow us",
-        "facebookIconAltText": "Facebook",
-        "twitterIconAltText": "Twitter",
-        "blogIconAltText": "Menulog Blog",
-        "instagramIconAltText": "Instagram",
-        "mastercardSecurecodeIconAltText": "Mastercard",
-        "visaIconAltText": "VISA",
-        "amexSafekeyIconAltText": "American Express",
-        "paypalIconAltText": "Paypal",
-        "localised-australia": "Australia",
-        "localised-brazil": "Brazil",
-        "localised-canada": "Canada",
-        "localised-denmark": "Denmark",
-        "localised-france": "France",
-        "localised-ireland": "Ireland",
-        "localised-italy": "Italy",
-        "localised-newZealand": "New Zealand",
-        "localised-norway": "Norway",
-        "localised-spain": "Spain",
-        "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom",
-        "buttonClose": "Close",
-        "changeCurrentCountry": "You are on the Australian website. Click here to change."
->>>>>>> refs/remotes/justeat/master
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.es.svg",
+    "currentCountryLocalisedName": "España",
     "countries": [
       {
         "name": "australia",
@@ -764,12 +716,8 @@
         "altText": "American Express"
       }
     ],
-    "currentCountry": {
-      "name": "uk",
-      "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-      "localisedName": "United Kingdom",
-      "siteUrl": "https://www.justeat.it"
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.gb.svg",
+    "currentCountryLocalisedName": "United Kingdom",
     "countries": [
       {
         "name": "australia",
@@ -1014,12 +962,8 @@
         "altText": "PayPal"
       }
     ],
-    "currentCountry": {
-      "name": "italy",
-      "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-      "localisedName": "Italia",
-      "siteUrl": "https://www.justeat.it"
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.it.svg",
+    "currentCountryLocalisedName": "Italia",
     "countries": [
       {
         "name": "australia",
@@ -1264,13 +1208,8 @@
         "altText": "Visa"
       }
     ],
-    "currentCountry": {
-      "name": "ireland",
-      "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-      "localisedName": "Ireland",
-      "siteUrl": "https://www.justeat.it"
-    },
-<<<<<<< HEAD
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ie.svg",
+    "currentCountryLocalisedName": "Ireland",
     "countries": [
       {
         "name": "australia",
@@ -1501,51 +1440,8 @@
         "altText": "Mastercard"
       }
     ],
-    "currentCountry": {
-      "name": "norway",
-      "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-      "localisedName": "Norge",
-      "siteUrl": "https://www.justeat.it"
-=======
-    "en-NZ": {
-        "currentCountryName": "New Zealand",
-        "companyName": "Menulog",
-        "customerService": "",
-        "cuisines": "Cuisines",
-        "towns": "Cities",
-        "about-us": "About us",
-        "feedback": "Feedback",
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
-        "vatInfo": "",
-        "downloadOurApps": "Download our apps",
-        "iosAppAltText": "Download on the App Store",
-        "androidAppAltText": "Get it on Google Play",
-        "followUs": "Follow us",
-        "facebookIconAltText": "Facebook",
-        "twitterIconAltText": "Twitter",
-        "blogIconAltText": "Menulog Blog",
-        "instagramIconAltText": "Instagram",
-        "mastercardSecurecodeIconAltText": "Mastercard",
-        "visaIconAltText": "VISA",
-        "amexSafekeyIconAltText": "American Express",
-        "paypalIconAltText": "Paypal",
-        "localised-australia": "Australia",
-        "localised-brazil": "Brazil",
-        "localised-canada": "Canada",
-        "localised-denmark": "Denmark",
-        "localised-france": "France",
-        "localised-ireland": "Ireland",
-        "localised-italy": "Italy",
-        "localised-newZealand": "New Zealand",
-        "localised-norway": "Norway",
-        "localised-spain": "Spain",
-        "localised-switzerland": "Switzerland",
-        "localised-unitedKingdom": "United Kingdom",
-        "buttonClose": "Close",
-        "changeCurrentCountry": "You are on the New Zealand website. Click here to change."
->>>>>>> refs/remotes/justeat/master
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.no.svg",
+    "currentCountryLocalisedName": "Norge",
     "countries": [
       {
         "name": "australia",
@@ -1820,12 +1716,8 @@
         "altText": "Interac Online"
       }
     ],
-    "currentCountry": {
-      "name": "canada",
-      "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-      "localisedName": "Canada",
-      "siteUrl": "https://www.justeat.it"
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ca.svg",
+    "currentCountryLocalisedName": "Canada",
     "countries": [
       {
         "name": "australia",
@@ -2096,12 +1988,8 @@
         "altText": "Interac Online"
       }
     ],
-    "currentCountry": {
-      "name": "canada",
-      "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-      "localisedName": "Canada",
-      "siteUrl": "https://www.justeat.it"
-    },
+    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ca.svg",
+    "currentCountryLocalisedName": "Canada",
     "countries": [
       {
         "name": "australia",
