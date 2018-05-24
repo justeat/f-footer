@@ -36,8 +36,8 @@ The footer HTML can be imported into your project using Handlebars.
 
 The templates themselves are in the /footer folder in the /templates directory.
 
-The data required to build the templates is in the /resources folder in the /templates directory, in the file footer.json. This contains all of the translations for the various tenants. The data is structured as an array, with each item in the array consisting of the data for one tenant.
+The data required to build the templates is in the /resources folder in the /templates directory, in the file footer.json. This contains all of the translations for the various tenants. The data is structured as an object, with each property in the object consisting of the data for one tenant.
 
-When building the templates, you will need to specify the data source for the current tenant by Iterating through the array items, looking for the 'culture' property (e.g. where "culture" = "da-DK"). 
+When building the templates, the i18n Handlebars helper will use the data for the current tenant by iterating through the property items for the 'culture' that has been passed in via the model.
 
 ## Documentation to be completed once module is in stable state.

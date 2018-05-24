@@ -9,9 +9,9 @@ v0.24.0
 *May 23, 2018*
 
 ### Changed
-- restructure the footer.json file to remove dependency on parent project data.
-- update the handlebars files to allow the i18n handlebars helper to work in list iterations.
-- integrate lookup helper to import data via the model passed in to the template loader
+- Restructure the footer.json file to remove dependency on parent project data.
+- Update the handlebars files to allow the i18n handlebars helper to work in list iterations.
+- Integrate lookup helper to import data via the model passed in to the template loader
 
 
 v0.23.0
