@@ -18,7 +18,9 @@
                 <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
                 <p>{{ i18n "currentCountryLocalisedName" }}</p>
             </button>
-            <img class="c-countrySelector-cross" src="{{ miscIconPaths.crossIconUrl }}" data-toggle-target="countrySelector-list" alt="" />
+            <button type="button" class="o-btnLink" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
+                <img class="c-countrySelector-cross" src="{{ miscIconPaths.crossIconUrl }}" alt="" />
+            </button>
         </li>
     </ul>
 </div>
