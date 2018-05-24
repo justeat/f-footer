@@ -1,2062 +1,2038 @@
 {
-  "da-DK": {
-    "culture": "da-DK",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Kundeservice",
-    "links": [
-      {
-        "url": "/help",
-        "text": "Hjælp"
-      },
-      {
-        "url": "https://external-ordering.gavekortet.dk/justeat",
-        "text": "Gavekort"
-      },
-      {
-        "url": "/takeaway/prisgaranti",
-        "text": "Prisgaranti"
-      },
-      {
-        "url": "/takeaway/firmaaftale",
-        "text": "Firmaaftale"
-      },
-      {
-        "url": "http://blog.just-eat.dk/",
-        "text": "Just Eat Blog"
-      },
-      {
-        "url": "http://justeat-premium.dk/",
-        "text": "Just Eat Premium"
-      }
-    ],
-    "cuisines": "Hvad har du lyst til?",
-    "cuisineLinks": [
-      {
-        "url": "/takeaway",
-        "text": "Takeaway"
-      },
-      {
-        "url": "/takeaway/italiensk",
-        "text": "Pizza"
-      },
-      {
-        "url": "/takeaway/sushi",
-        "text": "Sushi"
-      },
-      {
-        "url": "/takeaway/indisk",
-        "text": "Indisk"
-      },
-      {
-        "url": "/takeaway/kinesisk",
-        "text": "Kinesisk"
-      },
-      {
-        "url": "/takeaway/amerikansk",
-        "text": "Amerikansk & burger"
-      },
-      {
-        "url": "/takeaway/premium-gourmet",
-        "text": "Premium & Gourmet"
-      },
-      {
-        "url": "/takeaway/typer-foedevarer",
-        "text": "Alle køkkentyper"
-      }
-    ],
-    "towns": "Find din by",
-    "locationLinks": [
-      {
-        "url": "/takeaway/koebenhavn",
-        "text": "København"
-      },
-      {
-        "url": "/takeaway/roskilde",
-        "text": "Roskilde"
-      },
-      {
-        "url": "/takeaway/aarhus",
-        "text": "Aarhus"
-      },
-      {
-        "url": "/takeaway/odense",
-        "text": "Odense"
-      },
-      {
-        "url": "/takeaway/aalborg",
-        "text": "Aalborg"
-      },
-      {
-        "url": "/takeaway/kgs-lyngby",
-        "text": "Lyngby"
-      },
-      {
-        "url": "/takeaway/alle-byer",
-        "text": "Alle byer"
-      }
-    ],
-    "aboutUs": "Om os",
-    "aboutUsLinks": [
-      {
-        "url": "http://justeat-partner.dk/",
-        "text": "Restaurant påmelding"
-      },
-      {
-        "url": "/about",
-        "text": "Hvem er vi"
-      },
-      {
-        "url": "https://partner.just-eat.dk/",
-        "text": "Partner centre"
-      },
-      {
-        "url": "http://partnerblog.just-eat.dk/",
-        "text": "Partnerblog"
-      },
-      {
-        "url": "/jobs",
-        "text": "Trabaja con nosotros"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "Handelsbetingelser"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "Brug af cookies"
-      }
-    ],
-    "downloadOurApps": "Download vores app",
-    "appStoreIcons": [
-      {
-        "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=109400&my_campaign=website-app-page",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Hent i App Store"
-      },
-      {
-        "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=108390&my_campaign=website-app-page",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Hent i Google Play"
-      },
-      {
-        "url": "https://www.microsoft.com/store/apps/9nblggh4vk8q",
-        "key": "microsoft",
-        "iconSrc": "/gw/img/icons/appstore/microsoft.dk.svg",
-        "altText": "Hent i Windows Store"
-      }
-    ],
-    "followUs": "Følg os",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/JustEatDK/",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/justeatdk",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.instagram.com/justeatdk/?hl=dk",
-        "key": "instagram",
-        "iconSrc": "/gw/img/icons/social/icon-instagram.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Feedback",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "dk",
-        "iconSrc": "/gw/img/icons/cards/dk.svg",
-        "altText": "Dankort"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.dk.svg",
-    "currentCountryLocalisedName": "Danmark",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australien",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brasilien",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canada",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "Frankrig",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Irland",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italien",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "New Zealand",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norge",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Schweiz",
-        "siteUrl": "http://www.eat.ch"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spanien",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "Storbritannien",
-        "siteUrl": "https://www.just-eat.co.uk"
-      }
-    ]
-  },
-  "es-ES": {
-    "culture": "es-ES",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Atención al cliente",
-    "links": [
-      {
-        "url": "https://restaurantes.just-eat.es/",
-        "text": "¿Tienes un restaurante?"
-      },
-      {
-        "url": "/contact",
-        "text": "Quienes somos"
-      },
-      {
-        "url": "https://partner.just-eat.es/",
-        "text": "Mi Restaurante"
-      },
-      {
-        "url": "/blog",
-        "text": "Blog"
-      },
-      {
-        "url": "/apps",
-        "text": "Mobile apps"
-      },
-      {
-        "url": "/suggest-a-restaurant",
-        "text": "Sugiérenos un restaurante"
-      },
-      {
-        "url": "/faq",
-        "text": "Ayuda"
-      }
-    ],
-    "cuisines": "Tipos de cocina",
-    "cuisineLinks": [
-      {
-        "url": "/adomicilio/pizza",
-        "text": "Pizza a domicilio"
-      },
-      {
-        "url": "/adomicilio/kebab",
-        "text": "Kebab a domicilio"
-      },
-      {
-        "url": "/adomicilio/comida-china",
-        "text": "Comida china a domicilio"
-      },
-      {
-        "url": "/adomicilio/sushi",
-        "text": "Sushi a domicilio"
-      },
-      {
-        "url": "/adomicilio/hamburguesas",
-        "text": "Hamburguesas a domicilio"
-      },
-      {
-        "url": "/adomicilio/tipos-de-comida",
-        "text": "Más comida a domicilio"
-      }
-    ],
-    "towns": "Ciudades",
-    "locationLinks": [
-      {
-        "url": "/adomicilio/madrid",
-        "text": "Madrid"
-      },
-      {
-        "url": "/adomicilio/barcelona",
-        "text": "Barcelona"
-      },
-      {
-        "url": "/adomicilio/valencia",
-        "text": "Valencia"
-      },
-      {
-        "url": "/adomicilio/zaragoza",
-        "text": "Zaragoza"
-      },
-      {
-        "url": "/adomicilio/coruna",
-        "text": "A Coruña"
-      },
-      {
-        "url": "/adomicilio/localidades",
-        "text": "Más ciudades"
-      }
-    ],
-    "aboutUs": "Sobre nosotros",
-    "aboutUsLinks": [
-      {
-        "url": "/adomicilio/garantia-de-precio",
-        "text": "Garantía de precio"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "TyCs"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "Cookies"
-      },
-      {
-        "url": "/adomicilio/ofertas-localidades",
-        "text": "Ofertas"
-      },
-      {
-        "url": "/press-info",
-        "text": "Prensa"
-      },
-      {
-        "url": "/jobs",
-        "text": "Trabaja con nosotros"
-      }
-    ],
-    "downloadOurApps": "Descárgate la app",
-    "appStoreIcons": [
-      {
-        "url": "https://itunes.apple.com/es/app/just-eat/id615238455?&mt=8",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Consíguelo en el App Store"
-      },
-      {
-        "url": "https://play.google.com/store/apps/details?id=com.justeat.app.es",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Disponible en Google play"
-      }
-    ],
-    "followUs": "Síguenos",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/JustEat.es",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/JustEat_es",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://plus.google.com/+Just-eatEs",
-        "key": "google-plus",
-        "iconSrc": "/gw/img/icons/social/icon-google-plus.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.instagram.com/justeat_es/",
-        "key": "instagram",
-        "iconSrc": "/gw/img/icons/social/icon-instagram.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Opinión",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "amex--safekey",
-        "iconSrc": "/gw/img/icons/cards/amex--safekey.svg",
-        "altText": "American Express"
-      },
-      {
-        "type": "card",
-        "key": "paypal",
-        "iconSrc": "/gw/img/icons/cards/paypal.svg",
-        "altText": "PayPal"
-      },
-      {
-        "type": "certificate",
-        "key": "confianza",
-        "iconSrc": "/gw/img/icons/cards/confianza.svg",
-        "altText": ""
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.es.svg",
-    "currentCountryLocalisedName": "España",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brasil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canadá",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Dinamarca",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "Francia",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Irlanda",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italia",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Noruega",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "Nueva Zelanda",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "Reino Unido",
-        "siteUrl": "https://www.just-eat.co.uk"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Suiza",
-        "siteUrl": "http://www.eat.ch"
-      }
-    ]
-  },
-  "en-GB": {
-    "culture": "en-GB",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Customer service",
-    "links": [
-      {
-        "url": "/help",
-        "text": "Contact us"
-      },
-      {
-        "url": "/account/login",
-        "text": "Log in"
-      },
-      {
-        "url": "/account/register",
-        "text": "Sign up"
-      },
-      {
-        "url": "/blog",
-        "text": "Blog"
-      },
-      {
-        "url": "/apps",
-        "text": "Mobile apps"
-      },
-      {
-        "url": "/suggest-a-restaurant",
-        "text": "Suggest a restaurant"
-      },
-      {
-        "url": "/member/updateuserinfo",
-        "text": "My account"
-      }
-    ],
-    "cuisines": "Top cuisines",
-    "cuisineLinks": [
-      {
-        "url": "/chinese-takeaways",
-        "text": "Chinese"
-      },
-      {
-        "url": "/indian-takeaways",
-        "text": "Indian"
-      },
-      {
-        "url": "/italian-takeaways",
-        "text": "Italian"
-      },
-      {
-        "url": "/japanese-takeaways",
-        "text": "Japanese"
-      },
-      {
-        "url": "/pizza-delivery",
-        "text": "Pizza delivery"
-      },
-      {
-        "url": "/cuisine",
-        "text": "View all cuisines"
-      }
-    ],
-    "towns": "Locations",
-    "locationLinks": [
-      {
-        "url": "/birmingham-takeaway",
-        "text": "Birmingham"
-      },
-      {
-        "url": "/cardiff-takeaway",
-        "text": "Cardiff"
-      },
-      {
-        "url": "/glasgow-takeaway",
-        "text": "Glasgow"
-      },
-      {
-        "url": "/leeds-takeaway",
-        "text": "Leeds"
-      },
-      {
-        "url": "/manchester-takeaway",
-        "text": "Manchester"
-      },
-      {
-        "url": "/takeaway",
-        "text": "View all locations"
-      }
-    ],
-    "aboutUs": "A bit more about us",
-    "aboutUsLinks": [
-      {
-        "url": "https://restaurants.just-eat.co.uk/",
-        "text": "Restaurant sign up"
-      },
-      {
-        "url": "/pricepromise",
-        "text": "Price promise"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "How do we use cookies?"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "Privacy policy"
-      },
-      {
-        "url": "/termsandconditions",
-        "text": "Terms and Conditions"
-      },
-      {
-        "url": "/about",
-        "text": "About us"
-      },
-      {
-        "url": "/",
-        "text": "Company website"
-      },
-      {
-        "url": "https://careers.just-eat.com/",
-        "text": "Jobs"
-      }
-    ],
-    "downloadOurApps": "Download our apps",
-    "appStoreIcons": [
-      {
-        "url": "https://179046.measurementapi.com/serve?action=click&publisher_id=179046&site_id=106656&my_campaign=q4-2015",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Download on the App Store"
-      },
-      {
-        "url": "https://q2d-a.tlnk.io/serve?action=click&publisher_id=170720&site_id=106644&invoke_id=178925&my_campaign=website-app-page",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Get it on Google Play"
-      }
-    ],
-    "followUs": "Follow us",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/justeat",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/JustEatUK",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.youtube.com/user/TVjusteat",
-        "key": "youtube",
-        "iconSrc": "/gw/img/icons/social/icon-youtube.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Feedback",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "amex--safekey",
-        "iconSrc": "/gw/img/icons/cards/amex--safekey.svg",
-        "altText": "American Express"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.gb.svg",
-    "currentCountryLocalisedName": "United Kingdom",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brazil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canada",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Denmark",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "France",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Ireland",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italy",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "New Zealand",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norway",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spain",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Switzerland",
-        "siteUrl": "http://www.eat.ch"
-      }
-    ]
-  },
-  "it-IT": {
-    "culture": "it-IT",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Servizio Clienti",
-    "links": [
-      {
-        "url": "/help",
-        "text": "Contatti"
-      },
-      {
-        "url": "/account/login",
-        "text": "Affiliazione ristoranti"
-      },
-      {
-        "url": "/account/register",
-        "text": "Partner centre"
-      },
-      {
-        "url": "/blog",
-        "text": "Suggerisci un ristorante"
-      },
-      {
-        "url": "/apps",
-        "text": "Aiuto?"
-      }
-    ],
-    "cuisines": "Cucine",
-    "cuisineLinks": [
-      {
-        "url": "/domicilio/pizza",
-        "text": "Pizza a domicilio"
-      },
-      {
-        "url": "/domicilio/cinese",
-        "text": "Cinese a domicilio"
-      },
-      {
-        "url": "/domicilio/sushi",
-        "text": "Sushi a domicilio"
-      },
-      {
-        "url": "/domicilio/hamburger",
-        "text": "Hamburger a domicilio"
-      },
-      {
-        "url": "/domicilio/tipi-cucina",
-        "text": "Tutti i tipi di cucine"
-      }
-    ],
-    "towns": "Città",
-    "locationLinks": [
-      {
-        "url": "/domicilio/palermo",
-        "text": "Palermo"
-      },
-      {
-        "url": "/domicilio/roma",
-        "text": "Roma"
-      },
-      {
-        "url": "/domicilio/milano",
-        "text": "Milano"
-      },
-      {
-        "url": "/domicilio/napoli",
-        "text": "Napoli"
-      },
-      {
-        "url": "/domicilio/Torino",
-        "text": "Torino"
-      },
-      {
-        "url": "/domicilio/bologna",
-        "text": "Bologna"
-      },
-      {
-        "url": "/domicilio/citta",
-        "text": "Tutte le città"
-      },
-      {
-        "url": "/domicilio/citta-offerte",
-        "text": "Offerte e Sconti"
-      }
-    ],
-    "aboutUs": "Chi siamo",
-    "aboutUsLinks": [
-      {
-        "url": "/privacy-policy",
-        "text": "Termini e Condizioni"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "Cookie Policy"
-      },
-      {
-        "url": "/about",
-        "text": "Informazioni su Just Eat"
-      },
-      {
-        "url": "/faq",
-        "text": "Domande frequenti"
-      },
-      {
-        "url": "/domicilio/miglior-prezzo-garantito",
-        "text": "Miglior Prezzo Garantito"
-      },
-      {
-        "url": "/jobs",
-        "text": "Lavora con noi"
-      },
-      {
-        "url": "/press-info",
-        "text": "Area stampa"
-      },
-      {
-        "url": "/app",
-        "text": "Le nostre App"
-      }
-    ],
-    "downloadOurApps": "Scarica l'app",
-    "appStoreIcons": [
-      {
-        "url": "https://itunes.apple.com/it/app/justeat.it-ristoranti-domicilio/id495607955?mt=8",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Scarica su App Store"
-      },
-      {
-        "url": "https://play.google.com/store/apps/details?id=com.justeat.app.it",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Disponibile su Google Play"
-      }
-    ],
-    "followUs": "Seguici su:",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/justeatitaly",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/JustEat_it",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Feedback",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "paypal",
-        "iconSrc": "/gw/img/icons/cards/paypal.svg",
-        "altText": "PayPal"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.it.svg",
-    "currentCountryLocalisedName": "Italia",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brasile",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canada",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Danimarca",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "Francia",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Irlanda",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norvegia",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "Nuova Zelanda",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "Regno Unito",
-        "siteUrl": "https://www.just-eat.co.uk"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spagna",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Svizzera",
-        "siteUrl": "http://www.eat.ch"
-      }
-    ]
-  },
-  "en-IE": {
-    "culture": "en-IE",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Customer service",
-    "links": [
-      {
-        "url": "/contact",
-        "text": "Contact us"
-      },
-      {
-        "url": "/faq",
-        "text": "FAQs"
-      },
-      {
-        "url": "/pricepromise",
-        "text": "Price Promise"
-      },
-      {
-        "url": "http://www.getmoreorders.ie/",
-        "text": "Restaurant sign-up"
-      },
-      {
-        "url": "https://partner.just-eat.ie/",
-        "text": "Partner centre"
-      }
-    ],
-    "cuisines": "Popular cuisines",
-    "cuisineLinks": [
-      {
-        "url": "/takeaways/chinese",
-        "text": "Order Chinese"
-      },
-      {
-        "url": "/takeaways/pizza",
-        "text": "Order Pizza"
-      },
-      {
-        "url": "/takeaways/traditional-chipper",
-        "text": "Order Fish & Chips"
-      },
-      {
-        "url": "/takeaways/indian",
-        "text": "Order Indian"
-      },
-      {
-        "url": "/takeaways/kebab",
-        "text": "Order Kebab"
-      },
-      {
-        "url": "/takeaways/cuisine-types",
-        "text": "View all cuisines"
-      }
-    ],
-    "towns": "Popular locations",
-    "locationLinks": [
-      {
-        "url": "/takeaways/dublin-area",
-        "text": "Dublin"
-      },
-      {
-        "url": "/takeaways/cork-city-centre",
-        "text": "Cork"
-      },
-      {
-        "url": "/takeaways/galway-city-centre",
-        "text": "Galway"
-      },
-      {
-        "url": "/takeaways/limerick-city-centre",
-        "text": "Limerick"
-      },
-      {
-        "url": "/takeaways/waterford-city-centre",
-        "text": "Waterford"
-      },
-      {
-        "url": "/takeaways/locations",
-        "text": "View all locations"
-      }
-    ],
-    "aboutUs": "About us",
-    "aboutUsLinks": [
-      {
-        "url": "/about",
-        "text": "About us"
-      },
-      {
-        "url": "/takeaways",
-        "text": "Browse Takeaways"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "Privacy Policy"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "Cookie Policy"
-      },
-      {
-        "url": "http://www.justeatshop.ie/gift-vouchers",
-        "text": "Just Eat Gift Cards"
-      },
-      {
-        "url": "/blog",
-        "text": "Just Eat Blog"
-      }
-    ],
-    "downloadOurApps": "Download our apps",
-    "appStoreIcons": [
-      {
-        "url": "https://170722.measurementapi.com/serve?action=click&publisher_id=170722&site_id=109406&my_campaign=IEHomepageOngoing&my_publisher=IEHomePage&my_site=just-eat.ie&my_placement=IE4thBox",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Download on the App Store"
-      },
-      {
-        "url": "https://170722.measurementapi.com/serve?action=click&publisher_id=170722&site_id=108388&my_campaign=IEHomepageOngoing&my_publisher=IEHomePage&my_site=just-eat.ie&my_placement=IE4thBox",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Get it on Google Play"
-      }
-    ],
-    "followUs": "Follow us",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/JustEatIreland",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.twitter.com/JustEatIE",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.google.com/+JusteatIe1",
-        "key": "google-plus",
-        "iconSrc": "/gw/img/icons/social/icon-google-plus.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://instagram.com/justeatie/",
-        "key": "instagram",
-        "iconSrc": "/gw/img/icons/social/icon-instagram.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.pinterest.com/justeatie/",
-        "key": "pinterest",
-        "iconSrc": "/gw/img/icons/social/icon-pinterest.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Feedback",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ie.svg",
-    "currentCountryLocalisedName": "Ireland",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brazil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canada",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Denmark",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "France",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italy",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "New Zealand",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norway",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spain",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Switzerland",
-        "siteUrl": "http://www.eat.ch"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "United Kingdom",
-        "siteUrl": "https://www.just-eat.co.uk"
-      }
-    ]
-  },
-  "nb-NO": {
-    "culture": "nb-NO",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Kundeservice",
-    "links": [
-      {
-        "url": "/help",
-        "text": "Hjelp"
-      },
-      {
-        "url": "/account/login",
-        "text": "Gavekort"
-      },
-      {
-        "url": "/account/register",
-        "text": "Just Eat Blog"
-      },
-      {
-        "url": "/blog",
-        "text": "Just Eat Premium"
-      }
-    ],
-    "cuisines": "Hva frister?",
-    "cuisineLinks": [
-      {
-        "url": "/take-away",
-        "text": "Take-away"
-      },
-      {
-        "url": "/take-away/italiensk",
-        "text": "Pizza"
-      },
-      {
-        "url": "/take-away/sushi",
-        "text": "Sushi"
-      },
-      {
-        "url": "/take-away/indisk",
-        "text": "Indisk"
-      },
-      {
-        "url": "/take-away/thaimat",
-        "text": "Thaimat"
-      },
-      {
-        "url": "/take-away/kebab",
-        "text": "Kebab"
-      },
-      {
-        "url": "/take-away/cuisines",
-        "text": "Alle kjøkkentyper"
-      }
-    ],
-    "towns": "Finn din by",
-    "locationLinks": [
-      {
-        "url": "/take-away/Oslo",
-        "text": "Oslo"
-      },
-      {
-        "url": "/take-away/Bergen",
-        "text": "Bergen"
-      },
-      {
-        "url": "/take-away/Trondheim",
-        "text": "Trondheim"
-      },
-      {
-        "url": "/take-away/Drammen",
-        "text": "Drammen"
-      },
-      {
-        "url": "/take-away/Fredrikstad",
-        "text": "Fredrikstad"
-      },
-      {
-        "url": "/take-away/Asker",
-        "text": "Asker & Bærum"
-      },
-      {
-        "url": "/take-away/cities",
-        "text": "Alle byer"
-      }
-    ],
-    "aboutUs": "Om oss",
-    "aboutUsLinks": [
-      {
-        "url": "https://www.just-eat.no/take-away/bedrift-overtidsmat",
-        "text": "Restaurant påmelding"
-      },
-      {
-        "url": "/about",
-        "text": "Om oss"
-      },
-      {
-        "url": "https://partner.just-eat.no/",
-        "text": "Partner centre"
-      },
-      {
-        "url": "/jobs",
-        "text": "Ledige stillinger"
-      },
-      {
-        "url": "/cookiespolicy",
-        "text": "Cookies"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "Handelsvilkår"
-      }
-    ],
-    "downloadOurApps": "Last ned appen vår",
-    "appStoreIcons": [
-      {
-        "url": "https://itunes.apple.com/no/app/just-eat.no/id748246908?ls=1&mt=8",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Hent i App Store"
-      },
-      {
-        "url": "https://play.google.com/store/apps/details?id=com.justeat.app.no",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Finn den på Google Play"
-      }
-    ],
-    "followUs": "Følg oss",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/JustEatNO/",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "http://blog.just-eat.no/",
-        "key": "rss",
-        "iconSrc": "/gw/img/icons/social/icon-rss.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Tilbakemelding",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.no.svg",
-    "currentCountryLocalisedName": "Norge",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brasil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "canada",
-        "flagUrl": "/gw/img/icons/flags/flag.ca.svg",
-        "localisedName": "Canada",
-        "siteUrl": "https://www.just-eat.ca"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Danmark",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "Frankrike",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Irland",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italia",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "New Zealand",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spania",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "Storbritannia",
-        "siteUrl": "https://www.just-eat.co.uk"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Sveits",
-        "siteUrl": "http://www.eat.ch"
-      }
-    ]
-  },
-  "en-CA": {
-    "culture": "en-CA",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Customer service",
-    "links": [
-      {
-        "url": "https://www.just-eat.ca/blog/moreorders/",
-        "text": "Restaurant sign-up"
-      },
-      {
-        "url": "/contact",
-        "text": "Contact Us"
-      },
-      {
-        "url": "https://partner.just-eat.ca/",
-        "text": "Partner centre"
-      },
-      {
-        "url": "/blog",
-        "text": "Blog"
-      },
-      {
-        "url": "/suggest-a-restaurant",
-        "text": "Suggest a restaurant"
-      },
-      {
-        "url": "/faq",
-        "text": "Help"
-      }
-    ],
-    "cuisines": "Cuisines",
-    "cuisineLinks": [
-      {
-        "url": "/ideas",
-        "text": "Ideas"
-      },
-      {
-        "url": "/delivery/chinese",
-        "text": "Chinese Food Delivery"
-      },
-      {
-        "url": "/delivery/pizza",
-        "text": "Pizza Delivery"
-      },
-      {
-        "url": "/delivery/sushi",
-        "text": "Sushi Delivery"
-      },
-      {
-        "url": "/delivery/thai",
-        "text": "Thai Food Delivery"
-      },
-      {
-        "url": "/delivery/indian",
-        "text": "Indian Food Delivery"
-      },
-      {
-        "url": "/delivery/greek",
-        "text": "Greek Food Delivery"
-      },
-      {
-        "url": "/delivery/cuisine-types",
-        "text": "Take out Cuisines"
-      }
-    ],
-    "towns": "Towns",
-    "locationLinks": [
-      {
-        "url": "/delivery/toronto",
-        "text": "Toronto Food Delivery"
-      },
-      {
-        "url": "/delivery/calgary",
-        "text": "Calgary Food Delivery"
-      },
-      {
-        "url": "/delivery/waterloo",
-        "text": "Waterloo Food Delivery"
-      },
-      {
-        "url": "/delivery/kitchener",
-        "text": "Kitchener Food Delivery"
-      },
-      {
-        "url": "/delivery/emonton",
-        "text": "Edmonton Food Delivery"
-      },
-      {
-        "url": "/delivery/halifax",
-        "text": "Halifax Food Delivery"
-      },
-      {
-        "url": "/delivery/mississauga",
-        "text": "Mississauga Delivery"
-      },
-      {
-        "url": "/delivery",
-        "text": "View all locations"
-      }
-    ],
-    "aboutUs": "About Us",
-    "aboutUsLinks": [
-      {
-        "url": "/pricepromise",
-        "text": "Price Promise"
-      },
-      {
-        "url": "https://www.just-eat.ca/blog/moreorders/",
-        "text": "For Restaurants"
-      },
-      {
-        "url": "/about",
-        "text": "About Us"
-      },
-      {
-        "url": "/faq",
-        "text": "FAQ's"
-      },
-      {
-        "url": "/privacy-policy",
-        "text": "Privacy Policy / Terms & Conditions"
-      },
-      {
-        "url": "/jobs",
-        "text": "Career Opportunities"
-      },
-      {
-        "url": "/press-info",
-        "text": "Press info"
-      }
-    ],
-    "downloadOurApps": "Download our apps",
-    "appStoreIcons": [
-      {
-        "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Download on the App Store"
-      },
-      {
-        "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Get it on Google Play"
-      }
-    ],
-    "followUs": "Follow us",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/just.eat.canada",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/justeatca",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://plus.google.com/107342937635884431309/about",
-        "key": "google-plus",
-        "iconSrc": "/gw/img/icons/social/icon-google-plus.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.instagram.com/justeatca/",
-        "key": "instagram",
-        "iconSrc": "/gw/img/icons/social/icon-instagram.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Feedback",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "amex--safekey",
-        "iconSrc": "/gw/img/icons/cards/amex--safekey.svg",
-        "altText": "American Express"
-      },
-      {
-        "type": "card",
-        "key": "interac",
-        "iconSrc": "/gw/img/icons/cards/interac.svg",
-        "altText": "Interac Online"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ca.svg",
-    "currentCountryLocalisedName": "Canada",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australia",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brazil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Denmark",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "France",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Ireland",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italy",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "New Zealand",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norway",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Spain",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Switzerland",
-        "siteUrl": "http://www.eat.ch"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "United Kingdom",
-        "siteUrl": "https://www.just-eat.co.uk"
-      }
-    ]
-  },
-  "fr-CA": {
-    "culture": "fr-CA",
-    "improveOurWebsiteUrl": "#",
-    "improveOurWebsite": "Help us improve our website",
-    "sendFeedback": "Send feedback",
-    "vatInfo": "",
-    "chevronUrl": "/gw/img/icons/arrows/chevron.svg",
-    "crossUrl": "/gw/img/icons/operators/cross.svg",
-    "customerService": "Service à la clientèle",
-    "links": [
-      {
-        "url": "https://restaurants.just-eat.ca/",
-        "text": "Inscrire un restaurant"
-      },
-      {
-        "url": "/fr/contact",
-        "text": "Communiquer avec nous"
-      },
-      {
-        "url": "https://partner.just-eat.ca/",
-        "text": "Centre des partenaires"
-      },
-      {
-        "url": "/fr/blog",
-        "text": "Blogue"
-      },
-      {
-        "url": "/fr/suggest-a-restaurant",
-        "text": "Suggérer un restaurant"
-      },
-      {
-        "url": "/fr/faq",
-        "text": "Aide"
-      }
-    ],
-    "cuisines": "Plats",
-    "cuisineLinks": [
-      {
-        "url": "/fr/ideas",
-        "text": "Idées de repas"
-      },
-      {
-        "url": "/delivery/fr/chinese",
-        "text": "Livraison de mets chinois"
-      },
-      {
-        "url": "/delivery/fr/thai",
-        "text": "Livraison de mets thaïs"
-      },
-      {
-        "url": "/delivery/fr/pizza",
-        "text": "Livraison de pizza"
-      },
-      {
-        "url": "/delivery/fr/indian",
-        "text": "Livraison de mets indiens"
-      },
-      {
-        "url": "/delivery/fr/burger",
-        "text": "Livraison de burgers"
-      },
-      {
-        "url": "/delivery/fr/cuisine-types",
-        "text": "Voir toutes les cuisines"
-      }
-    ],
-    "towns": "Endroits populaires",
-    "locationLinks": [
-      {
-        "url": "/delivery/fr/quebec",
-        "text": "Livraison à Québec"
-      },
-      {
-        "url": "/delivery/fr/gatineau",
-        "text": "Livraison à Gatineau"
-      },
-      {
-        "url": "/delivery/fr/montreal",
-        "text": "Livraison à Montréal"
-      },
-      {
-        "url": "/delivery/fr/laval",
-        "text": "Livraison à Laval"
-      },
-      {
-        "url": "/delivery/fr/longueuil",
-        "text": "Livraison à Longueuil"
-      },
-      {
-        "url": "/delivery/fr/lasalle",
-        "text": "Livraison à LaSalle"
-      },
-      {
-        "url": "/delivery/fr/cote-saint-luc",
-        "text": "Livraison à Côte-Saint-Luc"
-      },
-      {
-        "url": "/delivery/fr/cities",
-        "text": "Voir toutes les villes"
-      }
-    ],
-    "aboutUs": "À propos de Just Eat",
-    "aboutUsLinks": [
-      {
-        "url": "/fr/pricepromise",
-        "text": "La promesse de prix"
-      },
-      {
-        "url": "https://restaurants.just-eat.ca/",
-        "text": "Pour les restaurateurs"
-      },
-      {
-        "url": "/fr/about",
-        "text": "Qui sommes-nous?"
-      },
-      {
-        "url": "/fr/faq",
-        "text": "Foire aux questions"
-      },
-      {
-        "url": "/fr/privacy-policy",
-        "text": "Politique de confidentialité"
-      },
-      {
-        "url": "/fr/jobs",
-        "text": "Offres d’emploi"
-      },
-      {
-        "url": "/fr/jobs",
-        "text": "Médias et presse"
-      }
-    ],
-    "downloadOurApps": "Télécharger notre application",
-    "appStoreIcons": [
-      {
-        "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
-        "key": "ios",
-        "iconSrc": "/gw/img/icons/appstore/ios.svg",
-        "altText": "Download on the App Store"
-      },
-      {
-        "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
-        "key": "android",
-        "iconSrc": "/gw/img/icons/appstore/android.svg",
-        "altText": "Get it on Google Play"
-      }
-    ],
-    "followUs": "Suivez-nous",
-    "socialIcons": [
-      {
-        "url": "https://www.facebook.com/just.eat.canada",
-        "key": "facebook",
-        "iconSrc": "/gw/img/icons/social/icon-facebook.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://twitter.com/justeatca",
-        "key": "twitter",
-        "iconSrc": "/gw/img/icons/social/icon-twitter.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://plus.google.com/107342937635884431309/about",
-        "key": "google-plus",
-        "iconSrc": "/gw/img/icons/social/icon-google-plus.svg",
-        "altText": ""
-      },
-      {
-        "url": "https://www.instagram.com/justeatca/",
-        "key": "instagram",
-        "iconSrc": "/gw/img/icons/social/icon-instagram.svg",
-        "altText": ""
-      }
-    ],
-    "feedback": "Votre avis",
-    "paymentIcons": [
-      {
-        "type": "card",
-        "key": "mastercard--securecode",
-        "iconSrc": "/gw/img/icons/cards/mastercard--securecode.svg",
-        "altText": "Mastercard"
-      },
-      {
-        "type": "card",
-        "key": "visa--verified",
-        "iconSrc": "/gw/img/icons/cards/visa--verified.svg",
-        "altText": "Visa"
-      },
-      {
-        "type": "card",
-        "key": "amex--safekey",
-        "iconSrc": "/gw/img/icons/cards/amex--safekey.svg",
-        "altText": "American Express"
-      },
-      {
-        "type": "card",
-        "key": "interac",
-        "iconSrc": "/gw/img/icons/cards/interac.svg",
-        "altText": "Interac Online"
-      }
-    ],
-    "currentCountryFlagUrl": "/gw/img/icons/flags/flag.ca.svg",
-    "currentCountryLocalisedName": "Canada",
-    "countries": [
-      {
-        "name": "australia",
-        "flagUrl": "/gw/img/icons/flags/flag.au.svg",
-        "localisedName": "Australie",
-        "siteUrl": "https://www.menulog.com.au"
-      },
-      {
-        "name": "brasil",
-        "flagUrl": "/gw/img/icons/flags/flag.br.svg",
-        "localisedName": "Brésil",
-        "siteUrl": "https://www.ifood.com.br"
-      },
-      {
-        "name": "denmark",
-        "flagUrl": "/gw/img/icons/flags/flag.dk.svg",
-        "localisedName": "Danemark",
-        "siteUrl": "https://www.just-eat.dk"
-      },
-      {
-        "name": "spain",
-        "flagUrl": "/gw/img/icons/flags/flag.es.svg",
-        "localisedName": "Espagne",
-        "siteUrl": "https://www.just-eat.es"
-      },
-      {
-        "name": "france",
-        "flagUrl": "/gw/img/icons/flags/flag.fr.svg",
-        "localisedName": "France",
-        "siteUrl": "https://www.just-eat.fr/"
-      },
-      {
-        "name": "ireland",
-        "flagUrl": "/gw/img/icons/flags/flag.ie.svg",
-        "localisedName": "Irlande",
-        "siteUrl": "https://www.just-eat.ie"
-      },
-      {
-        "name": "italy",
-        "flagUrl": "/gw/img/icons/flags/flag.it.svg",
-        "localisedName": "Italie",
-        "siteUrl": "https://www.justeat.it"
-      },
-      {
-        "name": "norway",
-        "flagUrl": "/gw/img/icons/flags/flag.no.svg",
-        "localisedName": "Norvège",
-        "siteUrl": "https://www.just-eat.no"
-      },
-      {
-        "name": "newzealand",
-        "flagUrl": "/gw/img/icons/flags/flag.nz.svg",
-        "localisedName": "Nouvelle-Zélande",
-        "siteUrl": "https://www.menulog.co.nz"
-      },
-      {
-        "name": "uk",
-        "flagUrl": "/gw/img/icons/flags/flag.gb.svg",
-        "localisedName": "Royaume-Uni",
-        "siteUrl": "https://www.just-eat.co.uk"
-      },
-      {
-        "name": "switzerland",
-        "flagUrl": "/gw/img/icons/flags/flag.ch.svg",
-        "localisedName": "Suisse",
-        "siteUrl": "http://www.eat.ch"
-      }
-    ]
-  }
+    "da-DK": {
+        "culture": "da-DK",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Kundeservice",
+        "links": [
+            {
+                "url": "/help",
+                "text": "Hjælp"
+            },
+            {
+                "url": "https://external-ordering.gavekortet.dk/justeat",
+                "text": "Gavekort"
+            },
+            {
+                "url": "/takeaway/prisgaranti",
+                "text": "Prisgaranti"
+            },
+            {
+                "url": "/takeaway/firmaaftale",
+                "text": "Firmaaftale"
+            },
+            {
+                "url": "http://blog.just-eat.dk/",
+                "text": "Just Eat Blog"
+            },
+            {
+                "url": "http://justeat-premium.dk/",
+                "text": "Just Eat Premium"
+            }
+        ],
+        "cuisines": "Hvad har du lyst til?",
+        "cuisineLinks": [
+            {
+                "url": "/takeaway",
+                "text": "Takeaway"
+            },
+            {
+                "url": "/takeaway/italiensk",
+                "text": "Pizza"
+            },
+            {
+                "url": "/takeaway/sushi",
+                "text": "Sushi"
+            },
+            {
+                "url": "/takeaway/indisk",
+                "text": "Indisk"
+            },
+            {
+                "url": "/takeaway/kinesisk",
+                "text": "Kinesisk"
+            },
+            {
+                "url": "/takeaway/amerikansk",
+                "text": "Amerikansk & burger"
+            },
+            {
+                "url": "/takeaway/premium-gourmet",
+                "text": "Premium & Gourmet"
+            },
+            {
+                "url": "/takeaway/typer-foedevarer",
+                "text": "Alle køkkentyper"
+            }
+        ],
+        "towns": "Find din by",
+        "locationLinks": [
+            {
+                "url": "/takeaway/koebenhavn",
+                "text": "København"
+            },
+            {
+                "url": "/takeaway/roskilde",
+                "text": "Roskilde"
+            },
+            {
+                "url": "/takeaway/aarhus",
+                "text": "Aarhus"
+            },
+            {
+                "url": "/takeaway/odense",
+                "text": "Odense"
+            },
+            {
+                "url": "/takeaway/aalborg",
+                "text": "Aalborg"
+            },
+            {
+                "url": "/takeaway/kgs-lyngby",
+                "text": "Lyngby"
+            },
+            {
+                "url": "/takeaway/alle-byer",
+                "text": "Alle byer"
+            }
+        ],
+        "aboutUs": "Om os",
+        "aboutUsLinks": [
+            {
+                "url": "http://justeat-partner.dk/",
+                "text": "Restaurant påmelding"
+            },
+            {
+                "url": "/about",
+                "text": "Hvem er vi"
+            },
+            {
+                "url": "https://partner.just-eat.dk/",
+                "text": "Partner centre"
+            },
+            {
+                "url": "http://partnerblog.just-eat.dk/",
+                "text": "Partnerblog"
+            },
+            {
+                "url": "/jobs",
+                "text": "Trabaja con nosotros"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Handelsbetingelser"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Brug af cookies"
+            }
+        ],
+        "downloadOurApps": "Download vores app",
+        "appStoreIcons": [
+            {
+                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=109400&my_campaign=website-app-page",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Hent i App Store"
+            },
+            {
+                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=108390&my_campaign=website-app-page",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Hent i Google Play"
+            },
+            {
+                "url": "https://www.microsoft.com/store/apps/9nblggh4vk8q",
+                "key": "microsoft",
+                "iconSrc": "microsoftIconSrc",
+                "altText": "Hent i Windows Store"
+            }
+        ],
+        "followUs": "Følg os",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/JustEatDK/",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/justeatdk",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/justeatdk/?hl=dk",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "dk",
+                "iconSrc": "dkIconSrc",
+                "altText": "Dankort"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            }
+        ],
+        "currentCountryLocalisedName": "Danmark",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australien",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brasilien",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "Frankrig",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Irland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italien",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norge",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Schweiz",
+                "siteUrl": "http://www.eat.ch"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spanien",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "Storbritannien",
+                "siteUrl": "https://www.just-eat.co.uk"
+            }
+        ]
+    },
+    "es-ES": {
+        "culture": "es-ES",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Atención al cliente",
+        "links": [
+            {
+                "url": "https://restaurantes.just-eat.es/",
+                "text": "¿Tienes un restaurante?"
+            },
+            {
+                "url": "/contact",
+                "text": "Quienes somos"
+            },
+            {
+                "url": "https://partner.just-eat.es/",
+                "text": "Mi Restaurante"
+            },
+            {
+                "url": "/blog",
+                "text": "Blog"
+            },
+            {
+                "url": "/apps",
+                "text": "Mobile apps"
+            },
+            {
+                "url": "/suggest-a-restaurant",
+                "text": "Sugiérenos un restaurante"
+            },
+            {
+                "url": "/faq",
+                "text": "Ayuda"
+            }
+        ],
+        "cuisines": "Tipos de cocina",
+        "cuisineLinks": [
+            {
+                "url": "/adomicilio/pizza",
+                "text": "Pizza a domicilio"
+            },
+            {
+                "url": "/adomicilio/kebab",
+                "text": "Kebab a domicilio"
+            },
+            {
+                "url": "/adomicilio/comida-china",
+                "text": "Comida china a domicilio"
+            },
+            {
+                "url": "/adomicilio/sushi",
+                "text": "Sushi a domicilio"
+            },
+            {
+                "url": "/adomicilio/hamburguesas",
+                "text": "Hamburguesas a domicilio"
+            },
+            {
+                "url": "/adomicilio/tipos-de-comida",
+                "text": "Más comida a domicilio"
+            }
+        ],
+        "towns": "Ciudades",
+        "locationLinks": [
+            {
+                "url": "/adomicilio/madrid",
+                "text": "Madrid"
+            },
+            {
+                "url": "/adomicilio/barcelona",
+                "text": "Barcelona"
+            },
+            {
+                "url": "/adomicilio/valencia",
+                "text": "Valencia"
+            },
+            {
+                "url": "/adomicilio/zaragoza",
+                "text": "Zaragoza"
+            },
+            {
+                "url": "/adomicilio/coruna",
+                "text": "A Coruña"
+            },
+            {
+                "url": "/adomicilio/localidades",
+                "text": "Más ciudades"
+            }
+        ],
+        "aboutUs": "Sobre nosotros",
+        "aboutUsLinks": [
+            {
+                "url": "/adomicilio/garantia-de-precio",
+                "text": "Garantía de precio"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "TyCs"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Cookies"
+            },
+            {
+                "url": "/adomicilio/ofertas-localidades",
+                "text": "Ofertas"
+            },
+            {
+                "url": "/press-info",
+                "text": "Prensa"
+            },
+            {
+                "url": "/jobs",
+                "text": "Trabaja con nosotros"
+            }
+        ],
+        "downloadOurApps": "Descárgate la app",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/es/app/just-eat/id615238455?&mt=8",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Consíguelo en el App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.es",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Disponible en Google play"
+            }
+        ],
+        "followUs": "Síguenos",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/JustEat.es",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/JustEat_es",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://plus.google.com/+Just-eatEs",
+                "key": "google-plus",
+                "iconSrc": "googlePlusIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/justeat_es/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Opinión",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            },
+            {
+                "type": "card",
+                "key": "paypal",
+                "iconSrc": "paypalIconSrc",
+                "altText": "PayPal"
+            },
+            {
+                "type": "certificate",
+                "key": "confianza",
+                "iconSrc": "confianzaIconSrc",
+                "altText": ""
+            }
+        ],
+        "currentCountryLocalisedName": "España",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brasil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canadá",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Dinamarca",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "Francia",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Irlanda",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italia",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Noruega",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "Nueva Zelanda",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "Reino Unido",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suiza",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
+    "en-GB": {
+        "culture": "en-GB",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Customer service",
+        "links": [
+            {
+                "url": "/help",
+                "text": "Contact us"
+            },
+            {
+                "url": "/account/login",
+                "text": "Log in"
+            },
+            {
+                "url": "/account/register",
+                "text": "Sign up"
+            },
+            {
+                "url": "/blog",
+                "text": "Blog"
+            },
+            {
+                "url": "/apps",
+                "text": "Mobile apps"
+            },
+            {
+                "url": "/suggest-a-restaurant",
+                "text": "Suggest a restaurant"
+            },
+            {
+                "url": "/member/updateuserinfo",
+                "text": "My account"
+            }
+        ],
+        "cuisines": "Top cuisines",
+        "cuisineLinks": [
+            {
+                "url": "/chinese-takeaways",
+                "text": "Chinese"
+            },
+            {
+                "url": "/indian-takeaways",
+                "text": "Indian"
+            },
+            {
+                "url": "/italian-takeaways",
+                "text": "Italian"
+            },
+            {
+                "url": "/japanese-takeaways",
+                "text": "Japanese"
+            },
+            {
+                "url": "/pizza-delivery",
+                "text": "Pizza delivery"
+            },
+            {
+                "url": "/cuisine",
+                "text": "View all cuisines"
+            }
+        ],
+        "towns": "Locations",
+        "locationLinks": [
+            {
+                "url": "/birmingham-takeaway",
+                "text": "Birmingham"
+            },
+            {
+                "url": "/cardiff-takeaway",
+                "text": "Cardiff"
+            },
+            {
+                "url": "/glasgow-takeaway",
+                "text": "Glasgow"
+            },
+            {
+                "url": "/leeds-takeaway",
+                "text": "Leeds"
+            },
+            {
+                "url": "/manchester-takeaway",
+                "text": "Manchester"
+            },
+            {
+                "url": "/takeaway",
+                "text": "View all locations"
+            }
+        ],
+        "aboutUs": "A bit more about us",
+        "aboutUsLinks": [
+            {
+                "url": "https://restaurants.just-eat.co.uk/",
+                "text": "Restaurant sign up"
+            },
+            {
+                "url": "/pricepromise",
+                "text": "Price promise"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "How do we use cookies?"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Privacy policy"
+            },
+            {
+                "url": "/termsandconditions",
+                "text": "Terms and Conditions"
+            },
+            {
+                "url": "/about",
+                "text": "About us"
+            },
+            {
+                "url": "/",
+                "text": "Company website"
+            },
+            {
+                "url": "https://careers.just-eat.com/",
+                "text": "Jobs"
+            }
+        ],
+        "downloadOurApps": "Download our apps",
+        "appStoreIcons": [
+            {
+                "url": "https://179046.measurementapi.com/serve?action=click&publisher_id=179046&site_id=106656&my_campaign=q4-2015",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://q2d-a.tlnk.io/serve?action=click&publisher_id=170720&site_id=106644&invoke_id=178925&my_campaign=website-app-page",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Follow us",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/justeat",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/JustEatUK",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.youtube.com/user/TVjusteat",
+                "key": "youtube",
+                "iconSrc": "youtubeIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            }
+        ],
+        "currentCountryLocalisedName": "United Kingdom",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brazil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Ireland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italy",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norway",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spain",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
+    "it-IT": {
+        "culture": "it-IT",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Servizio Clienti",
+        "links": [
+            {
+                "url": "/help",
+                "text": "Contatti"
+            },
+            {
+                "url": "/account/login",
+                "text": "Affiliazione ristoranti"
+            },
+            {
+                "url": "/account/register",
+                "text": "Partner centre"
+            },
+            {
+                "url": "/blog",
+                "text": "Suggerisci un ristorante"
+            },
+            {
+                "url": "/apps",
+                "text": "Aiuto?"
+            }
+        ],
+        "cuisines": "Cucine",
+        "cuisineLinks": [
+            {
+                "url": "/domicilio/pizza",
+                "text": "Pizza a domicilio"
+            },
+            {
+                "url": "/domicilio/cinese",
+                "text": "Cinese a domicilio"
+            },
+            {
+                "url": "/domicilio/sushi",
+                "text": "Sushi a domicilio"
+            },
+            {
+                "url": "/domicilio/hamburger",
+                "text": "Hamburger a domicilio"
+            },
+            {
+                "url": "/domicilio/tipi-cucina",
+                "text": "Tutti i tipi di cucine"
+            }
+        ],
+        "towns": "Città",
+        "locationLinks": [
+            {
+                "url": "/domicilio/palermo",
+                "text": "Palermo"
+            },
+            {
+                "url": "/domicilio/roma",
+                "text": "Roma"
+            },
+            {
+                "url": "/domicilio/milano",
+                "text": "Milano"
+            },
+            {
+                "url": "/domicilio/napoli",
+                "text": "Napoli"
+            },
+            {
+                "url": "/domicilio/Torino",
+                "text": "Torino"
+            },
+            {
+                "url": "/domicilio/bologna",
+                "text": "Bologna"
+            },
+            {
+                "url": "/domicilio/citta",
+                "text": "Tutte le città"
+            },
+            {
+                "url": "/domicilio/citta-offerte",
+                "text": "Offerte e Sconti"
+            }
+        ],
+        "aboutUs": "Chi siamo",
+        "aboutUsLinks": [
+            {
+                "url": "/privacy-policy",
+                "text": "Termini e Condizioni"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Cookie Policy"
+            },
+            {
+                "url": "/about",
+                "text": "Informazioni su Just Eat"
+            },
+            {
+                "url": "/faq",
+                "text": "Domande frequenti"
+            },
+            {
+                "url": "/domicilio/miglior-prezzo-garantito",
+                "text": "Miglior Prezzo Garantito"
+            },
+            {
+                "url": "/jobs",
+                "text": "Lavora con noi"
+            },
+            {
+                "url": "/press-info",
+                "text": "Area stampa"
+            },
+            {
+                "url": "/app",
+                "text": "Le nostre App"
+            }
+        ],
+        "downloadOurApps": "Scarica l'app",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/it/app/justeat.it-ristoranti-domicilio/id495607955?mt=8",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Scarica su App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.it",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Disponibile su Google Play"
+            }
+        ],
+        "followUs": "Seguici su:",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/justeatitaly",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/JustEat_it",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "paypal",
+                "iconSrc": "paypalIconSrc",
+                "altText": "PayPal"
+            }
+        ],
+        "currentCountryLocalisedName": "Italia",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brasile",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Danimarca",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "Francia",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Irlanda",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norvegia",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "Nuova Zelanda",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "Regno Unito",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spagna",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Svizzera",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
+    "en-IE": {
+        "culture": "en-IE",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Customer service",
+        "links": [
+            {
+                "url": "/contact",
+                "text": "Contact us"
+            },
+            {
+                "url": "/faq",
+                "text": "FAQs"
+            },
+            {
+                "url": "/pricepromise",
+                "text": "Price Promise"
+            },
+            {
+                "url": "http://www.getmoreorders.ie/",
+                "text": "Restaurant sign-up"
+            },
+            {
+                "url": "https://partner.just-eat.ie/",
+                "text": "Partner centre"
+            }
+        ],
+        "cuisines": "Popular cuisines",
+        "cuisineLinks": [
+            {
+                "url": "/takeaways/chinese",
+                "text": "Order Chinese"
+            },
+            {
+                "url": "/takeaways/pizza",
+                "text": "Order Pizza"
+            },
+            {
+                "url": "/takeaways/traditional-chipper",
+                "text": "Order Fish & Chips"
+            },
+            {
+                "url": "/takeaways/indian",
+                "text": "Order Indian"
+            },
+            {
+                "url": "/takeaways/kebab",
+                "text": "Order Kebab"
+            },
+            {
+                "url": "/takeaways/cuisine-types",
+                "text": "View all cuisines"
+            }
+        ],
+        "towns": "Popular locations",
+        "locationLinks": [
+            {
+                "url": "/takeaways/dublin-area",
+                "text": "Dublin"
+            },
+            {
+                "url": "/takeaways/cork-city-centre",
+                "text": "Cork"
+            },
+            {
+                "url": "/takeaways/galway-city-centre",
+                "text": "Galway"
+            },
+            {
+                "url": "/takeaways/limerick-city-centre",
+                "text": "Limerick"
+            },
+            {
+                "url": "/takeaways/waterford-city-centre",
+                "text": "Waterford"
+            },
+            {
+                "url": "/takeaways/locations",
+                "text": "View all locations"
+            }
+        ],
+        "aboutUs": "About us",
+        "aboutUsLinks": [
+            {
+                "url": "/about",
+                "text": "About us"
+            },
+            {
+                "url": "/takeaways",
+                "text": "Browse Takeaways"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Privacy Policy"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Cookie Policy"
+            },
+            {
+                "url": "http://www.justeatshop.ie/gift-vouchers",
+                "text": "Just Eat Gift Cards"
+            },
+            {
+                "url": "/blog",
+                "text": "Just Eat Blog"
+            }
+        ],
+        "downloadOurApps": "Download our apps",
+        "appStoreIcons": [
+            {
+                "url": "https://170722.measurementapi.com/serve?action=click&publisher_id=170722&site_id=109406&my_campaign=IEHomepageOngoing&my_publisher=IEHomePage&my_site=just-eat.ie&my_placement=IE4thBox",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://170722.measurementapi.com/serve?action=click&publisher_id=170722&site_id=108388&my_campaign=IEHomepageOngoing&my_publisher=IEHomePage&my_site=just-eat.ie&my_placement=IE4thBox",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Follow us",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/JustEatIreland",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.twitter.com/JustEatIE",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.google.com/+JusteatIe1",
+                "key": "google-plus",
+                "iconSrc": "googlePlusIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://instagram.com/justeatie/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.pinterest.com/justeatie/",
+                "key": "pinterest",
+                "iconSrc": "pinterestIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            }
+        ],
+        "currentCountryLocalisedName": "Ireland",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brazil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italy",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norway",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spain",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "http://www.eat.ch"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            }
+        ]
+    },
+    "nb-NO": {
+        "culture": "nb-NO",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Kundeservice",
+        "links": [
+            {
+                "url": "/help",
+                "text": "Hjelp"
+            },
+            {
+                "url": "/account/login",
+                "text": "Gavekort"
+            },
+            {
+                "url": "/account/register",
+                "text": "Just Eat Blog"
+            },
+            {
+                "url": "/blog",
+                "text": "Just Eat Premium"
+            }
+        ],
+        "cuisines": "Hva frister?",
+        "cuisineLinks": [
+            {
+                "url": "/take-away",
+                "text": "Take-away"
+            },
+            {
+                "url": "/take-away/italiensk",
+                "text": "Pizza"
+            },
+            {
+                "url": "/take-away/sushi",
+                "text": "Sushi"
+            },
+            {
+                "url": "/take-away/indisk",
+                "text": "Indisk"
+            },
+            {
+                "url": "/take-away/thaimat",
+                "text": "Thaimat"
+            },
+            {
+                "url": "/take-away/kebab",
+                "text": "Kebab"
+            },
+            {
+                "url": "/take-away/cuisines",
+                "text": "Alle kjøkkentyper"
+            }
+        ],
+        "towns": "Finn din by",
+        "locationLinks": [
+            {
+                "url": "/take-away/Oslo",
+                "text": "Oslo"
+            },
+            {
+                "url": "/take-away/Bergen",
+                "text": "Bergen"
+            },
+            {
+                "url": "/take-away/Trondheim",
+                "text": "Trondheim"
+            },
+            {
+                "url": "/take-away/Drammen",
+                "text": "Drammen"
+            },
+            {
+                "url": "/take-away/Fredrikstad",
+                "text": "Fredrikstad"
+            },
+            {
+                "url": "/take-away/Asker",
+                "text": "Asker & Bærum"
+            },
+            {
+                "url": "/take-away/cities",
+                "text": "Alle byer"
+            }
+        ],
+        "aboutUs": "Om oss",
+        "aboutUsLinks": [
+            {
+                "url": "https://www.just-eat.no/take-away/bedrift-overtidsmat",
+                "text": "Restaurant påmelding"
+            },
+            {
+                "url": "/about",
+                "text": "Om oss"
+            },
+            {
+                "url": "https://partner.just-eat.no/",
+                "text": "Partner centre"
+            },
+            {
+                "url": "/jobs",
+                "text": "Ledige stillinger"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Cookies"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Handelsvilkår"
+            }
+        ],
+        "downloadOurApps": "Last ned appen vår",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/no/app/just-eat.no/id748246908?ls=1&mt=8",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Hent i App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.no",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Finn den på Google Play"
+            }
+        ],
+        "followUs": "Følg oss",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/JustEatNO/",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "http://blog.just-eat.no/",
+                "key": "rss",
+                "iconSrc": "rssIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Tilbakemelding",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            }
+        ],
+        "currentCountryLocalisedName": "Norge",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brasil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Danmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "Frankrike",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Irland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italia",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spania",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "Storbritannia",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Sveits",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
+    "en-CA": {
+        "culture": "en-CA",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Customer service",
+        "links": [
+            {
+                "url": "https://www.just-eat.ca/blog/moreorders/",
+                "text": "Restaurant sign-up"
+            },
+            {
+                "url": "/contact",
+                "text": "Contact Us"
+            },
+            {
+                "url": "https://partner.just-eat.ca/",
+                "text": "Partner centre"
+            },
+            {
+                "url": "/blog",
+                "text": "Blog"
+            },
+            {
+                "url": "/suggest-a-restaurant",
+                "text": "Suggest a restaurant"
+            },
+            {
+                "url": "/faq",
+                "text": "Help"
+            }
+        ],
+        "cuisines": "Cuisines",
+        "cuisineLinks": [
+            {
+                "url": "/ideas",
+                "text": "Ideas"
+            },
+            {
+                "url": "/delivery/chinese",
+                "text": "Chinese Food Delivery"
+            },
+            {
+                "url": "/delivery/pizza",
+                "text": "Pizza Delivery"
+            },
+            {
+                "url": "/delivery/sushi",
+                "text": "Sushi Delivery"
+            },
+            {
+                "url": "/delivery/thai",
+                "text": "Thai Food Delivery"
+            },
+            {
+                "url": "/delivery/indian",
+                "text": "Indian Food Delivery"
+            },
+            {
+                "url": "/delivery/greek",
+                "text": "Greek Food Delivery"
+            },
+            {
+                "url": "/delivery/cuisine-types",
+                "text": "Take out Cuisines"
+            }
+        ],
+        "towns": "Towns",
+        "locationLinks": [
+            {
+                "url": "/delivery/toronto",
+                "text": "Toronto Food Delivery"
+            },
+            {
+                "url": "/delivery/calgary",
+                "text": "Calgary Food Delivery"
+            },
+            {
+                "url": "/delivery/waterloo",
+                "text": "Waterloo Food Delivery"
+            },
+            {
+                "url": "/delivery/kitchener",
+                "text": "Kitchener Food Delivery"
+            },
+            {
+                "url": "/delivery/emonton",
+                "text": "Edmonton Food Delivery"
+            },
+            {
+                "url": "/delivery/halifax",
+                "text": "Halifax Food Delivery"
+            },
+            {
+                "url": "/delivery/mississauga",
+                "text": "Mississauga Delivery"
+            },
+            {
+                "url": "/delivery",
+                "text": "View all locations"
+            }
+        ],
+        "aboutUs": "About Us",
+        "aboutUsLinks": [
+            {
+                "url": "/pricepromise",
+                "text": "Price Promise"
+            },
+            {
+                "url": "https://www.just-eat.ca/blog/moreorders/",
+                "text": "For Restaurants"
+            },
+            {
+                "url": "/about",
+                "text": "About Us"
+            },
+            {
+                "url": "/faq",
+                "text": "FAQ's"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Privacy Policy / Terms & Conditions"
+            },
+            {
+                "url": "/jobs",
+                "text": "Career Opportunities"
+            },
+            {
+                "url": "/press-info",
+                "text": "Press info"
+            }
+        ],
+        "downloadOurApps": "Download our apps",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Follow us",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/just.eat.canada",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/justeatca",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://plus.google.com/107342937635884431309/about",
+                "key": "google-plus",
+                "iconSrc": "googlePlusIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/justeatca/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            },
+            {
+                "type": "card",
+                "key": "interac",
+                "iconSrc": "interacIconSrc",
+                "altText": "Interac Online"
+            }
+        ],
+        "currentCountryLocalisedName": "Canada",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brazil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Ireland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italy",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norway",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spain",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "http://www.eat.ch"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            }
+        ]
+    },
+    "fr-CA": {
+        "culture": "fr-CA",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Service à la clientèle",
+        "links": [
+            {
+                "url": "https://restaurants.just-eat.ca/",
+                "text": "Inscrire un restaurant"
+            },
+            {
+                "url": "/fr/contact",
+                "text": "Communiquer avec nous"
+            },
+            {
+                "url": "https://partner.just-eat.ca/",
+                "text": "Centre des partenaires"
+            },
+            {
+                "url": "/fr/blog",
+                "text": "Blogue"
+            },
+            {
+                "url": "/fr/suggest-a-restaurant",
+                "text": "Suggérer un restaurant"
+            },
+            {
+                "url": "/fr/faq",
+                "text": "Aide"
+            }
+        ],
+        "cuisines": "Plats",
+        "cuisineLinks": [
+            {
+                "url": "/fr/ideas",
+                "text": "Idées de repas"
+            },
+            {
+                "url": "/delivery/fr/chinese",
+                "text": "Livraison de mets chinois"
+            },
+            {
+                "url": "/delivery/fr/thai",
+                "text": "Livraison de mets thaïs"
+            },
+            {
+                "url": "/delivery/fr/pizza",
+                "text": "Livraison de pizza"
+            },
+            {
+                "url": "/delivery/fr/indian",
+                "text": "Livraison de mets indiens"
+            },
+            {
+                "url": "/delivery/fr/burger",
+                "text": "Livraison de burgers"
+            },
+            {
+                "url": "/delivery/fr/cuisine-types",
+                "text": "Voir toutes les cuisines"
+            }
+        ],
+        "towns": "Endroits populaires",
+        "locationLinks": [
+            {
+                "url": "/delivery/fr/quebec",
+                "text": "Livraison à Québec"
+            },
+            {
+                "url": "/delivery/fr/gatineau",
+                "text": "Livraison à Gatineau"
+            },
+            {
+                "url": "/delivery/fr/montreal",
+                "text": "Livraison à Montréal"
+            },
+            {
+                "url": "/delivery/fr/laval",
+                "text": "Livraison à Laval"
+            },
+            {
+                "url": "/delivery/fr/longueuil",
+                "text": "Livraison à Longueuil"
+            },
+            {
+                "url": "/delivery/fr/lasalle",
+                "text": "Livraison à LaSalle"
+            },
+            {
+                "url": "/delivery/fr/cote-saint-luc",
+                "text": "Livraison à Côte-Saint-Luc"
+            },
+            {
+                "url": "/delivery/fr/cities",
+                "text": "Voir toutes les villes"
+            }
+        ],
+        "aboutUs": "À propos de Just Eat",
+        "aboutUsLinks": [
+            {
+                "url": "/fr/pricepromise",
+                "text": "La promesse de prix"
+            },
+            {
+                "url": "https://restaurants.just-eat.ca/",
+                "text": "Pour les restaurateurs"
+            },
+            {
+                "url": "/fr/about",
+                "text": "Qui sommes-nous?"
+            },
+            {
+                "url": "/fr/faq",
+                "text": "Foire aux questions"
+            },
+            {
+                "url": "/fr/privacy-policy",
+                "text": "Politique de confidentialité"
+            },
+            {
+                "url": "/fr/jobs",
+                "text": "Offres d’emploi"
+            },
+            {
+                "url": "/fr/jobs",
+                "text": "Médias et presse"
+            }
+        ],
+        "downloadOurApps": "Télécharger notre application",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Suivez-nous",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/just.eat.canada",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/justeatca",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://plus.google.com/107342937635884431309/about",
+                "key": "google-plus",
+                "iconSrc": "googlePlusIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/justeatca/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Votre avis",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            },
+            {
+                "type": "card",
+                "key": "interac",
+                "iconSrc": "interacIconSrc",
+                "altText": "Interac Online"
+            }
+        ],
+        "currentCountryLocalisedName": "Canada",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australie",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brésil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Danemark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Espagne",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Irlande",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italie",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norvège",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "Nouvelle-Zélande",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "uk",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "Royaume-Uni",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    }
 }

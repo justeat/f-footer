@@ -4,13 +4,27 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
-v0.22.0
+v0.24.0
 ------------------------------
-*May 18, 2018*
+*May 23, 2018*
 
 ### Changed
-- restructure the footer.json file to better integrate with the GlobalWeb project.
-- update the handlebars files to remove the dependence on the i18n handlebars helper.
+- restructure the footer.json file to remove dependency on parent project data.
+- update the handlebars files to allow the i18n handlebars helper to work in list iterations.
+- integrate lookup helper to import data via the model passed in to the template loader
+
+
+v0.23.0
+------------------------------
+*May 21, 2018*
+
+### Changed
+- Updated unit test snapshots to get the tests passing.
+- Updated docs data.
+
+### Fixed
+- Fixed localised country name for current country.
+- Fixed translation keys for AU/NZ.
 
 
 v0.21.0

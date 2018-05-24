@@ -5,7 +5,7 @@
         {{#each (i18n "appStoreIcons") as | appStoreIcon |}}
             <li>
                 <a href="{{ appStoreIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{ appStoreIcon.iconSrc }}" alt="{{ appStoreIcon.altText }}" />
+                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{  lookup ../appIconPaths appStoreIcon.iconSrc }}" alt="{{ appStoreIcon.altText }}" />
                 </a>
             </li>
         {{/each}}
@@ -19,7 +19,7 @@
         {{#each (i18n "socialIcons") as | socialIcon |}}
             <li>
                 <a href="{{ socialIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-footer-icon--social" src="{{ socialIcon.iconSrc }}" alt="{{ socialIcon.altText }}" />
+                    <img class="c-footer-icon c-footer-icon--social" src="{{ lookup ../socialIconPaths socialIcon.iconSrc }}" alt="{{ socialIcon.altText }}" />
                 </a>
             </li>
         {{/each}}
