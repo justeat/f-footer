@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v0.24.0
 ------------------------------
-*May 23, 2018*
+*May 25, 2018*
 
 ### Changed
 - Restructure the footer.json file to remove dependency on parent project data.
