@@ -4,6 +4,16 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.24.0
+------------------------------
+*May 25, 2018*
+
+### Changed
+- Restructure the footer.json file to remove dependency on parent project data.
+- Update the handlebars files to allow the i18n handlebars helper to work in list iterations.
+- Integrate lookup helper to import data via the model passed in to the template loader
+
+
 v0.23.0
 ------------------------------
 *May 21, 2018*
