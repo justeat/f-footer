@@ -4,6 +4,57 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v0.23.0
+------------------------------
+*May 21, 2018*
+
+### Changed
+- Updated unit test snapshots to get the tests passing.
+- Updated docs data.
+
+### Fixed
+- Fixed localised country name for current country.
+- Fixed translation keys for AU/NZ.
+
+
+v0.21.0
+------------------------------
+*May 14, 2018*
+
+### Added
+- Tabbing to footer headings in mobile view to allow the accordions to be opened.
+- Unit tests for the JavaScript.
+- Dependencies on `fozzie` and `lodash.debounce` and `js-test-buddy`.
+- `jest.setup.js`
+
+
+v0.20.0
+------------------------------
+*May 11, 2018*
+
+### Changed
+- Updating package dependencies
+
+
+v0.19.0
+------------------------------
+*May 4, 2018*
+
+### Added
+- Descriptive international translations for country selector when using a screen reader.
+
+### Changed
+- The cross in the country selector is now a button and can be accessed via tabbing.
+
+
+v0.18.2
+------------------------------
+*May 2, 2018*
+
+### Changed
+- Add the templates directory to the package.json.
+
+
 v0.18.1
 ------------------------------
 *April 25, 2018*
