@@ -2,10 +2,10 @@
     <h2 class="c-footer-heading">{{ i18n "downloadOurApps" }}</h2>
 
     <ul class="c-footer-list c-footer-list--inline">
-        {{#each appStoreIcons as | appStoreIcon |}}
+        {{#each (i18n "appStoreIcons") as | appStoreIcon |}}
             <li class="c-footer-list-item">
                 <a href="{{ appStoreIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{ appStoreIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n appStoreIcon.altText }}{{/with}}" />
+                    <img class="c-footer-icon c-icon--{{ appStoreIcon.key }}" src="{{  lookup ../appIconPaths appStoreIcon.iconSrc }}" alt="{{ appStoreIcon.altText }}" />
                 </a>
             </li>
         {{/each}}
@@ -16,10 +16,10 @@
     <h2 class="c-footer-heading">{{ i18n "followUs" }}</h2>
 
     <ul class="c-footer-list c-footer-list--inline">
-        {{#each socialIcons as | socialIcon |}}
+        {{#each (i18n "socialIcons") as | socialIcon |}}
             <li class="c-footer-list-item">
                 <a href="{{ socialIcon.url }}" target="_blank">
-                    <img class="c-footer-icon c-footer-icon--social" src="{{ socialIcon.iconSrc }}" alt="{{#with ../this}}{{ i18n socialIcon.altText }}{{/with}}" />
+                    <img class="c-footer-icon c-footer-icon--social" src="{{ lookup ../socialIconPaths socialIcon.iconSrc }}" alt="{{ socialIcon.altText }}" />
                 </a>
             </li>
         {{/each}}
@@ -31,6 +31,6 @@
 
     <p class="c-footer-feedbackText">
         {{ i18n "improveOurWebsite" }}
-        <a href="{{ improveOurWebsiteUrl }}">{{ i18n "sendFeedback" }}</a>
+        <a href="{{ i18n "improveOurWebsiteUrl" }}">{{ i18n "sendFeedback" }}</a>
     </p>
 </div>

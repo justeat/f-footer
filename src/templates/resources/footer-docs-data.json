@@ -1,229 +1,45 @@
 {
     "language": "it-IT",
-    "chevronUrl": "/assets/img/icons/arrows/chevron.svg",
-    "crossUrl": "/assets/img/icons/operators/cross.svg",
-    "improveOurWebsiteUrl": "#",
-    "currentCountry": {
-        "flagUrl": "/assets/img/icons/flags/flag.it.svg",
-        "localisedName": "localised-italy",
-        "siteUrl": "https://www.justeat.it"
+    "miscIconPaths": {
+        "chevronIconUrl": "/assets/img/icons/arrows/chevron.svg",
+        "crossIconUrl": "/assets/img/icons/operators/cross.svg",
+        "currentCountryFlagIconUrl": "/assets/img/icons/flags/flag.dk.svg"
     },
-    "countries": [
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.au.svg",
-            "localisedName": "localised-australia",
-            "siteUrl": "https://www.menulog.com.au"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.br.svg",
-            "localisedName": "localised-brazil",
-            "siteUrl": "https://www.ifood.com.br"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.ca.svg",
-            "localisedName": "localised-canada",
-            "siteUrl": "https://www.just-eat.ca"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.dk.svg",
-            "localisedName": "localised-denmark",
-            "siteUrl": "https://www.just-eat.dk"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.fr.svg",
-            "localisedName": "localised-france",
-            "siteUrl": "https://www.just-eat.fr"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.ie.svg",
-            "localisedName": "localised-ireland",
-            "siteUrl": "https://www.just-eat.ie"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.no.svg",
-            "localisedName": "localised-norway",
-            "siteUrl": "https://www.just-eat.no"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.nz.svg",
-            "localisedName": "localised-newZealand",
-            "siteUrl": "https://www.menulog.co.nz"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.gb.svg",
-            "localisedName": "localised-unitedKingdom",
-            "siteUrl": "https://www.just-eat.co.uk"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.es.svg",
-            "localisedName": "localised-spain",
-            "siteUrl": "https://www.just-eat.es"
-        },
-        {
-            "flagUrl": "/assets/img/icons/flags/flag.ch.svg",
-            "localisedName": "localised-switzerland",
-            "siteUrl": "http://www.eat.ch"
-        }
-
-    ],
-    "links": [
-        {
-            "url": "#",
-            "text": "Contatti"
-        },
-        {
-            "url": "#",
-            "text": "Affiliazione ristoranti"
-        },
-        {
-            "url": "#",
-            "text": "Partner centre"
-        },
-        {
-            "url": "#",
-            "text": "Suggerisci un ristorante"
-        },
-        {
-            "url": "#",
-            "text": "Aiuto?"
-        }
-    ],
-    "cuisineLinks": [
-        {
-            "url": "#",
-            "text": "Pizza a domicilio"
-        },
-        {
-            "url": "#",
-            "text": "Cinese a domicilio"
-        },
-        {
-            "url": "#",
-            "text": "Sushi a domicilio"
-        },
-        {
-            "url": "#",
-            "text": "Hamburger a domicilio"
-        },
-        {
-            "url": "#",
-            "text": "Pizza a domicilio"
-        }
-    ],
-    "locationLinks": [
-        {
-            "url": "#",
-            "text": "Palermo"
-        },
-        {
-            "url": "#",
-            "text": "Roma"
-        },
-        {
-            "url": "#",
-            "text": "Milano"
-        },
-        {
-            "url": "#",
-            "text": "Napoli"
-        },
-        {
-            "url": "#",
-            "text": "Torino"
-        },
-        {
-            "url": "#",
-            "text": "Bologna"
-        },
-        {
-            "url": "#",
-            "text": "Tutte le città"
-        },
-        {
-            "url": "#",
-            "text": "Offerte e Sconti"
-        }
-    ],
-    "aboutUsLinks": [
-        {
-            "url": "#",
-            "text": "Termini e Condizioni"
-        },
-        {
-            "url": "#",
-            "text": "Cookie Policy"
-        },
-        {
-            "url": "#",
-            "text": "Informazioni su Just Eat"
-        },
-        {
-            "url": "#",
-            "text": "Domande frequenti"
-        },
-        {
-            "url": "#",
-            "text": "Miglior Prezzo Garantito"
-        },
-        {
-            "url": "#",
-            "text": "Lavora con noi"
-        },
-        {
-            "url": "#",
-            "text": "Area stampa"
-        },
-        {
-            "url": "#",
-            "text": "Le nostre App"
-        }
-    ],
-    "appStoreIcons": [
-        {
-            "url": "#",
-            "key": "ios",
-            "iconSrc": "/assets/img/icons/appstore/ios.it.svg",
-            "altText": "iosAppAltText"
-        },
-        {
-            "url": "#",
-            "key": "android",
-            "iconSrc": "/assets/img/icons/appstore/android.it.svg",
-            "altText": "androidAppAltText"
-        }
-    ],
-    "socialIcons": [
-        {
-            "url": "#",
-            "key": "facebook",
-            "iconSrc": "/assets/img/icons/social/icon-facebook.svg",
-            "altText": "facebookIconAltText"
-        },
-        {
-            "url": "#",
-            "key": "twitter",
-            "iconSrc": "/assets/img/icons/social/icon-twitter.svg",
-            "altText": "twitterIconAltText"
-        }
-    ],
-    "paymentIcons": [
-        {
-            "type": "card",
-            "key": "mastercard--securecode",
-            "iconSrc": "/assets/img/icons/cards/mastercard--securecode.svg",
-            "altText": "mastercardSecurecodeIconAltText"
-        },
-        {
-            "type": "card",
-            "key": "visa--verified",
-            "iconSrc": "/assets/img/icons/cards/visa--verified.svg",
-            "altText": "visaVerifiedIconAltText"
-        },
-        {
-            "type": "card",
-            "key": "paypal",
-            "iconSrc": "/assets/img/icons/cards/paypal.svg",
-            "altText": "paypalIconAltText"
-        }
-    ]
+    "socialIconPaths": {
+        "facebookIconUrl": "/assets/img/icons/social/icon-facebook.svg",
+        "twitterIconUrl": "/assets/img/icons/social/icon-twitter.svg",
+        "instagramIconUrl": "/assets/img/icons/social/icon-instagram.svg",
+        "googlePlusIconUrl": "/assets/img/icons/social/icon-google-plus.svg",
+        "youtubeIconUrl": "/assets/img/icons/social/icon-youtube.svg",
+        "pinterestIconUrl": "/assets/img/icons/social/icon-pinterest.svg",
+        "rssIconUrl": "/assets/img/icons/social/icon-rss.svg"
+    },
+    "appIconPaths": {
+        "iosIconSrc": "/assets/img/icons/appstore/ios.svg",
+        "androidIconSrc": "/assets/img/icons/appstore/android.svg",
+        "microsoftIconSrc": "/assets/img/icons/appstore/microsoft.dk.svg"
+    },
+    "paymentIconPaths": {
+        "dkIconSrc": "/assets/img/icons/cards/dk.svg",
+        "visaIconSrc": "/assets/img/icons/cards/visa--verified.svg",
+        "mastercardIconSrc": "/assets/img/icons/cards/mastercard--securecode.svg",
+        "amexIconSrc": "/assets/img/icons/cards/amex--safekey.svg",
+        "paypalIconSrc": "/assets/img/icons/cards/paypal.svg",
+        "confianzaIconSrc": "/assets/img/icons/cards/confianza.svg",
+        "interacIconSrc": "/assets/img/icons/cards/interac.svg"
+    },
+    "flagIconPaths": {
+        "australiaFlagIconUrl": "/assets/img/icons/flags/flag.au.svg",
+        "brasilFlagIconUrl": "/assets/img/icons/flags/flag.br.svg",
+        "canadaFlagIconUrl": "/assets/img/icons/flags/flag.ca.svg",
+        "denmarkFlagIconUrl": "/assets/img/icons/flags/flag.dk.svg",
+        "franceFlagIconUrl": "/assets/img/icons/flags/flag.fr.svg",
+        "irelandFlagIconUrl": "/assets/img/icons/flags/flag.ie.svg",
+        "italyFlagIconUrl": "/assets/img/icons/flags/flag.it.svg",
+        "newzealandFlagIconUrl": "/assets/img/icons/flags/flag.nz.svg",
+        "norwayFlagIconUrl": "/assets/img/icons/flags/flag.no.svg",
+        "switzerlandFlagIconUrl": "/assets/img/icons/flags/flag.ch.svg",
+        "spainFlagIconUrl": "/assets/img/icons/flags/flag.es.svg",
+        "ukFlagIconUrl": "/assets/img/icons/flags/flag.gb.svg"
+    }
 }
