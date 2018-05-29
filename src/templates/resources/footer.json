@@ -6,6 +6,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Kundeservice",
+        "changeCurrentCountry": "Du er på den danske website. Klik her for at skifte.",
+        "buttonClose": "Luk",
         "links": [
             {
                 "url": "/help",
@@ -269,6 +271,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Atención al cliente",
+        "changeCurrentCountry": "Estás en Just Eat España. Haz clic aquí para cambiar país.",
+        "buttonClose": "Cerrar",
         "links": [
             {
                 "url": "https://restaurantes.just-eat.es/",
@@ -532,6 +536,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Customer service",
+        "changeCurrentCountry": "You are on the UK website. Click here to change.",
+        "buttonClose": "Close",
         "links": [
             {
                 "url": "/help",
@@ -785,6 +791,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Servizio Clienti",
+        "changeCurrentCountry": "Sei sul sito Italiano. Clicca qui per cambiare stato.",
+        "buttonClose": "Chiudi",
         "links": [
             {
                 "url": "/help",
@@ -1028,6 +1036,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Customer service",
+        "changeCurrentCountry": "You are on the Irish website. Click here to change.",
+        "buttonClose": "Close",
         "links": [
             {
                 "url": "/contact",
@@ -1271,6 +1281,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Kundeservice",
+        "changeCurrentCountry": "Du er på den norske nettsiden. Klikk her for å endre.",
+        "buttonClose": "Lukk",
         "links": [
             {
                 "url": "/help",
@@ -1500,6 +1512,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Customer service",
+        "changeCurrentCountry": "You are on the Canadian website. Click here to change.",
+        "buttonClose": "Close",
         "links": [
             {
                 "url": "https://www.just-eat.ca/blog/moreorders/",
@@ -1773,6 +1787,8 @@
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Service à la clientèle",
+        "changeCurrentCountry": "Vous êtes sur le site du Canada. Cliquez ici pour changer le pays.",
+        "buttonClose": "Fermer",
         "links": [
             {
                 "url": "https://restaurants.just-eat.ca/",
