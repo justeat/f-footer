@@ -5,10 +5,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v0.27.0
 ------------------------------
-*June 04, 2018*
+*June 05, 2018*
 
 ### Fixed
 - `chevronUrl` renamed to `chevronIconUrl` to match template shared footer model.
+
 
 v0.26.0
 ------------------------------
