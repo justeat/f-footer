@@ -784,6 +784,469 @@
             }
         ]
     },
+    "en-AU": {
+        "culture": "en-AU",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Customer service",
+        "changeCurrentCountry": "You are on the AU website. Click here to change.",
+        "buttonClose": "Close",
+        "links": [
+            {
+                "url": "/about_menulog",
+                "text": "Get to know us"
+            },
+            {
+                "url": "/careers",
+                "text": "Work with us"
+            },
+            {
+                "url": "/help",
+                "text": "Contact us"
+            }
+        ],
+        "cuisines": "Top cuisines",
+        "cuisineLinks": [
+            {
+                "url": "/browse/chinese",
+                "text": "Chinese"
+            },
+            {
+                "url": "/browse/pizza",
+                "text": "Pizza"
+            },
+            {
+                "url": "/browse/indian",
+                "text": "Indian"
+            },
+            {
+                "url": "/browse/thai",
+                "text": "Thai"
+            },
+            {
+                "url": "/browse/burgers",
+                "text": "Burgers"
+            },
+            {
+                "url": "/browse/vietnamese",
+                "text": "Vietnamese"
+            },
+            {
+                "url": "/browse/italian",
+                "text": "Italian"
+            },
+            {
+                "url": "/browse/japanese",
+                "text": "Japanese"
+            },
+            {
+                "url": "/browse",
+                "text": "View all cuisines"
+            }
+        ],
+        "towns": "Locations",
+        "locationLinks": [
+            {
+                "url": "/browse/sydney",
+                "text": "Sydney food delivery"
+            },
+            {
+                "url": "/browse/melbourne-vic",
+                "text": "Melbourne food delivery"
+            },
+            {
+                "url": "/browse/perth-wa",
+                "text": "Perth food delivery"
+            },
+            {
+                "url": "/browse/brisbane-qld",
+                "text": "Brisbane food delivery"
+            },
+            {
+                "url": "/browse/canberra-act",
+                "text": "Canberra food delivery"
+            },
+            {
+                "url": "/browse/adelaide-sa",
+                "text": "Adelaide food delivery"
+            },
+            {
+                "url": "/browse/hobart-tas",
+                "text": "Hobart food delivery"
+            },
+            {
+                "url": "/browse/gold-coast",
+                "text": "Gold Coast food delivery"
+            },
+            {
+                "url": "/browse",
+                "text": "View all cities"
+            }
+        ],
+        "aboutUs": "A bit more about us",
+        "aboutUsLinks": [
+            {
+                "url": "/press",
+                "text": "Media Centre"
+            },
+            {
+                "url": "/help",
+                "text": "Help Centre"
+            },
+            {
+                "url": "/blog",
+                "text": "Menulog Blog"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Privacy Policy / Terms & Conditions"
+            }
+        ],
+        "downloadOurApps": "Download our apps",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/au/app/id327982905?mt=8&amp;&amp;referrer=click%3D73fe5f13-4f3b-4048-9a2e-ee96d517a632&amp;&amp;referrer=click%3De31ca6d6-04b6-4e31-820b-d276ee56ffb4",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.menulog.m",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Follow us",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/Menulog.com.au/",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/menulog",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/menulog/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            },
+            {
+                "type": "card",
+                "key": "paypal",
+                "iconSrc": "paypalIconSrc",
+                "altText": "PayPal"
+            }
+        ],
+        "currentCountryLocalisedName": "Australia",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brazil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Ireland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italy",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norway",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spain",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
+    "en-NZ": {
+        "culture": "en-NZ",
+        "improveOurWebsiteUrl": "#",
+        "improveOurWebsite": "Help us improve our website",
+        "sendFeedback": "Send feedback",
+        "vatInfo": "",
+        "customerService": "Customer service",
+        "changeCurrentCountry": "You are on the NZ website. Click here to change.",
+        "buttonClose": "Close",
+        "links": [
+            {
+                "url": "/about_menulog",
+                "text": "Get to know us"
+            },
+            {
+                "url": "/careers",
+                "text": "Work with us"
+            },
+            {
+                "url": "/help",
+                "text": "Help Centre"
+            }
+        ],
+        "cuisines": "Top cuisines",
+        "cuisineLinks": [
+            {
+                "url": "/browse/chinese",
+                "text": "Chinese"
+            },
+            {
+                "url": "/browse/indian",
+                "text": "Indian"
+            },
+            {
+                "url": "/browse/thai",
+                "text": "Thai"
+            },
+            {
+                "url": "/browse/pizza",
+                "text": "Pizza"
+            },
+            {
+                "url": "/browse",
+                "text": "View all cuisines"
+            }
+        ],
+        "towns": "Locations",
+        "locationLinks": [
+            {
+                "url": "/browse/auckland-auck",
+                "text": "Auckland"
+            },
+            {
+                "url": "/browse/wellington-wel",
+                "text": "Wellington"
+            },
+            {
+                "url": "/browse/christchurch-chri",
+                "text": "Christchurch"
+            },
+            {
+                "url": "/browse/dunedin-dune",
+                "text": "Dunedin"
+            }
+        ],
+        "aboutUs": "A bit more about us",
+        "aboutUsLinks": [
+
+            {
+                "url": "/blog",
+                "text": "Menulog Blog"
+            },
+            {
+                "url": "/privacy-policy#privacy_policy",
+                "text": "Privacy Policy / Terms & Conditions"
+            }
+        ],
+        "downloadOurApps": "Download our apps",
+        "appStoreIcons": [
+            {
+                "url": "https://itunes.apple.com/nz/app/menulog-order-takeaway-food/id485249021?mt=8&&referrer=click%3D69811f6e-2144-4706-bafc-3d9ae07efd62",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "Download on the App Store"
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=nz.co.menulog.m",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "Get it on Google Play"
+            }
+        ],
+        "followUs": "Follow us",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/Menulog.co.nz",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://twitter.com/Menulog",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": ""
+            },
+            {
+                "url": "https://www.instagram.com/menulog/",
+                "key": "instagram",
+                "iconSrc": "instagramIconUrl",
+                "altText": ""
+            }
+        ],
+        "feedback": "Feedback",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "Mastercard"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "Visa"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "American Express"
+            },
+            {
+                "type": "card",
+                "key": "paypal",
+                "iconSrc": "paypalIconSrc",
+                "altText": "PayPal"
+            }
+        ],
+        "currentCountryLocalisedName": "New Zealand",
+        "countries": [
+            {
+                "name": "australia",
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "Australia",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "name": "brasil",
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "Brazil",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "name": "canada",
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "Canada",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "name": "denmark",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "name": "france",
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "France",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "name": "ireland",
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "Ireland",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "name": "italy",
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "Italy",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "name": "newzealand",
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "New Zealand",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "name": "norway",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norway",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "name": "spain",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "Spain",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "name": "switzerland",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "http://www.eat.ch"
+            }
+        ]
+    },
     "it-IT": {
         "culture": "it-IT",
         "improveOurWebsiteUrl": "#",
