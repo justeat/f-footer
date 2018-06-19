@@ -805,23 +805,6 @@
             {
                 "url": "/help",
                 "text": "Contact us"
-            },
-            {
-                "url": "/press",
-                "text": "Media Centre"
-            },
-            {
-                "url": "/help",
-                "text": "Help Centre"
-            },
-            {
-                "url": "/blog",
-                "text": "Menulog Blog"
-            },
-
-            {
-                "url": "/privacy-policy",
-                "text": "Privacy Policy / Terms & Conditions"
             }
         ],
         "cuisines": "Top cuisines",
@@ -904,7 +887,22 @@
         ],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
-
+            {
+                "url": "/press",
+                "text": "Media Centre"
+            },
+            {
+                "url": "/help",
+                "text": "Help Centre"
+            },
+            {
+                "url": "/blog",
+                "text": "Menulog Blog"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "Privacy Policy / Terms & Conditions"
+            }
         ],
         "downloadOurApps": "Download our apps",
         "appStoreIcons": [
