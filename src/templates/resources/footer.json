@@ -633,16 +633,16 @@
                 "text": "Price promise"
             },
             {
-                "url": "/cookiespolicy",
-                "text": "How do we use cookies?"
-            },
-            {
                 "url": "/privacy-policy",
                 "text": "Privacy policy"
             },
             {
                 "url": "/termsandconditions",
                 "text": "Terms and Conditions"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "Cookie Policy"
             },
             {
                 "url": "/about",
@@ -654,7 +654,12 @@
             },
             {
                 "url": "https://careers.just-eat.com/",
-                "text": "Jobs"
+                "text": "Careers"
+            },
+            {
+                "url": "https://www.justeatplc.com/download_file/view/435/1",
+                "text": "Modern Slavery Statement",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Download our apps",
