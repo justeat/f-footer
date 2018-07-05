@@ -3,6 +3,17 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v0.30.0
+------------------------------
+*July 5, 2018*
+
+### Added
+- Added UK Modern Slavery Statement footer resource
+- Added target attribute to UK "aboutUsLinks" footer section
+
+### Fixed
+- Fixed the order and labels in UK "aboutUsLinks" footer section
+
 v0.29.0
 ------------------------------
 *June 19, 2018*

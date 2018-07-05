@@ -45,7 +45,7 @@
 
     <ul class="c-footer-list">
         {{#each (i18n "aboutUsLinks") as | aboutusLink |}}
-            <li><a href="{{ aboutusLink.url }}">{{ aboutusLink.text }}</a></li>
+            <li><a href="{{ aboutusLink.url }}" {{#if aboutusLink.target}}target="{{ aboutusLink.target }}"{{/if}}>{{ aboutusLink.text }}</a></li>
         {{/each}}
     </ul>
 </div>
