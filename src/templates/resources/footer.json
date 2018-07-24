@@ -248,7 +248,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Schweiz",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             },
             {
                 "name": "spain",
@@ -525,7 +525,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Suiza",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -785,7 +785,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -1038,7 +1038,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -1248,7 +1248,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -1493,7 +1493,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Svizzera",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -1732,7 +1732,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             },
             {
                 "name": "uk",
@@ -1969,7 +1969,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Sveits",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     },
@@ -2238,7 +2238,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             },
             {
                 "name": "uk",
@@ -2515,7 +2515,7 @@
                 "name": "switzerland",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Suisse",
-                "siteUrl": "http://www.eat.ch"
+                "siteUrl": "https://www.eat.ch"
             }
         ]
     }
