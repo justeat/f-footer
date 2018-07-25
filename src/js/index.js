@@ -4,9 +4,14 @@ import { getBreakpoints } from '@justeat/fozzie';
 import debounce from 'lodash.debounce';
 
 let footerPanels;
-const breakpoints = getBreakpoints();
+let breakpoints = null;
 
 const tabindexResize = () => {
+
+    if (breakpoints === null) {
+        breakpoints = getBreakpoints();
+    }
+
     if (window.matchMedia(`(min-width: ${breakpoints.mid})`).matches) {
         footerPanels.forEach(panel => {
             panel.removeAttribute('tabindex');
