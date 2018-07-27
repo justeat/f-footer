@@ -8,7 +8,7 @@ v0.33.0
 *July 27, 2018*
 
 ### Added
-- Added `data-feedback` attribute to the feedback element for use by other scripts to show/hide it.
+- Added `data-gtm-feedback` attribute to the feedback element for use by other scripts to show/hide it.
 
 v0.32.0
 ------------------------------
