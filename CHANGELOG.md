@@ -3,12 +3,21 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v0.34.0
+------------------------------
+*August 1, 2018*
+
+### Removed
+- Got rid of some of the footer translations that aren't used or needed by the view templates
+
+
 v0.33.0
 ------------------------------
 *July 27, 2018*
 
 ### Added
 - Added `data-gtm-feedback` attribute to the feedback element for use by other scripts to show/hide it.
+
 
 v0.32.0
 ------------------------------
@@ -17,12 +26,14 @@ v0.32.0
 ### Fixed
 - Fix `TypeError` caused by `getBreakpoints()` being called before the document is ready
 
+
 v0.31.0
 ------------------------------
 *July 24, 2018*
 
 ### Fixed
 - Links to `www.eat.ch` now use `https` instead of `http`
+
 
 v0.30.0
 ------------------------------
@@ -34,6 +45,7 @@ v0.30.0
 
 ### Fixed
 - Fixed the order and labels in UK "aboutUsLinks" footer section
+
 
 v0.29.0
 ------------------------------
