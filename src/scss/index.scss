@@ -198,12 +198,14 @@ $footer-socialIconColor : $grey--dark !default;
         }
     }
 
+    .c-footer-feedback.is-invisible {
+        @include media('<=mid') {
+            display: none;
+        }
+    }
+
     .c-footer-feedbackText {
         margin: 0 0 0 spacing(x2);
-
-        @include media('>=mid') {
-            margin-left: 0;
-        }
     }
 
     .c-footer-countries {
