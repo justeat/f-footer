@@ -30,8 +30,9 @@ _A short description of your PR goes here._
 ## Browsers Tested
 
 - [ ] Chrome
-- [ ] Edge
-- [ ] Internet Explorer 11
+- [ ] Safari
+- [ ] IE 11
+- [ ] Firefox
 - [ ] Mobile (i.e. iPhone/Android - please list device)
 
 ### List any other browsers that this PR has been tested in:
