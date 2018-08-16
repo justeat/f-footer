@@ -15,17 +15,17 @@ _A short description of your PR goes here._
 - [ ] UI Documentation has been [created|updated]
 - [ ] JavaScript Tests have been [created|updated]
 - [ ] This code has been checked with regard to our accessibility standards
-  - [ ] HTML is valid [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlvalid)
-  - [ ] HTML is well structured [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlstructure)
-  - [ ] HTML is well ordered [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlorder)
-  - [ ] HTML is semantic [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlsemantic)
-  - [ ] HTML is labelled [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmllabelled)
-  - [ ] Passed an accessibility audit [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#audit)
-  - [ ] Keyboard is supported [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#keyboard)
-  - [ ] Tab stops in place [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#tabstops)
-  - [ ] Focus is managed [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#focus)
-  - [ ] States are updated [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#state)
-  - [ ] Page is well spoken [[link]](http://fozzie.just-eat.com/documentation/general/accessibility/checklist#wellspoken)
+  - [ ] HTML is valid [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlvalid)
+  - [ ] HTML is well structured [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlstructure)
+  - [ ] HTML is well ordered [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlorder)
+  - [ ] HTML is semantic [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmlsemantic)
+  - [ ] HTML is labelled [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#htmllabelled)
+  - [ ] Passed an accessibility audit [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#audit)
+  - [ ] Keyboard is supported [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#keyboard)
+  - [ ] Tab stops in place [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#tabstops)
+  - [ ] Focus is managed [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#focus)
+  - [ ] States are updated [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#state)
+  - [ ] Page is well spoken [[link]](https://fozzie.just-eat.com/documentation/general/accessibility/checklist#wellspoken)
 
 ## Browsers Tested
 
@@ -36,4 +36,4 @@ _A short description of your PR goes here._
 
 ### List any other browsers that this PR has been tested in:
 
-- [View the Browser Support Checklist](http://fozzie.just-eat.com/documentation/general/browser-support)
+- [View the Browser Support Checklist](https://fozzie.just-eat.com/documentation/general/browser-support)
