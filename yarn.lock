@@ -163,11 +163,11 @@
     handlebars "^4.0.11"
     handlebars-helper-i18n "^0.1.0"
 
-"@justeat/fozzie-colour-palette@^1.1.0":
+"@justeat/fozzie-colour-palette@1.1.0", "@justeat/fozzie-colour-palette@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@justeat/fozzie-colour-palette/-/fozzie-colour-palette-1.1.0.tgz#05a49eaa55000fa1f0b916603d341eef8bfbf439"
 
-"@justeat/fozzie@^0.43.0":
+"@justeat/fozzie@0.43.0":
   version "0.43.0"
   resolved "https://registry.yarnpkg.com/@justeat/fozzie/-/fozzie-0.43.0.tgz#27beb2f2272e6c2a87422517b795dfa4eb1116e4"
   dependencies:
@@ -178,7 +178,7 @@
     kickoff-grid.css "^1.1.2"
     normalize-scss "^7.0.1"
 
-"@justeat/gulp-build-fozzie@^7.19.0":
+"@justeat/gulp-build-fozzie@7.19.0":
   version "7.19.0"
   resolved "https://registry.yarnpkg.com/@justeat/gulp-build-fozzie/-/gulp-build-fozzie-7.19.0.tgz#d1c39ed671b3492298365ff65fa82a53a05090d7"
   dependencies:
@@ -1171,7 +1171,7 @@ axios@0.17.1:
     follow-redirects "^1.2.5"
     is-buffer "^1.1.5"
 
-babel-cli@^6.26.0:
+babel-cli@6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-cli/-/babel-cli-6.26.0.tgz#502ab54874d7db88ad00b887a06383ce03d002f1"
   dependencies:
@@ -1590,7 +1590,7 @@ babel-polyfill@^6.23.0, babel-polyfill@^6.26.0:
     core-js "^2.5.0"
     regenerator-runtime "^0.10.5"
 
-babel-preset-env@^1.7.0:
+babel-preset-env@1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/babel-preset-env/-/babel-preset-env-1.7.0.tgz#dea79fa4ebeb883cd35dab07e260c1c9c04df77a"
   dependencies:
@@ -3384,7 +3384,7 @@ d@1:
   dependencies:
     es5-ext "^0.10.9"
 
-danger@^3.6.5:
+danger@3.6.5:
   version "3.6.5"
   resolved "https://registry.yarnpkg.com/danger/-/danger-3.6.5.tgz#e00fe1e88b2d82ab2a90ce7e0da5b9f15d1206d4"
   dependencies:
@@ -5786,7 +5786,7 @@ gulp-util@>=2.2.0, gulp-util@^3.0, gulp-util@^3.0.0, gulp-util@^3.0.1, gulp-util
     through2 "^2.0.0"
     vinyl "^0.5.0"
 
-gulp@^3.9.1:
+gulp@3.9.1, gulp@^3.9.1:
   version "3.9.1"
   resolved "https://registry.yarnpkg.com/gulp/-/gulp-3.9.1.tgz#571ce45928dd40af6514fc4011866016c13845b4"
   dependencies:
@@ -6336,7 +6336,7 @@ in-publish@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/in-publish/-/in-publish-2.0.0.tgz#e20ff5e3a2afc2690320b6dc552682a9c7fadf51"
 
-include-media@^1.4.8, include-media@^1.4.9:
+include-media@1.4.9, include-media@^1.4.8, include-media@^1.4.9:
   version "1.4.9"
   resolved "https://registry.yarnpkg.com/include-media/-/include-media-1.4.9.tgz#d0020b7be3eb2d54868a20943595ce380e0bc43b"
 
@@ -7485,7 +7485,7 @@ js-base64@^2.1.8, js-base64@^2.1.9:
   version "2.1.9"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.1.9.tgz#f0e80ae039a4bd654b5f281fc93f04a914a7fcce"
 
-js-test-buddy@^0.0.7:
+js-test-buddy@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/js-test-buddy/-/js-test-buddy-0.0.7.tgz#59406749a3cc1ae1a06e3b091532cc934d090593"
   dependencies:
@@ -7807,7 +7807,7 @@ limiter@^1.0.5:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/limiter/-/limiter-1.1.2.tgz#229d8055891c8b11af9e0ee5200e8e09bb3dcbeb"
 
-lite-ready@^1.0.4:
+lite-ready@1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/lite-ready/-/lite-ready-1.0.4.tgz#6dfe50f45a5a2840c87c8406a7abf3088bfd255e"
 
@@ -8005,7 +8005,7 @@ lodash.clonedeep@^4.3.2:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
 
-lodash.debounce@^4.0.8:
+lodash.debounce@4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
 
@@ -10397,7 +10397,7 @@ quick-lru@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-1.1.0.tgz#4360b17c61136ad38078397ff11416e186dcfbb8"
 
-qwery@^4.0.0:
+qwery@4.0.0, qwery@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/qwery/-/qwery-4.0.0.tgz#7d21e3b4f7e9eed7e68728f4dab4de8b7303febe"
 
