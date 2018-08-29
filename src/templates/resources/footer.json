@@ -2388,5 +2388,252 @@
                 "siteUrl": "https://www.eat.ch"
             }
         ]
+    },
+    "qps-ploc": {
+        "improveOurWebsite": "[Ĥéļþẋẋ ûšẋ îɱþŕöṽéẋẋẋ öûŕẋ ŵéƀšîţéẋẋẋ]",
+        "sendFeedback": "[Šéñðẋẋ ƒééðƀåçķẋẋẋ]",
+        "vatInfo": "",
+        "customerService": "[Çûšţöɱéŕẋẋẋ šéŕṽîçéẋẋẋ]",
+        "changeCurrentCountry": "[Ýöûẋ åŕéẋ öñẋ ţĥéẋ ÛĶẋ ŵéƀšîţé·ẋẋẋ Çļîçķẋẋ ĥéŕéẋẋ ţöẋ çĥåñĝé·ẋẋẋ]",
+        "buttonClose": "[Çļöšéẋẋ]",
+        "links": [
+            {
+                "url": "/help",
+                "text": "[Çöñţåçţẋẋẋ ûšẋ]"
+            },
+            {
+                "url": "/account/login",
+                "text": "[Ļöĝẋ îñẋ]"
+            },
+            {
+                "url": "/account/register",
+                "text": "[Šîĝñẋẋ ûþẋ]"
+            },
+            {
+                "url": "/blog",
+                "text": "[Ɓļöĝẋẋ]"
+            },
+            {
+                "url": "/apps",
+                "text": "[Ṁöƀîļéẋẋ åþþšẋẋ]"
+            },
+            {
+                "url": "/suggest-a-restaurant",
+                "text": "[Šûĝĝéšţẋẋẋ åẋ ŕéšţåûŕåñţẋẋẋẋ]"
+            },
+            {
+                "url": "/member/updateuserinfo",
+                "text": "[Ṁýẋ åççöûñţẋẋẋ]"
+            }
+        ],
+        "cuisines": "[Ţöþẋ çûîšîñéšẋẋẋ]",
+        "cuisineLinks": [
+            {
+                "url": "/chinese-takeaways",
+                "text": "[Çĥîñéšéẋẋẋ]"
+            },
+            {
+                "url": "/indian-takeaways",
+                "text": "[Îñðîåñẋẋ]"
+            },
+            {
+                "url": "/italian-takeaways",
+                "text": "[Îţåļîåñẋẋẋ]"
+            },
+            {
+                "url": "/japanese-takeaways",
+                "text": "[Ĵåþåñéšéẋẋẋ]"
+            },
+            {
+                "url": "/pizza-delivery",
+                "text": "[Þîžžåẋẋ ðéļîṽéŕýẋẋẋ]"
+            },
+            {
+                "url": "/cuisine",
+                "text": "[Ṽîéŵẋẋ åļļẋ çûîšîñéšẋẋẋ]"
+            }
+        ],
+        "towns": "[Ļöçåţîöñšẋẋẋ]",
+        "locationLinks": [
+            {
+                "url": "/birmingham-takeaway",
+                "text": "[Ɓîŕɱîñĝĥåɱẋẋẋẋ]"
+            },
+            {
+                "url": "/cardiff-takeaway",
+                "text": "[Çåŕðîƒƒẋẋẋ]"
+            },
+            {
+                "url": "/glasgow-takeaway",
+                "text": "[Ĝļåšĝöŵẋẋẋ]"
+            },
+            {
+                "url": "/leeds-takeaway",
+                "text": "[Ļééðšẋẋ]"
+            },
+            {
+                "url": "/manchester-takeaway",
+                "text": "[Ṁåñçĥéšţéŕẋẋẋẋ]"
+            },
+            {
+                "url": "/takeaway",
+                "text": "[Ṽîéŵẋẋ åļļẋ ļöçåţîöñšẋẋẋ]"
+            }
+        ],
+        "aboutUs": "[Åẋ ƀîţẋ ɱöŕéẋẋ åƀöûţẋẋ ûšẋ]",
+        "aboutUsLinks": [
+            {
+                "url": "https://restaurants.just-eat.co.uk/",
+                "text": "[Ŕéšţåûŕåñţẋẋẋẋ šîĝñẋẋ ûþẋ]"
+            },
+            {
+                "url": "/pricepromise",
+                "text": "[Þŕîçéẋẋ þŕöɱîšéẋẋẋ]"
+            },
+            {
+                "url": "/privacy-policy",
+                "text": "[Þŕîṽåçýẋẋẋ þöļîçýẋẋ]"
+            },
+            {
+                "url": "/termsandconditions",
+                "text": "[Ţéŕɱšẋẋ åñðẋ Çöñðîţîöñšẋẋẋẋ]"
+            },
+            {
+                "url": "/cookiespolicy",
+                "text": "[Çööķîéẋẋ Þöļîçýẋẋ]"
+            },
+            {
+                "url": "/about",
+                "text": "[Åƀöûţẋẋ ûšẋ]"
+            },
+            {
+                "url": "/",
+                "text": "[Çöɱþåñýẋẋẋ ŵéƀšîţéẋẋẋ]"
+            },
+            {
+                "url": "https://careers.just-eat.com/",
+                "text": "[Çåŕééŕšẋẋẋ]"
+            },
+            {
+                "url": "https://www.justeatplc.com/download_file/view/435/1",
+                "text": "[Ṁöðéŕñẋẋ Šļåṽéŕýẋẋẋ Šţåţéɱéñţẋẋẋ]",
+                "target": "_blank"
+            }
+        ],
+        "downloadOurApps": "[Ðöŵñļöåðẋẋẋ öûŕẋ åþþšẋẋ]",
+        "appStoreIcons": [
+            {
+                "url": "https://179046.measurementapi.com/serve?action=click&publisher_id=179046&site_id=106656&my_campaign=q4-2015",
+                "key": "ios",
+                "iconSrc": "iosIconSrc",
+                "altText": "[Ðöŵñļöåðẋẋẋ öñẋ ţĥéẋ Åþþẋ Šţöŕéẋẋ]"
+            },
+            {
+                "url": "https://q2d-a.tlnk.io/serve?action=click&publisher_id=170720&site_id=106644&invoke_id=178925&my_campaign=website-app-page",
+                "key": "android",
+                "iconSrc": "androidIconSrc",
+                "altText": "[Ĝéţẋ îţẋ öñẋ Ĝööĝļéẋẋ Þļåýẋẋ]"
+            }
+        ],
+        "followUs": "[Ƒöļļöŵẋẋ ûšẋ]",
+        "socialIcons": [
+            {
+                "url": "https://www.facebook.com/justeat",
+                "key": "facebook",
+                "iconSrc": "facebookIconUrl",
+                "altText": "[]"
+            },
+            {
+                "url": "https://twitter.com/JustEatUK",
+                "key": "twitter",
+                "iconSrc": "twitterIconUrl",
+                "altText": "[]"
+            },
+            {
+                "url": "https://www.youtube.com/user/TVjusteat",
+                "key": "youtube",
+                "iconSrc": "youtubeIconUrl",
+                "altText": "[]"
+            }
+        ],
+        "feedback": "[Ƒééðƀåçķẋẋẋ]",
+        "paymentIcons": [
+            {
+                "type": "card",
+                "key": "mastercard--securecode",
+                "iconSrc": "mastercardIconSrc",
+                "altText": "[Ṁåšţéŕçåŕðẋẋẋẋ]"
+            },
+            {
+                "type": "card",
+                "key": "visa--verified",
+                "iconSrc": "visaIconSrc",
+                "altText": "[Ṽîšåẋẋ]"
+            },
+            {
+                "type": "card",
+                "key": "amex--safekey",
+                "iconSrc": "amexIconSrc",
+                "altText": "[Åɱéŕîçåñẋẋẋ Éẋþŕéššẋẋẋ]"
+            }
+        ],
+        "currentCountryLocalisedName": "[⁅Ûñîţéðẋẋ Ķîñĝðöɱẋẋẋ⁆ẋẋẋẋẋẋẋ]",
+        "countries": [
+            {
+                "flagUrl": "australiaFlagIconUrl",
+                "localisedName": "[Åûšţŕåļîåẋẋẋ]",
+                "siteUrl": "https://www.menulog.com.au"
+            },
+            {
+                "flagUrl": "brasilFlagIconUrl",
+                "localisedName": "[Ɓŕåžîļẋẋ]",
+                "siteUrl": "https://www.ifood.com.br"
+            },
+            {
+                "flagUrl": "canadaFlagIconUrl",
+                "localisedName": "[Çåñåðåẋẋ]",
+                "siteUrl": "https://www.just-eat.ca"
+            },
+            {
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "[Ðéñɱåŕķẋẋẋ]",
+                "siteUrl": "https://www.just-eat.dk"
+            },
+            {
+                "flagUrl": "franceFlagIconUrl",
+                "localisedName": "[Ƒŕåñçéẋẋ]",
+                "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "flagUrl": "irelandFlagIconUrl",
+                "localisedName": "[Îŕéļåñðẋẋẋ]",
+                "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "flagUrl": "italyFlagIconUrl",
+                "localisedName": "[Îţåļýẋẋ]",
+                "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "flagUrl": "newzealandFlagIconUrl",
+                "localisedName": "[Ñéŵẋ Žéåļåñðẋẋẋ]",
+                "siteUrl": "https://www.menulog.co.nz"
+            },
+            {
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "[Ñöŕŵåýẋẋ]",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "[Šþåîñẋẋ]",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "[Šŵîţžéŕļåñðẋẋẋẋ]",
+                "siteUrl": "https://www.eat.ch"
+            }
+        ]
     }
 }
