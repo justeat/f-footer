@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.1.1
+------------------------------
+*September 7, 2018*
+
+### Fixed
+- Danish work for us translation
+
+
 
 v1.1.0
 ------------------------------
