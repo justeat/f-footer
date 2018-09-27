@@ -655,19 +655,19 @@
                 "url": "https://www.facebook.com/justeat",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Facebook"
             },
             {
                 "url": "https://twitter.com/JustEatUK",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Twitter"
             },
             {
                 "url": "https://www.youtube.com/user/TVjusteat",
                 "key": "youtube",
                 "iconSrc": "youtubeIconUrl",
-                "altText": ""
+                "altText": "Just Eat on YouTube"
             }
         ],
         "feedback": "Feedback",
@@ -889,19 +889,19 @@
                 "url": "https://www.facebook.com/Menulog.com.au/",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Facebook"
             },
             {
                 "url": "https://twitter.com/menulog",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Twitter"
             },
             {
                 "url": "https://www.instagram.com/menulog/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Instagram"
             }
         ],
         "feedback": "Feedback",
@@ -1086,19 +1086,19 @@
                 "url": "https://www.facebook.com/Menulog.co.nz",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Facebook"
             },
             {
                 "url": "https://twitter.com/Menulog",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Twitter"
             },
             {
                 "url": "https://www.instagram.com/menulog/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Menu Log on Instagram"
             }
         ],
         "feedback": "Feedback",
@@ -1550,13 +1550,13 @@
                 "url": "https://www.facebook.com/JustEatIreland",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Facebook"
             },
             {
                 "url": "https://www.twitter.com/JustEatIE",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Twitter"
             },
             {
                 "url": "https://www.google.com/+JusteatIe1",
@@ -1568,13 +1568,13 @@
                 "url": "https://instagram.com/justeatie/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Instagram"
             },
             {
                 "url": "https://www.pinterest.com/justeatie/",
                 "key": "pinterest",
                 "iconSrc": "pinterestIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Pinterest"
             }
         ],
         "feedback": "Feedback",
@@ -2024,13 +2024,13 @@
                 "url": "https://www.facebook.com/just.eat.canada",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Facebook"
             },
             {
                 "url": "https://twitter.com/justeatca",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Twitter"
             },
             {
                 "url": "https://plus.google.com/107342937635884431309/about",
@@ -2042,7 +2042,7 @@
                 "url": "https://www.instagram.com/justeatca/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Instagram"
             }
         ],
         "feedback": "Feedback",
