@@ -100,9 +100,13 @@ $footer-socialIconColor : $grey--dark !default;
             border-bottom: 1px solid $footer-borderColor;
             cursor: pointer;
 
+            .c-footer-chevron {
+                transform: rotate(180deg);
+            }
+
             &.is-collapsed {
                 .c-footer-chevron {
-                    transform: rotate(180deg);
+                    transform: rotate(0);
                 }
 
                 .c-footer-list {
