@@ -3,7 +3,7 @@
     "miscIconPaths": {
         "chevronIconUrl": "/assets/img/icons/arrows/chevron.svg",
         "crossIconUrl": "/assets/img/icons/operators/cross.svg",
-        "currentCountryFlagIconUrl": "/assets/img/icons/flags/flag.dk.svg"
+        "currentCountryFlagIconUrl": "/assets/img/icons/flags/flag.gb.svg"
     },
     "socialIconPaths": {
         "facebookIconUrl": "/assets/img/icons/social/icon-facebook.svg",
