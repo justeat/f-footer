@@ -5,12 +5,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v1.4.0
 ------------------------------
-*October 10, 2018*
+*October 11, 2018*
 
 ### Changed
 - Upgraded to babel 7.
 - Updated module dependencies.
 - Travis uses node v8 & v10 to run builds.
+
+### Fixed
+- Travis build fixed by regenerating the yarn lock file.
+- Lint parsing error fixed by adding "espree" resolution.
 
 v1.3.1
 ------------------------------
