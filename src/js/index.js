@@ -7,7 +7,6 @@ let footerPanels;
 let breakpoints = null;
 
 const tabindexResize = () => {
-
     if (breakpoints === null) {
         breakpoints = getBreakpoints();
     }

@@ -3,6 +3,20 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+v1.5.0
+------------------------------
+*October 16, 2018*
+
+### Changed
+- Switched `kickoff-utils` package for the `@justeat/f-utils` package (SCSS helpers).
+- Updated `fozzie` and `fozzie-colour-palette` versions so Menulog theming cascades into `f-footer`.
+- Minor package updates.
+
+### Removed
+- Babel 7 dependencies removed from `package.json` (as now installed as part of `gulp-build-fozzie`).
+
+
 v1.4.2
 ------------------------------
 *October 11, 2018*
@@ -10,12 +24,14 @@ v1.4.2
 ### Fixed
 - Fixed slack key for Travis build results publishing.
 
+
 v1.4.1
 ------------------------------
 *October 11, 2018*
 
 ### Changed
 - Travis build results published to slack channel.
+
 
 v1.4.0
 ------------------------------
@@ -30,12 +46,14 @@ v1.4.0
 - Travis build fixed by regenerating the yarn lock file.
 - Lint parsing error fixed by adding "espree" resolution.
 
+
 v1.3.1
 ------------------------------
 *October 5, 2018*
 
 ### Fixed
 - Fixed "currentCountryFlagIconUrl" to match GB flag
+
 
 v1.3.0
 ------------------------------
