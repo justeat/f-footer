@@ -1,5 +1,5 @@
 import TestUtils from 'js-test-buddy';
-import { collapseFooterPanels, resizeInit } from '../';
+import { collapseFooterPanels, resizeInit } from '..';
 
 beforeEach(() => {
     Object.defineProperty(window, 'matchMedia', {
@@ -8,7 +8,6 @@ beforeEach(() => {
 });
 
 describe('on page load', () => {
-
     it('footer panels are collapsed', () => {
         // Arrange
         TestUtils.setBodyHtml(`
@@ -28,7 +27,6 @@ describe('on page load', () => {
     });
 
     describe('at narrow width', () => {
-
         beforeEach(() => {
             // Force matchMedia in tabindexResize to fail
             Object.defineProperty(window, 'matchMedia', {
@@ -74,7 +72,6 @@ describe('on page load', () => {
     });
 
     describe('at normal width', () => {
-
         it('tabindex should be removed from footer panel headings', () => {
             // Arrange
             TestUtils.setBodyHtml(`
