@@ -14,6 +14,17 @@ v1.6.0
 - Adding missing Spanish translations.
 
 
+v1.6.0
+------------------------------
+*October 26, 2018*
+
+### Changed
+- Css style of social media icons regarding new design
+
+### Removed
+- Social media icons (now new icons live in f-icons module)
+
+
 v1.5.0
 ------------------------------
 *October 16, 2018*
