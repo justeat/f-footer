@@ -7,6 +7,9 @@ v1.6.0
 ------------------------------
 *October 27, 2018*
 
+### Changed
+- Updated an `http` link to use `https`.
+
 ### Fixed
 - Adding missing Spanish translations.
 
