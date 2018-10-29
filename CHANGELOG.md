@@ -3,6 +3,16 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.6.0
+------------------------------
+*October 27, 2018*
+
+### Changed
+- Updated an `http` link to use `https`.
+
+### Fixed
+- Adding missing Spanish translations.
+
 
 v1.5.0
 ------------------------------
