@@ -193,58 +193,70 @@
             }
         ],
         "currentCountryLocalisedName": "Danmark",
+        "currentCountryFlagKey": "dk",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australien",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brasilien",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "Frankrig",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Irland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italien",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norge",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spanien",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "Storbritannien",
                 "siteUrl": "https://www.just-eat.co.uk"
@@ -445,58 +457,71 @@
             }
         ],
         "currentCountryLocalisedName": "España",
+        "currentCountryFlagKey": "es",
+
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brasil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canadá",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Dinamarca",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "Francia",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Irlanda",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Noruega",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "Nueva Zelanda",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "Reino Unido",
                 "siteUrl": "https://www.just-eat.co.uk"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Suiza",
                 "siteUrl": "https://www.eat.ch"
@@ -692,58 +717,70 @@
             }
         ],
         "currentCountryLocalisedName": "United Kingdom",
+        "currentCountryFlagKey": "gb",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Denmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italy",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spain",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
@@ -932,58 +969,70 @@
             }
         ],
         "currentCountryLocalisedName": "Australia",
+        "currentCountryFlagKey": "au",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Denmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italy",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spain",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
@@ -1129,58 +1178,70 @@
             }
         ],
         "currentCountryLocalisedName": "New Zealand",
+        "currentCountryFlagKey": "nz",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Denmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italy",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spain",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
@@ -1361,58 +1422,70 @@
             }
         ],
         "currentCountryLocalisedName": "Italia",
+        "currentCountryFlagKey": "it",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brasile",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Danimarca",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "Francia",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Irlanda",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norvegia",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "Nuova Zelanda",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "Regno Unito",
                 "siteUrl": "https://www.just-eat.co.uk"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spagna",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Svizzera",
                 "siteUrl": "https://www.eat.ch"
@@ -1593,58 +1666,70 @@
             }
         ],
         "currentCountryLocalisedName": "Ireland",
+        "currentCountryFlagKey": "ie",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Denmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italy",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spain",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "United Kingdom",
                 "siteUrl": "https://www.just-eat.co.uk"
@@ -1811,58 +1896,70 @@
             }
         ],
         "currentCountryLocalisedName": "Norge",
+        "currentCountryFlagKey": "no",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brasil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "Frankrike",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Irland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spania",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "Storbritannia",
                 "siteUrl": "https://www.just-eat.co.uk"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Sveits",
                 "siteUrl": "https://www.eat.ch"
@@ -2073,58 +2170,70 @@
             }
         ],
         "currentCountryLocalisedName": "Canada",
+        "currentCountryFlagKey": "ca",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Denmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italy",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Spain",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "United Kingdom",
                 "siteUrl": "https://www.just-eat.co.uk"
@@ -2331,58 +2440,70 @@
             }
         ],
         "currentCountryLocalisedName": "Canada",
+        "currentCountryFlagKey": "ca",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "Australie",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brésil",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "Danemark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "Espagne",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Irlande",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "Italie",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norvège",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "Nouvelle-Zélande",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "gb",
                 "flagUrl": "ukFlagIconUrl",
                 "localisedName": "Royaume-Uni",
                 "siteUrl": "https://www.just-eat.co.uk"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Suisse",
                 "siteUrl": "https://www.eat.ch"
@@ -2578,58 +2699,70 @@
             }
         ],
         "currentCountryLocalisedName": "[⁅Ûñîţéðẋẋ Ķîñĝðöɱẋẋẋ⁆ẋẋẋẋẋẋẋ]",
+        "currentCountryFlagKey": "gb",
         "countries": [
             {
+                "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
                 "localisedName": "[Åûšţŕåļîåẋẋẋ]",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
+                "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "[Ɓŕåžîļẋẋ]",
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
+                "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "[Çåñåðåẋẋ]",
                 "siteUrl": "https://www.just-eat.ca"
             },
             {
+                "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
                 "localisedName": "[Ðéñɱåŕķẋẋẋ]",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
+                "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
                 "localisedName": "[Ƒŕåñçéẋẋ]",
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "[Îŕéļåñðẋẋẋ]",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "it",
                 "flagUrl": "italyFlagIconUrl",
                 "localisedName": "[Îţåļýẋẋ]",
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "[Ñéŵẋ Žéåļåñðẋẋẋ]",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
+                "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "[Ñöŕŵåýẋẋ]",
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "es",
                 "flagUrl": "spainFlagIconUrl",
                 "localisedName": "[Šþåîñẋẋ]",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
+                "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "[Šŵîţžéŕļåñðẋẋẋẋ]",
                 "siteUrl": "https://www.eat.ch"

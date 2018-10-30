@@ -1,19 +1,9 @@
 {
     "language": "en-GB",
-    "miscIconPaths": {
-        "chevronIconUrl": "/assets/img/icons/arrows/chevron.svg",
-        "crossIconUrl": "/assets/img/icons/operators/cross.svg",
-        "currentCountryFlagIconUrl": "/assets/img/icons/flags/flag.gb.svg"
+    "svgSpriteModel": {
+        "iconsSpritePath": "/assets/img/sprite.svg"
     },
-    "socialIconPaths": {
-        "facebookIconUrl": "/assets/img/icons/social/icon-facebook.svg",
-        "twitterIconUrl": "/assets/img/icons/social/icon-twitter.svg",
-        "instagramIconUrl": "/assets/img/icons/social/icon-instagram.svg",
-        "googlePlusIconUrl": "/assets/img/icons/social/icon-google-plus.svg",
-        "youtubeIconUrl": "/assets/img/icons/social/icon-youtube.svg",
-        "pinterestIconUrl": "/assets/img/icons/social/icon-pinterest.svg",
-        "rssIconUrl": "/assets/img/icons/social/icon-rss.svg"
-    },
+
     "appIconPaths": {
         "iosIconSrc": "/assets/img/icons/appstore/ios.svg",
         "androidIconSrc": "/assets/img/icons/appstore/android.svg",
@@ -27,19 +17,5 @@
         "paypalIconSrc": "/assets/img/icons/cards/paypal.svg",
         "confianzaIconSrc": "/assets/img/icons/cards/confianza.svg",
         "interacIconSrc": "/assets/img/icons/cards/interac.svg"
-    },
-    "flagIconPaths": {
-        "australiaFlagIconUrl": "/assets/img/icons/flags/flag.au.svg",
-        "brasilFlagIconUrl": "/assets/img/icons/flags/flag.br.svg",
-        "canadaFlagIconUrl": "/assets/img/icons/flags/flag.ca.svg",
-        "denmarkFlagIconUrl": "/assets/img/icons/flags/flag.dk.svg",
-        "franceFlagIconUrl": "/assets/img/icons/flags/flag.fr.svg",
-        "irelandFlagIconUrl": "/assets/img/icons/flags/flag.ie.svg",
-        "italyFlagIconUrl": "/assets/img/icons/flags/flag.it.svg",
-        "newzealandFlagIconUrl": "/assets/img/icons/flags/flag.nz.svg",
-        "norwayFlagIconUrl": "/assets/img/icons/flags/flag.no.svg",
-        "switzerlandFlagIconUrl": "/assets/img/icons/flags/flag.ch.svg",
-        "spainFlagIconUrl": "/assets/img/icons/flags/flag.es.svg",
-        "ukFlagIconUrl": "/assets/img/icons/flags/flag.gb.svg"
     }
 }

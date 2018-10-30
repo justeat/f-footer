@@ -2,6 +2,7 @@
     <ul class="c-footer-list c-footer-list--inline">
         {{#each (i18n "paymentIcons") as | paymentIcon |}}
             <li class="c-footer-list-item"> {{!-- missing 'certificate' logic --}}
+                {{!-- We can't use svg sprite here because of gradient effect which doesn't work with sprites in Chrome and Safari --}}
                 <img class="c-footer-icon c-footer-icon--{{ paymentIcon.type }} c-icon--{{ paymentIcon.key }}" src="{{ lookup ../paymentIconPaths paymentIcon.iconSrc }}" alt="{{ paymentIcon.altText }}" />
             </li>
         {{/each}}
