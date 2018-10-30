@@ -281,10 +281,10 @@ $footer-socialIconColor : $grey--dark !default;
         }
 
         .c-footer-icon--social {
-            height: 32px;
+            height: 28px;
             fill: $footer-socialIconColor;
             transition: $default-transition;
-            width: 32px;
+            width: 28px;
 
             &:hover {
                 opacity: 0.6;
