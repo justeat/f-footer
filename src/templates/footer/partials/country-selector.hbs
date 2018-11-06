@@ -1,25 +1,25 @@
 <div class="c-countrySelector">
     <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" aria-label="{{ i18n "changeCurrentCountry" }}">
-        <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
+        {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }}
         <p>{{ i18n "currentCountryLocalisedName" }}</p>
-        <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ miscIconPaths.chevronIconUrl }}" alt="" />
+        {{> je-svg-sprite cssClass="c-countrySelector-chevron c-icon--chevron--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath "#icons-arrows-chevron") }}
     </button>
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
         {{#each (i18n "countries") as | country |}}
             <li>
                 <a class="c-countrySelector-link" target="_blank" href="{{ country.siteUrl }}">
-                    <img class="c-icon--flag--small" src="{{ lookup ../flagIconPaths country.flagUrl }}" alt="" />
+                    {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-flags-flag.' country.key) }}
                     <p>{{ country.localisedName }}</p>
                 </a>
             </li>
         {{/each}}
         <li>
             <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
-                <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
+                {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }}
                 <p>{{ i18n "currentCountryLocalisedName" }}</p>
             </button>
             <button type="button" class="o-btnLink" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
-                <img class="c-countrySelector-cross" src="{{ miscIconPaths.crossIconUrl }}" alt="" />
+                {{> je-svg-sprite cssClass="c-countrySelector-cross" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-operators-cross') }}
             </button>
         </li>
     </ul>

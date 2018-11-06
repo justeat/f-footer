@@ -3,6 +3,20 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+v1.8.0
+------------------------------
+*November 6, 2018*
+
+### Added
+- Svg sprite handlebars partial
+
+### Changed
+- Flags, misc and social icons are calling from svg sprite instead of regular img tag.
+
+This version needs WebBoilerplate >= v1.0.41
+
+
 v1.7.0
 ------------------------------
 *October 29, 2018*
