@@ -957,8 +957,8 @@
             },
             {
                 "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
+                "key": "amex",
+                "iconSrc": "amexCardIconSrc",
                 "altText": "American Express"
             },
             {
@@ -1166,15 +1166,9 @@
             },
             {
                 "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
+                "key": "amex",
+                "iconSrc": "amexCardIconSrc",
                 "altText": "American Express"
-            },
-            {
-                "type": "card",
-                "key": "paypal",
-                "iconSrc": "paypalIconSrc",
-                "altText": "PayPal"
             }
         ],
         "currentCountryLocalisedName": "New Zealand",
