@@ -1,6 +1,6 @@
 {
     "da-DK": {
-        "improveOurWebsite": "Help us improve our website",
+        "improveOurWebsite": "Hjælp os med at gøre vores hjemmeside bedre",
         "sendFeedback": "Send feedback",
         "vatInfo": "",
         "customerService": "Kundeservice",
@@ -1249,8 +1249,8 @@
         ]
     },
     "it-IT": {
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
+        "improveOurWebsite": "Aiutaci a migliorare il nostro sito",
+        "sendFeedback": "Invia feedback",
         "vatInfo": "",
         "customerService": "Servizio Clienti",
         "changeCurrentCountry": "Sei sul sito Italiano. Clicca qui per cambiare stato.",
@@ -1737,8 +1737,8 @@
         ]
     },
     "nb-NO": {
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
+        "improveOurWebsite": "Hjelp oss med å gjøre vår hjemmeside bedre",
+        "sendFeedback": "Send tilbakemelding",
         "vatInfo": "",
         "customerService": "Kundeservice",
         "changeCurrentCountry": "Du er på den norske nettsiden. Klikk her for å endre.",
@@ -2510,7 +2510,7 @@
             }
         ]
     },
-    "qps-ploc": {
+    "qps-Ploc": {
         "improveOurWebsite": "[Ĥéļþẋẋ ûšẋ îɱþŕöṽéẋẋẋ öûŕẋ ŵéƀšîţéẋẋẋ]",
         "sendFeedback": "[Šéñðẋẋ ƒééðƀåçķẋẋẋ]",
         "vatInfo": "",
