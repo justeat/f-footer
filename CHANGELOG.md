@@ -8,7 +8,7 @@ v1.8.2
 *November 29, 2018*
 
 ### Fixed
-- Fixed incorrect footer links and link text (WH-54).
+- Fixed incorrect footer links and link text.
 
 v1.8.1
 ------------------------------
