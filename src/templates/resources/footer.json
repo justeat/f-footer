@@ -537,7 +537,7 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/help",
+                "url": "/contact",
                 "text": "Contact us"
             },
             {
@@ -1258,23 +1258,23 @@
         "links": [
             {
                 "url": "/help",
-                "text": "Contatti"
+                "text": "Aiuto?"
             },
             {
                 "url": "/account/login",
-                "text": "Affiliazione ristoranti"
+                "text": "Accedi"
             },
             {
                 "url": "/account/register",
-                "text": "Partner centre"
+                "text": "Registrati"
             },
             {
                 "url": "/blog",
-                "text": "Suggerisci un ristorante"
+                "text": "Blog"
             },
             {
                 "url": "/apps",
-                "text": "Aiuto?"
+                "text": "App"
             }
         ],
         "cuisines": "Cucine",
@@ -1750,15 +1750,11 @@
             },
             {
                 "url": "/account/login",
-                "text": "Gavekort"
+                "text": "Logg inn"
             },
             {
                 "url": "/account/register",
-                "text": "Just Eat Blog"
-            },
-            {
-                "url": "/blog",
-                "text": "Just Eat Premium"
+                "text": "Registrer deg"
             }
         ],
         "cuisines": "Hva frister?",
@@ -1995,7 +1991,7 @@
                 "text": "Suggest a restaurant"
             },
             {
-                "url": "/faq",
+                "url": "/help",
                 "text": "Help"
             }
         ],
