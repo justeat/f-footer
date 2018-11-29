@@ -2072,8 +2072,8 @@
                 "text": "Price Promise"
             },
             {
-              "url": "https://www.just-eat.ca/blog/moreorders/",
-              "text": "For Restaurants"
+                "url": "https://www.just-eat.ca/blog/moreorders/",
+                "text": "For Restaurants"
             },
             {
                 "url": "/about",
@@ -2181,10 +2181,10 @@
                 "siteUrl": "https://www.ifood.com.br"
             },
             {
-              "key": "dk",
-              "flagUrl": "denmarkFlagIconUrl",
-              "localisedName": "Denmark",
-              "siteUrl": "https://www.just-eat.dk"
+                "key": "dk",
+                "flagUrl": "denmarkFlagIconUrl",
+                "localisedName": "Denmark",
+                "siteUrl": "https://www.just-eat.dk"
             },
             {
                 "key": "fr",
