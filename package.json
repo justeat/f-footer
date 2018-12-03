@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "main": "dist/js/index.js",
   "files": [
     "dist",
