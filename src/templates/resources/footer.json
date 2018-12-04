@@ -945,14 +945,14 @@
         "paymentIcons": [
             {
                 "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
+                "key": "mastercard",
+                "iconSrc": "mastercardCardIconSrc",
                 "altText": "Mastercard"
             },
             {
                 "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
+                "key": "visa",
+                "iconSrc": "visaCardIconSrc",
                 "altText": "Visa"
             },
             {
@@ -1154,14 +1154,14 @@
         "paymentIcons": [
             {
                 "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
+                "key": "mastercard",
+                "iconSrc": "mastercardCardIconSrc",
                 "altText": "Mastercard"
             },
             {
                 "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
+                "key": "visa",
+                "iconSrc": "visaCardIconSrc",
                 "altText": "Visa"
             },
             {
