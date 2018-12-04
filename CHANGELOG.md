@@ -3,12 +3,26 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+v1.9.0
+------------------------------
+*December 5, 2018*
+
+### Changed
+- Temporarily roll back svg sprite change to footer icons.
+
+This version needs WebBoilerplate >= v1.0.78
+
+### Fixed
+- Babel resolution set to fix JS unit tests.
+
 v1.8.2
 ------------------------------
 *November 29, 2018*
 
 ### Fixed
 - Fixed incorrect footer links and link text.
+
 
 v1.8.1
 ------------------------------

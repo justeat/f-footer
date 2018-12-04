@@ -20,7 +20,9 @@
         {{#each (i18n "socialIcons") as | socialIcon |}}
             <li class="c-footer-list-item">
                 <a href="{{ socialIcon.url }}" target="_blank">
-                    {{> je-svg-sprite cssClass="c-footer-icon c-footer-icon--social" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-social-icon-' socialIcon.key) }}
+                    {{!-- temporarily return back previos img solution untill WH-692 is fixed --}}
+                    {{!-- {{> je-svg-sprite cssClass="c-footer-icon c-footer-icon--social" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-social-icon-' socialIcon.key) }} --}}
+                    <img class="c-footer-icon c-footer-icon--social" src="{{ lookup ../socialIconPaths socialIcon.iconSrc }}" alt="{{ socialIcon.altText }}" />
                 </a>
             </li>
         {{/each}}
