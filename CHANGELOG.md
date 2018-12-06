@@ -5,13 +5,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 v1.10.0
 ------------------------------
-*December 3, 2018*
+*December 7, 2018*
 
 ### Added
 - Amex icon (not SafeKey) in resource json file
+- Visa icon in resource json file
+- MasterCard icon in resource json file
 
 ### Changed
-- Amex icon for AU & NZ footer template json
+- Amex, Visa & MasterCard icon for AU & NZ footer template json
 
 ### Removed
 - Paypal icon for NZ footer template json
