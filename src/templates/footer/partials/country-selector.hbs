@@ -1,25 +1,31 @@
 <div class="c-countrySelector">
     <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" aria-label="{{ i18n "changeCurrentCountry" }}">
-        {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }}
+        {{!-- temporarily return back previos img solution untill WH-692 is fixed --}}
+        {{!-- {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }} --}}
+        <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
         <p>{{ i18n "currentCountryLocalisedName" }}</p>
-        {{> je-svg-sprite cssClass="c-countrySelector-chevron c-icon--chevron--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath "#icons-arrows-chevron") }}
+        {{!-- {{> je-svg-sprite cssClass="c-countrySelector-chevron c-icon--chevron--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath "#icons-arrows-chevron") }} --}}
+        <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ miscIconPaths.chevronIconUrl }}" alt="" />
     </button>
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
         {{#each (i18n "countries") as | country |}}
             <li>
                 <a class="c-countrySelector-link" target="_blank" href="{{ country.siteUrl }}">
-                    {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-flags-flag.' country.key) }}
+                    {{!-- {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-flags-flag.' country.key) }} --}}
+                    <img class="c-icon--flag--small" src="{{ lookup ../flagIconPaths country.flagUrl }}" alt="" />
                     <p>{{ country.localisedName }}</p>
                 </a>
             </li>
         {{/each}}
         <li>
             <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
-                {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }}
+                {{!-- {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }} --}}
+                <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
                 <p>{{ i18n "currentCountryLocalisedName" }}</p>
             </button>
             <button type="button" class="o-btnLink" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
-                {{> je-svg-sprite cssClass="c-countrySelector-cross" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-operators-cross') }}
+                {{!-- {{> je-svg-sprite cssClass="c-countrySelector-cross" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-operators-cross') }} --}}
+                <img class="c-countrySelector-cross" src="{{ miscIconPaths.crossIconUrl }}" alt="" />
             </button>
         </li>
     </ul>
