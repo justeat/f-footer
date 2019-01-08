@@ -8,11 +8,13 @@ cache: yarn
 
 sudo: false
 
+script:
+  - yarn danger ci
+
+after_success:
+  - yarn run test:cover:ci
+
 notifications:
   email: false
   slack:
     secure: hj1mDKDep4Dvc2x5Ah/C6Xzs5bacbUJ/BSI7L2uHzotdqhtenYFx3CuSI5NJOCPxSBwpL1GCAA29E6EdeUZnWKlHXLKtVkzruL76gaB3Go8fO/s/8k2mz0Phxg9Do6vLXMYlfUqLcRqsKpsNmcO1KNWziVxgdFFNt6MFFvNnUO0CzXG9pIMwWf2X+68CLkVfnM3J3395nE/+Q4Tv/pK8Bl4QOp3dCXDOvmOjjeQfRuitCapsVv8EX8ajB2Bm18HnyrBcid0ZQV5Q4ihOJffxbSgo35WDByqlHY3ls1jR/N4f7qpHC+GNT0+Gc9XPfJhrAF13UYOAC4kPuPlHa+SK0daw+bpsTdCtFQiJMPac0ZOP2WbLp/Z4B7bpv1hfckqrc+Z4CJE8cfp7/H2Scoi5yT1pQeZQRnuzT9AofOF7S+ihKsMOElCn7uZuXp+yaXBn+dq939WTzQF4Gp73t+pdynZB0LOi9X5P39qmsTfrwbrVuoqQ0qFrAPBpWPe4WdGT19RzEEER7u7jSoJVlw9OKBTMYctjAFDI6wZO2LW9mYFsoc0+wGaCawjoKdKCcEsTyiMMF0Zlpp+mXslVBr4s0jAw0VL/oFtoJ8EtbVgsSllWeE4R+KgTlPFahdzmk4VHonoEMWKrFkc4seH+jKBaKAS1XnyBwBXVUrD3x9Zj0w0=
-
-scripts:
-  - yarn run lint
-  - yarn danger ci
