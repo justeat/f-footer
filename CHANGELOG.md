@@ -3,12 +3,33 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.10.0
+------------------------------
+*January 8, 2019*
+
+### Added
+- Using `concurrently` to run npm scripts concurrently...!
+- Coveralls integration.
+
+### Changed
+- Call Jest directly from npm scripts to avoid failed test runs exiting with 0 code.
+- `matchMedia` mock updated in jest setup file to allow us to modify the `matches` function return value in the unit tests.
+- Unit tests explicitly state `matchMedia.matches` return value.
+- `matchMedia.matches` setup moved into a separate function.
+- Upgraded yarn dependencies.
+- Updated Travis config.
+
+### Fixed
+- `test` task run as part of `prepare` rather than `lint` task.
+
+
 v1.9.1
 ------------------------------
 *December 18, 2018*
 
 ### Added
 - New footer link for Italy to become a driver partner.
+
 
 v1.9.0
 ------------------------------
@@ -21,6 +42,7 @@ This version needs WebBoilerplate >= v1.0.78
 
 ### Fixed
 - Babel resolution set to fix JS unit tests.
+
 
 v1.8.2
 ------------------------------
