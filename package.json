@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "main": "dist/js/index.js",
   "files": [
     "dist",
@@ -25,7 +25,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "@justeat/f-utils": "^0.1.0",
+    "@justeat/f-utils": "0.1.0",
     "@justeat/fozzie": "1.6.0",
     "@justeat/fozzie-colour-palette": "2.1.0",
     "include-media": "1.4.9",
@@ -35,6 +35,8 @@
   },
   "devDependencies": {
     "@justeat/gulp-build-fozzie": "8.2.1",
+    "concurrently": "4.1.0",
+    "coveralls": "3.0.2",
     "danger": "4.4.8",
     "gulp": "3.9.1",
     "js-test-buddy": "0.1.0"
@@ -54,13 +56,14 @@
     "exports": false
   },
   "scripts": {
-    "prepare": "yarn run lint && yarn run compile",
+    "prepare": "concurrently -n \"lint,compile,test\" -c \"blue,yellow,green\" \"yarn lint\" \"yarn compile\" \"yarn test:cover\" --kill-others-on-fail",
     "compile": "babel -d dist src",
-    "lint": "yarn run lint:css && yarn run lint:js && yarn run test",
+    "lint": "yarn run lint:css && yarn run lint:js",
     "lint:css": "gulp scss:lint --prod",
     "lint:js": "gulp scripts:lint --prod",
-    "test": "gulp scripts:test",
-    "test:cover": "gulp scripts:test:coverage"
+    "test": "jest",
+    "test:cover": "jest --coverage",
+    "test:cover:ci": "cat coverage/lcov.info | coveralls"
   },
   "stylelint": {
     "extends": "@justeat/stylelint-config-fozzie"

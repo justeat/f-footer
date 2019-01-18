@@ -1,15 +1,16 @@
 import TestUtils from 'js-test-buddy';
 import { collapseFooterPanels, resizeInit } from '..';
 
-beforeEach(() => {
+const shouldMatchMedia = (matches = true) => {
     Object.defineProperty(window, 'matchMedia', {
-        value: jest.fn(() => ({ matches: true }))
+        value: jest.fn(() => ({ matches }))
     });
-});
+};
 
 describe('on page load', () => {
     it('footer panels are collapsed', () => {
         // Arrange
+        shouldMatchMedia(true);
         TestUtils.setBodyHtml(`
             <div class="c-footer-panel" data-panel-collapsible="">
                 <h2>
@@ -28,10 +29,7 @@ describe('on page load', () => {
 
     describe('at narrow width', () => {
         beforeEach(() => {
-            // Force matchMedia in tabindexResize to fail
-            Object.defineProperty(window, 'matchMedia', {
-                value: jest.fn(() => ({ matches: false }))
-            });
+            shouldMatchMedia(false);
         });
 
         it('tabindex should not be removed from footer panel headings', () => {
@@ -72,6 +70,10 @@ describe('on page load', () => {
     });
 
     describe('at normal width', () => {
+        beforeEach(() => {
+            shouldMatchMedia(true);
+        });
+
         it('tabindex should be removed from footer panel headings', () => {
             // Arrange
             TestUtils.setBodyHtml(`
