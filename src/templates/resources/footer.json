@@ -945,20 +945,20 @@
         "paymentIcons": [
             {
                 "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
+                "key": "mastercard",
+                "iconSrc": "mastercardCardIconSrc",
                 "altText": "Mastercard"
             },
             {
                 "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
+                "key": "visa",
+                "iconSrc": "visaCardIconSrc",
                 "altText": "Visa"
             },
             {
                 "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
+                "key": "amex",
+                "iconSrc": "amexCardIconSrc",
                 "altText": "American Express"
             },
             {
@@ -1154,27 +1154,21 @@
         "paymentIcons": [
             {
                 "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
+                "key": "mastercard",
+                "iconSrc": "mastercardCardIconSrc",
                 "altText": "Mastercard"
             },
             {
                 "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
+                "key": "visa",
+                "iconSrc": "visaCardIconSrc",
                 "altText": "Visa"
             },
             {
                 "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
+                "key": "amex",
+                "iconSrc": "amexCardIconSrc",
                 "altText": "American Express"
-            },
-            {
-                "type": "card",
-                "key": "paypal",
-                "iconSrc": "paypalIconSrc",
-                "altText": "PayPal"
             }
         ],
         "currentCountryLocalisedName": "New Zealand",

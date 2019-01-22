@@ -39,8 +39,11 @@
     "paymentIconPaths": {
         "dkIconSrc": "/assets/img/icons/cards/dk.svg",
         "visaIconSrc": "/assets/img/icons/cards/visa--verified.svg",
+        "visaCardIconSrc": "/assets/img/icons/cards/visa.svg",
         "mastercardIconSrc": "/assets/img/icons/cards/mastercard--securecode.svg",
+        "mastercardCardIconSrc": "/assets/img/icons/cards/mastercard.svg",
         "amexIconSrc": "/assets/img/icons/cards/amex--safekey.svg",
+        "amexCardIconSrc": "/assets/img/icons/cards/amex.svg",
         "paypalIconSrc": "/assets/img/icons/cards/paypal.svg",
         "confianzaIconSrc": "/assets/img/icons/cards/confianza.svg",
         "interacIconSrc": "/assets/img/icons/cards/interac.svg"

@@ -3,6 +3,22 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.11.0
+------------------------------
+*January 18, 2019*
+
+### Added
+- Amex icon (not SafeKey) in resource json file
+- Visa icon in resource json file
+- MasterCard icon in resource json file
+
+### Changed
+- Amex, Visa & MasterCard icon for AU & NZ footer template json
+
+### Removed
+- Paypal icon for NZ footer template json
+
+
 v1.10.0
 ------------------------------
 *January 8, 2019*
