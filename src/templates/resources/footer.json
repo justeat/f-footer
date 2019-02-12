@@ -584,7 +584,11 @@
                 "text": "Japanese"
             },
             {
+<<<<<<< HEAD
                 "url": "/takeaway/nearme/pizza",
+=======
+                "url": "/pizza-takeaways",
+>>>>>>> WH-989 WH-1002 Footer links fixes
                 "text": "Pizza delivery"
             },
             {
@@ -646,7 +650,7 @@
                 "text": "About us"
             },
             {
-                "url": "/",
+                "url": "https://www.just-eat.com/",
                 "text": "Company website"
             },
             {
@@ -2560,7 +2564,11 @@
                 "text": "[Ĵåþåñéšéẋẋẋ]"
             },
             {
+<<<<<<< HEAD
                 "url": "/takeaway/nearme/pizza",
+=======
+                "url": "/pizza-takeaways",
+>>>>>>> WH-989 WH-1002 Footer links fixes
                 "text": "[Þîžžåẋẋ ðéļîṽéŕýẋẋẋ]"
             },
             {
@@ -2622,7 +2630,7 @@
                 "text": "[Åƀöûţẋẋ ûšẋ]"
             },
             {
-                "url": "/",
+                "url": "https://www.just-eat.com/",
                 "text": "[Çöɱþåñýẋẋẋ ŵéƀšîţéẋẋẋ]"
             },
             {
