@@ -4,6 +4,20 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.13.0
+------------------------------
+*February 12, 2019*
+
+### Changed
+- Return back previous links for popular locations
+- Return back previous links for popular cuisines
+- Add link to company website
+- Change link for pizza cuisine
+- Fix some styles and layout for feedback block
+- Fix some styles for country selector
+- Remove `target="_blank"` from country selector
+
+
 v1.12.0
 ------------------------------
 *February 6, 2019*

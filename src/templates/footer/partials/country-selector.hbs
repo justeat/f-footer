@@ -10,7 +10,7 @@
     <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
         {{#each (i18n "countries") as | country |}}
             <li>
-                <a class="c-countrySelector-link" target="_blank" href="{{ country.siteUrl }}">
+                <a class="c-countrySelector-link" href="{{ country.siteUrl }}">
                     {{!-- {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat (lookup ../svgSpriteModel 'iconsSpritePath') '#icons-flags-flag.' country.key) }} --}}
                     <img class="c-icon--flag--small" src="{{ lookup ../flagIconPaths country.flagUrl }}" alt="" />
                     <p>{{ country.localisedName }}</p>
