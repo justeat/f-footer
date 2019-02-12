@@ -568,54 +568,50 @@
         "cuisines": "Top cuisines",
         "cuisineLinks": [
             {
-                "url": "/takeaway/nearme/chinese",
+                "url": "/chinese-takeaways",
                 "text": "Chinese"
             },
             {
-                "url": "/takeaway/nearme/indian",
+                "url": "/indian-takeaways",
                 "text": "Indian"
             },
             {
-                "url": "/takeaway/nearme/italian",
+                "url": "/italian-takeaways",
                 "text": "Italian"
             },
             {
-                "url": "/takeaway/nearme/sushi",
+                "url": "/japanese-takeaways",
                 "text": "Japanese"
             },
             {
-<<<<<<< HEAD
-                "url": "/takeaway/nearme/pizza",
-=======
                 "url": "/pizza-takeaways",
->>>>>>> WH-989 WH-1002 Footer links fixes
                 "text": "Pizza delivery"
             },
             {
-                "url": "/takeaway/nearme",
+                "url": "/cuisine",
                 "text": "View all cuisines"
             }
         ],
         "towns": "Locations",
         "locationLinks": [
             {
-                "url": "/takeaway/birmingham",
+                "url": "/birmingham-takeaway",
                 "text": "Birmingham"
             },
             {
-                "url": "/takeaway/cardiff",
+                "url": "/cardiff-takeaway",
                 "text": "Cardiff"
             },
             {
-                "url": "/takeaway/glasgow",
+                "url": "/glasgow-takeaway",
                 "text": "Glasgow"
             },
             {
-                "url": "/takeaway/leeds",
+                "url": "/leeds-takeaway",
                 "text": "Leeds"
             },
             {
-                "url": "/takeaway/manchester",
+                "url": "/manchester-takeaway",
                 "text": "Manchester"
             },
             {
@@ -2548,54 +2544,50 @@
         "cuisines": "[Ţöþẋ çûîšîñéšẋẋẋ]",
         "cuisineLinks": [
             {
-                "url": "/takeaway/nearme/chinese",
+                "url": "/chinese-takeaways",
                 "text": "[Çĥîñéšéẋẋẋ]"
             },
             {
-                "url": "/takeaway/nearme/indian",
+                "url": "/indian-takeaways",
                 "text": "[Îñðîåñẋẋ]"
             },
             {
-                "url": "/takeaway/nearme/italian",
+                "url": "/italian-takeaways",
                 "text": "[Îţåļîåñẋẋẋ]"
             },
             {
-                "url": "/takeaway/nearme/sushi",
+                "url": "/sushi-takeaways",
                 "text": "[Ĵåþåñéšéẋẋẋ]"
             },
             {
-<<<<<<< HEAD
-                "url": "/takeaway/nearme/pizza",
-=======
                 "url": "/pizza-takeaways",
->>>>>>> WH-989 WH-1002 Footer links fixes
                 "text": "[Þîžžåẋẋ ðéļîṽéŕýẋẋẋ]"
             },
             {
-                "url": "/takeaway/nearme",
+                "url": "/cuisine",
                 "text": "[Ṽîéŵẋẋ åļļẋ çûîšîñéšẋẋẋ]"
             }
         ],
         "towns": "[Ļöçåţîöñšẋẋẋ]",
         "locationLinks": [
             {
-                "url": "/takeaway/birmingham",
+                "url": "/birmingham-takeaway",
                 "text": "[Ɓîŕɱîñĝĥåɱẋẋẋẋ]"
             },
             {
-                "url": "/takeaway/cardiff",
+                "url": "/cardiff-takeaway",
                 "text": "[Çåŕðîƒƒẋẋẋ]"
             },
             {
-                "url": "/takeaway/glasgow",
+                "url": "/glasgow-takeaway",
                 "text": "[Ĝļåšĝöŵẋẋẋ]"
             },
             {
-                "url": "/takeaway/leeds",
+                "url": "/leeds-takeaway",
                 "text": "[Ļééðšẋẋ]"
             },
             {
-                "url": "/takeaway/manchester",
+                "url": "/manchester-takeaway",
                 "text": "[Ṁåñçĥéšţéŕẋẋẋẋ]"
             },
             {
