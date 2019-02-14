@@ -11,7 +11,7 @@ const tabindexResize = () => {
         breakpoints = getBreakpoints();
     }
 
-    if (window.matchMedia(`(min-width: ${breakpoints.mid})`).matches) {
+    if (window.matchMedia(`(min-width: ${breakpoints.wide})`).matches) {
         footerPanels.forEach(panel => {
             panel.removeAttribute('tabindex');
         });

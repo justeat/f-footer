@@ -4,6 +4,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.14.0
+------------------------------
+*February 13, 2019*
+
+### Changed
+- Change styles and js to use collapsible footer links panels on tablets
+- Update `fozzie`, `fozzie-colour-pallete` and `gulp-build-fozzie` versions
+
+
 v1.13.0
 ------------------------------
 *February 12, 2019*

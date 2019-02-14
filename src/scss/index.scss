@@ -57,7 +57,7 @@ $footer-socialIconColor : $grey--dark !default;
         position: relative;
         user-select: none;
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             padding-left: 0;
             padding-top: 0;
         }
@@ -67,7 +67,7 @@ $footer-socialIconColor : $grey--dark !default;
     .c-footer-row {
         padding: 0;
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             padding: spacing(x4);
             position: relative;
         }
@@ -76,9 +76,9 @@ $footer-socialIconColor : $grey--dark !default;
         .c-footer-row--light {
             background-color: $footer-bgLight;
             margin: 0;
-            padding: spacing(x2) 0;
+            padding: spacing(x2);
 
-            @include media('<mid') {
+            @include media('<wide') {
                 .c-footer-heading {
                     padding: 0 0 spacing();
                 }
@@ -87,16 +87,16 @@ $footer-socialIconColor : $grey--dark !default;
                 }
             }
 
-            @include media('>=mid') {
+            @include media('>=wide') {
                 margin: 0;
-                padding: spacing(x4) 0 spacing(x2);
+                padding: 0;
             }
         }
 
 
     .c-footer-panel {
 
-        @include media('<mid') {
+        @include media('<wide') {
             border-bottom: 1px solid $footer-borderColor;
             cursor: pointer;
 
@@ -120,7 +120,7 @@ $footer-socialIconColor : $grey--dark !default;
         }
 
         .c-footer-heading {
-            @include media('>=mid') {
+            @include media('>=wide') {
                 padding: 0;
             }
         }
@@ -132,7 +132,7 @@ $footer-socialIconColor : $grey--dark !default;
             text-decoration: none;
             width: 100%;
 
-            @include media('>=mid') {
+            @include media('>=wide') {
                 padding: 0 0 spacing();
                 width: auto;
             }
@@ -159,7 +159,7 @@ $footer-socialIconColor : $grey--dark !default;
         margin-bottom: spacing(x2);
         margin-left: spacing(x2);
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             margin: spacing(x2) 0 0 0;
         }
     }
@@ -170,18 +170,14 @@ $footer-socialIconColor : $grey--dark !default;
             flex-flow: row wrap;
             margin-top: 0;
 
-            @include media('>=mid') {
+            @include media('>=wide') {
                 margin-bottom: 0;
             }
         }
 
         .c-footer-list-item {
             & + .c-footer-list-item {
-                margin: 0 0 0 spacing(x3);
-
-                @include media('>=wide') {
-                    margin-left: spacing(x2);
-                }
+                margin-left: spacing(x2);
             }
             & > a {
                 display: block;
@@ -190,14 +186,14 @@ $footer-socialIconColor : $grey--dark !default;
 
     .c-footer-social,
     .c-footer-cards {
-        @include media('>mid') {
+        @include media('>=wide') {
             order: 2;
         }
     }
 
     .c-footer-feedback,
     .c-footer-countries {
-        @include media('>mid') {
+        @include media('>=wide') {
             order: 1;
         }
     }
@@ -217,7 +213,7 @@ $footer-socialIconColor : $grey--dark !default;
         flex-direction: column;
         padding: 0;
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             align-items: center;
             flex-direction: row;
             padding: 0;
@@ -227,7 +223,7 @@ $footer-socialIconColor : $grey--dark !default;
             flex-basis: 50%;
             margin: spacing(x2) 0 0 0;
 
-            @include media('>=mid') {
+            @include media('>=wide') {
                 margin: 0 0 0 spacing(x2);
             }
         }
@@ -237,7 +233,7 @@ $footer-socialIconColor : $grey--dark !default;
         border-bottom: solid 1px $footer-borderColor;
         padding: spacing(x3) spacing(x2);
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             border: none;
             display: flex;
             justify-content: flex-end;
@@ -247,7 +243,7 @@ $footer-socialIconColor : $grey--dark !default;
         .c-footer-list {
             margin: 0;
 
-            @include media('>=mid') {
+            @include media('>=wide') {
                 float: right;
             }
         }
@@ -255,7 +251,7 @@ $footer-socialIconColor : $grey--dark !default;
 
 
     .c-footer-certificate {
-        @include media('<=mid') {
+        @include media('<wide') {
             flex-basis: 100%;
             margin-top: spacing(x3);
             order: 1;
@@ -266,19 +262,10 @@ $footer-socialIconColor : $grey--dark !default;
     .c-footer-icon {
         display: block;
 
-        @include media('>=mid') {
+        @include media('>=wide') {
             margin-bottom: spacing(x2);
         }
-
     }
-
-        .c-footer-icon--app {
-            height: 40px;
-
-            @include media('>=mid', '<=wide') {
-                height: 32px;
-            }
-        }
 
         .c-footer-icon--social {
             height: 28px;
