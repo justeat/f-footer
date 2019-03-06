@@ -542,7 +542,8 @@
             },
             {
                 "url": "/account/login",
-                "text": "Log in"
+                "text": "Log in",
+                "rel": "nofollow"
             },
             {
                 "url": "/account/register",
@@ -1256,7 +1257,8 @@
             },
             {
                 "url": "/account/login",
-                "text": "Accedi"
+                "text": "Accedi",
+                "rel": "nofollow"
             },
             {
                 "url": "/account/register",
@@ -1748,7 +1750,8 @@
             },
             {
                 "url": "/account/login",
-                "text": "Logg inn"
+                "text": "Logg inn",
+                "rel": "nofollow"
             },
             {
                 "url": "/account/register",
@@ -2518,7 +2521,8 @@
             },
             {
                 "url": "/account/login",
-                "text": "[Ļöĝẋ îñẋ]"
+                "text": "[Ļöĝẋ îñẋ]",
+                "rel": "nofollow"
             },
             {
                 "url": "/account/register",
