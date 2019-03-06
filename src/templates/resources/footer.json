@@ -303,54 +303,54 @@
         "cuisines": "Tipos de cocina",
         "cuisineLinks": [
             {
-                "url": "/adomicilio/pizza",
+                "url": "/a-domicilio/cerca-de-mi/pizza",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/adomicilio/kebab",
+                "url": "/a-domicilio/cerca-de-mi/kebab",
                 "text": "Kebab a domicilio"
             },
             {
-                "url": "/adomicilio/comida-china",
+                "url": "/a-domicilio/cerca-de-mi/comida-china",
                 "text": "Comida china a domicilio"
             },
             {
-                "url": "/adomicilio/sushi",
+                "url": "/a-domicilio/cerca-de-mi/sushi",
                 "text": "Sushi a domicilio"
             },
             {
-                "url": "/adomicilio/hamburguesas",
+                "url": "/a-domicilio/cerca-de-mi/hamburguesas",
                 "text": "Hamburguesas a domicilio"
             },
             {
-                "url": "/adomicilio/tipos-de-comida",
+                "url": "/a-domicilio/cerca-de-mi",
                 "text": "Más comida a domicilio"
             }
         ],
         "towns": "Ciudades",
         "locationLinks": [
             {
-                "url": "/adomicilio/madrid",
+                "url": "/a-domicilio/madrid",
                 "text": "Madrid"
             },
             {
-                "url": "/adomicilio/barcelona",
+                "url": "/a-domicilio/barcelona",
                 "text": "Barcelona"
             },
             {
-                "url": "/adomicilio/valencia",
+                "url": "/a-domicilio/valencia",
                 "text": "Valencia"
             },
             {
-                "url": "/adomicilio/zaragoza",
+                "url": "/a-domicilio/zaragoza",
                 "text": "Zaragoza"
             },
             {
-                "url": "/adomicilio/coruna",
-                "text": "A Coruña"
+                "url": "/a-domicilio/las-palmas-de-gran-canaria",
+                "text": "Las Palmas"
             },
             {
-                "url": "/adomicilio/localidades",
+                "url": "/a-domicilio",
                 "text": "Más ciudades"
             }
         ],
@@ -1276,23 +1276,23 @@
         "cuisines": "Cucine",
         "cuisineLinks": [
             {
-                "url": "/domicilio/pizza",
+                "url": "/domicilio/vicino-a-me/pizza",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/domicilio/cinese",
+                "url": "/domicilio/vicino-a-me/cinese",
                 "text": "Cinese a domicilio"
             },
             {
-                "url": "/domicilio/sushi",
+                "url": "/domicilio/vicino-a-me/sushi",
                 "text": "Sushi a domicilio"
             },
             {
-                "url": "/domicilio/hamburger",
-                "text": "Hamburger a domicilio"
+                "url": "/domicilio/vicino-a-me/kebab",
+                "text": "Kebab a domicilio"
             },
             {
-                "url": "/domicilio/tipi-cucina",
+                "url": "/domicilio/vicino-a-me/tipi-cucina",
                 "text": "Tutti i tipi di cucine"
             }
         ],
@@ -1315,7 +1315,7 @@
                 "text": "Napoli"
             },
             {
-                "url": "/domicilio/Torino",
+                "url": "/domicilio/torino",
                 "text": "Torino"
             },
             {
@@ -1323,11 +1323,27 @@
                 "text": "Bologna"
             },
             {
-                "url": "/domicilio/citta",
+                "url": "/domicilio/ferrara",
+                "text": "Ferrara"
+            },
+            {
+                "url": "/domicilio/genova",
+                "text": "Genova"
+            },
+            {
+                "url": "/domicilio/padova",
+                "text": "Padova"
+            },
+            {
+                "url": "/domicilio/parma",
+                "text": "Parma"
+            },
+            {
+                "url": "/domicilio",
                 "text": "Tutte le città"
             },
             {
-                "url": "/domicilio/citta-offerte",
+                "url": "/domicilio",
                 "text": "Offerte e Sconti"
             }
         ],
@@ -1524,55 +1540,47 @@
         "cuisines": "Popular cuisines",
         "cuisineLinks": [
             {
-                "url": "/takeaways/chinese",
-                "text": "Order Chinese"
-            },
-            {
-                "url": "/takeaways/pizza",
+                "url": "/takeaway/nearme/pizza",
                 "text": "Order Pizza"
             },
             {
-                "url": "/takeaways/traditional-chipper",
-                "text": "Order Fish & Chips"
+                "url": "/takeaway/nearme/chinese",
+                "text": "Order Chinese"
             },
             {
-                "url": "/takeaways/indian",
+                "url": "/takeaway/nearme/indian",
                 "text": "Order Indian"
             },
             {
-                "url": "/takeaways/kebab",
-                "text": "Order Kebab"
+                "url": "/takeaway/nearme/mexican",
+                "text": "Order Mexican"
             },
             {
-                "url": "/takeaways/cuisine-types",
-                "text": "View all cuisines"
+                "url": "/takeaway/nearme/thai",
+                "text": "Order Thai"
             }
         ],
         "towns": "Popular locations",
         "locationLinks": [
             {
-                "url": "/takeaways/dublin-area",
+                "url": "/takeaway/nearme/dublin-area",
                 "text": "Dublin"
             },
             {
-                "url": "/takeaways/cork-city-centre",
-                "text": "Cork"
-            },
-            {
-                "url": "/takeaways/galway-city-centre",
-                "text": "Galway"
-            },
-            {
-                "url": "/takeaways/limerick-city-centre",
+                "url": "/takeaway/nearme/limerick",
                 "text": "Limerick"
             },
             {
-                "url": "/takeaways/waterford-city-centre",
-                "text": "Waterford"
+                "url": "/takeaway/nearme/cork",
+                "text": "Cork"
             },
             {
-                "url": "/takeaways/locations",
-                "text": "View all locations"
+                "url": "/takeaway/nearme/galway",
+                "text": "Galway"
+            },
+            {
+                "url": "/takeaway/nearme/waterford",
+                "text": "Waterford"
             }
         ],
         "aboutUs": "About us",
