@@ -7,7 +7,11 @@
 
     <ul class="c-footer-list">
         {{#each (i18n "links") as | link |}}
-            <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+            <li>
+                <a href="{{ link.url }}" {{#if link.rel}}rel="{{ link.rel }}"{{/if}}>
+                    {{ link.text }}
+                </a>
+            </li>
         {{/each}}
     </ul>
 </div>
