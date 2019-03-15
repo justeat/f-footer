@@ -558,10 +558,6 @@
                 "text": "Mobile apps"
             },
             {
-                "url": "/suggest-a-restaurant",
-                "text": "Suggest a restaurant"
-            },
-            {
                 "url": "/member/updateuserinfo",
                 "text": "My account"
             }
