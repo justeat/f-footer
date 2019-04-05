@@ -19,7 +19,8 @@ const tenants = {
     // 'nb-NO': 'https://www.just-eat.no'
 };
 
-describe('Footer links', () => {
+// This is a manually run test
+describe.skip('Footer links', () => {
     const languages = Object.keys(tenants);
     languages.forEach(language => {
         const baseUrl = tenants[language];

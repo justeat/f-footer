@@ -40,4 +40,14 @@ The data required to build the templates is in the /resources folder in the /tem
 
 When building the templates, the i18n Handlebars helper will use the data for the current tenant by iterating through the property items for the 'culture' that has been passed in via the model.
 
-## Documentation to be completed once module is in stable state.
+## Testing
+
+Footer links are integration tested, however must be manually run by the developer due to CORS issues with JSDOM and the Just Eat international websites.
+
+To tests the links:
+1. Open the `package.json` and change `testEnvironmentOptions.url` to the page you want to test
+2. Open `test/integration/footer-links.test.js`
+3. Uncomment the tenant being tested and remove the `skip` method on test `describe` function
+4. Run `jest` in the terminal and fix any tests that fail
+
+*Note:* At the time of writing some endpoints are unavailable within Just Eat's internal networks, i.e. they return 404s; in particular the pages run by *Valtec*. To test these pages you may have to tether your phone and run off your phone network connection
