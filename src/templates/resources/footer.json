@@ -292,10 +292,6 @@
                 "text": "Mobile apps"
             },
             {
-                "url": "/suggest-a-restaurant",
-                "text": "Sugiérenos un restaurante"
-            },
-            {
                 "url": "/faq",
                 "text": "Ayuda"
             }
@@ -303,54 +299,54 @@
         "cuisines": "Tipos de cocina",
         "cuisineLinks": [
             {
-                "url": "/adomicilio/pizza",
+                "url": "/a-domicilio/cerca-de-mi/pizza",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/adomicilio/kebab",
+                "url": "/a-domicilio/cerca-de-mi/kebab",
                 "text": "Kebab a domicilio"
             },
             {
-                "url": "/adomicilio/comida-china",
+                "url": "/a-domicilio/cerca-de-mi/comida-china",
                 "text": "Comida china a domicilio"
             },
             {
-                "url": "/adomicilio/sushi",
+                "url": "/a-domicilio/cerca-de-mi/sushi",
                 "text": "Sushi a domicilio"
             },
             {
-                "url": "/adomicilio/hamburguesas",
+                "url": "/a-domicilio/cerca-de-mi/hamburguesas",
                 "text": "Hamburguesas a domicilio"
             },
             {
-                "url": "/adomicilio/tipos-de-comida",
+                "url": "/a-domicilio/cerca-de-mi/tipos-de-comida",
                 "text": "Más comida a domicilio"
             }
         ],
         "towns": "Ciudades",
         "locationLinks": [
             {
-                "url": "/adomicilio/madrid",
+                "url": "/a-domicilio/madrid",
                 "text": "Madrid"
             },
             {
-                "url": "/adomicilio/barcelona",
+                "url": "/a-domicilio/barcelona",
                 "text": "Barcelona"
             },
             {
-                "url": "/adomicilio/valencia",
+                "url": "/a-domicilio/valencia",
                 "text": "Valencia"
             },
             {
-                "url": "/adomicilio/zaragoza",
+                "url": "/a-domicilio/zaragoza",
                 "text": "Zaragoza"
             },
             {
-                "url": "/adomicilio/coruna",
+                "url": "/a-domicilio/a-coruna",
                 "text": "A Coruña"
             },
             {
-                "url": "/adomicilio/localidades",
+                "url": "/a-domicilio",
                 "text": "Más ciudades"
             }
         ],
@@ -639,7 +635,7 @@
                 "text": "Cookie Policy"
             },
             {
-                "url": "/about",
+                "url": "https://www.justeatplc.com/about-us/our-business",
                 "text": "About us"
             },
             {
@@ -793,11 +789,11 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/about_menulog",
+                "url": "/content/",
                 "text": "Get to know us"
             },
             {
-                "url": "/careers",
+                "url": "/content/partner-with-us/",
                 "text": "Work with us"
             },
             {
@@ -805,34 +801,22 @@
                 "text": "Contact us"
             }
         ],
-        "cuisines": "Top cuisines",
+        "cuisines": "Cuisines",
         "cuisineLinks": [
+            {
+                "url": "/content/browse/burgers",
+                "text": "Burgers"
+            },
             {
                 "url": "/browse/chinese",
                 "text": "Chinese"
-            },
-            {
-                "url": "/browse/pizza",
-                "text": "Pizza"
             },
             {
                 "url": "/browse/indian",
                 "text": "Indian"
             },
             {
-                "url": "/browse/thai",
-                "text": "Thai"
-            },
-            {
-                "url": "/browse/burgers",
-                "text": "Burgers"
-            },
-            {
-                "url": "/browse/vietnamese",
-                "text": "Vietnamese"
-            },
-            {
-                "url": "/browse/italian",
+                "url": "/content/browse/italian",
                 "text": "Italian"
             },
             {
@@ -840,7 +824,23 @@
                 "text": "Japanese"
             },
             {
-                "url": "/browse",
+                "url": "/browse/korean",
+                "text": "Korean"
+            },
+            {
+                "url": "/browse/pizza",
+                "text": "Pizza"
+            },
+            {
+                "url": "/browse/thai",
+                "text": "Thai"
+            },
+            {
+                "url": "/browse/vietnamese",
+                "text": "Vietnamese"
+            },
+            {
+                "url": "/content/browse",
                 "text": "View all cuisines"
             }
         ],
@@ -879,22 +879,50 @@
                 "text": "Gold Coast food delivery"
             },
             {
+                "url": "/browse/newcastle-hunter-valley",
+                "text": "Newcastle food delivery"
+            },
+            {
                 "url": "/browse",
                 "text": "View all cities"
             }
         ],
-        "aboutUs": "A bit more about us",
+        "aboutUs": "About us",
         "aboutUsLinks": [
             {
-                "url": "/press",
+                "url": "/content/",
+                "text": "About Menulog"
+            },
+            {
+                "url": "/content/our-price-promise",
+                "text": "Our Price Promise"
+            },
+            {
+                "url": "/content/partner-with-us",
+                "text": "Partner with Us"
+            },
+            {
+                "url": "/content/partner-with-us/",
+                "text": "Menulog Careers"
+            },
+            {
+                "url": "/content/corporate-partners",
+                "text": "Corporate Partners"
+            },
+            {
+                "url": "/content/contact-us",
+                "text": "Contact Us"
+            },
+            {
+                "url": "/blog/category/press/",
                 "text": "Media Centre"
             },
             {
-                "url": "/help",
+                "url": "/help/",
                 "text": "Help Centre"
             },
             {
-                "url": "/blog",
+                "url": "/blog/",
                 "text": "Menulog Blog"
             },
             {
@@ -1045,12 +1073,16 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/about_menulog",
+                "url": "/content/get-to-know-us/",
                 "text": "Get to know us"
             },
             {
-                "url": "/careers",
+                "url": "/content/work-with-us/",
                 "text": "Work with us"
+            },
+            {
+                "url": "/help",
+                "text": "Contact us"
             },
             {
                 "url": "/help",
@@ -1060,19 +1092,19 @@
         "cuisines": "Top cuisines",
         "cuisineLinks": [
             {
-                "url": "/browse/chinese",
+                "url": "/browse/cuisines/chinese",
                 "text": "Chinese"
             },
             {
-                "url": "/browse/indian",
+                "url": "/browse/cuisines/indian",
                 "text": "Indian"
             },
             {
-                "url": "/browse/thai",
+                "url": "/browse/cuisines/thai",
                 "text": "Thai"
             },
             {
-                "url": "/browse/pizza",
+                "url": "/browse/cuisines/pizza",
                 "text": "Pizza"
             },
             {
@@ -1083,19 +1115,19 @@
         "towns": "Locations",
         "locationLinks": [
             {
-                "url": "/browse/auckland-auck",
+                "url": "/browse/locations/auckland/",
                 "text": "Auckland"
             },
             {
-                "url": "/browse/wellington-wel",
+                "url": "/browse/locations/wellington/",
                 "text": "Wellington"
             },
             {
-                "url": "/browse/christchurch-chri",
+                "url": "/browse/locations/christchurch/",
                 "text": "Christchurch"
             },
             {
-                "url": "/browse/dunedin-dune",
+                "url": "/browse/locations/dunedin/",
                 "text": "Dunedin"
             }
         ],
@@ -1520,65 +1552,57 @@
         "cuisines": "Popular cuisines",
         "cuisineLinks": [
             {
-                "url": "/takeaways/chinese",
-                "text": "Order Chinese"
-            },
-            {
-                "url": "/takeaways/pizza",
+                "url": "/takeaway/nearme/pizza",
                 "text": "Order Pizza"
             },
             {
-                "url": "/takeaways/traditional-chipper",
-                "text": "Order Fish & Chips"
+                "url": "/takeaway/nearme/chinese",
+                "text": "Order Chinese"
             },
             {
-                "url": "/takeaways/indian",
+                "url": "/takeaway/nearme/indian",
                 "text": "Order Indian"
             },
             {
-                "url": "/takeaways/kebab",
-                "text": "Order Kebab"
+                "url": "/takeaway/nearme/mexican",
+                "text": "Order Mexican"
             },
             {
-                "url": "/takeaways/cuisine-types",
-                "text": "View all cuisines"
+                "url": "/takeaway/nearme/thai",
+                "text": "Order Thai"
             }
         ],
         "towns": "Popular locations",
         "locationLinks": [
             {
-                "url": "/takeaways/dublin-area",
+                "url": "/takeaway/dublin-area",
                 "text": "Dublin"
             },
             {
-                "url": "/takeaways/cork-city-centre",
-                "text": "Cork"
-            },
-            {
-                "url": "/takeaways/galway-city-centre",
-                "text": "Galway"
-            },
-            {
-                "url": "/takeaways/limerick-city-centre",
+                "url": "/takeaway/limerick-city-centre",
                 "text": "Limerick"
             },
             {
-                "url": "/takeaways/waterford-city-centre",
-                "text": "Waterford"
+                "url": "/takeaway/cork-city-centre",
+                "text": "Cork"
             },
             {
-                "url": "/takeaways/locations",
-                "text": "View all locations"
+                "url": "/takeaway/galway-city-centre",
+                "text": "Galway"
+            },
+            {
+                "url": "/takeaway/waterford",
+                "text": "Waterford"
             }
         ],
         "aboutUs": "About us",
         "aboutUsLinks": [
             {
-                "url": "/about",
+                "url": "/info/about-us",
                 "text": "About us"
             },
             {
-                "url": "/takeaways",
+                "url": "/takeaway/nearme",
                 "text": "Browse Takeaways"
             },
             {
@@ -1761,7 +1785,7 @@
                 "text": "Take-away"
             },
             {
-                "url": "/take-away/italiensk",
+                "url": "/take-away/pizza",
                 "text": "Pizza"
             },
             {
