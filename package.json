@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "1.17.0",
+  "version": "1.18.0",
   "main": "dist/js/index.js",
   "files": [
     "dist",
@@ -39,6 +39,7 @@
     "coveralls": "3.0.2",
     "danger": "4.4.8",
     "gulp": "3.9.1",
+    "jest": "24.7.0",
     "js-test-buddy": "0.1.0"
   },
   "resolutions": {
@@ -86,12 +87,16 @@
     }
   ],
   "jest": {
-    "setupTestFrameworkScriptFile": "./jest.setup.js",
+    "setupTestFrameworkScriptFile": "./test/setup.js",
     "collectCoverageFrom": [
       "src/js/**/*.js"
     ],
     "roots": [
-      "src/"
-    ]
+      "src/",
+      "test/"
+    ],
+    "testEnvironmentOptions": {
+      "url": "https://www.just-eat.co.uk"
+    }
   }
 }
