@@ -9,7 +9,7 @@ v1.18.1
 *April 15, 2019*
 
 ### Added
-- "Become a courier" link
+- "Deliver with Just Eat" link
 
 
 v1.18.0
