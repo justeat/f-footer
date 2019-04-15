@@ -619,6 +619,10 @@
                 "text": "Restaurant sign up"
             },
             {
+                "url": "https://couriers.just-eat.co.uk/application",
+                "text": "Deliver with Just Eat"
+            },
+            {
                 "url": "/pricepromise",
                 "text": "Price promise"
             },
