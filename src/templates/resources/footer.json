@@ -618,6 +618,10 @@
                 "url": "https://restaurants.just-eat.co.uk/",
                 "text": "Restaurant sign up"
             },
+                "url": "https://couriers.just-eat.co.uk/application",
+                "text": "Become a Courier"
+            {
+            },
             {
                 "url": "/pricepromise",
                 "text": "Price promise"
