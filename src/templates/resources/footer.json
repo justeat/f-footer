@@ -98,6 +98,8 @@
                 "text": "Alle byer"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Om os",
         "aboutUsLinks": [
             {
@@ -350,6 +352,8 @@
                 "text": "Más ciudades"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Sobre nosotros",
         "aboutUsLinks": [
             {
@@ -612,6 +616,8 @@
                 "text": "View all locations"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
@@ -793,55 +799,67 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/content/",
-                "text": "Get to know us"
-            },
-            {
-                "url": "/content/partner-with-us/",
-                "text": "Work with us"
-            },
-            {
-                "url": "/help",
+                "url": "/content/contact-us/",
                 "text": "Contact us"
+            },
+            {
+                "url": "/account/login/",
+                "text": "Log in"
+            },
+            {
+                "url": "/account/register/",
+                "text": "Sign up"
+            },
+            {
+                "url": "/account/info/",
+                "text": "My account"
+            },
+            {
+                "url": "/blog/",
+                "text": "Menulog blog"
+            },
+            {
+                "url": "/help/",
+                "text": "Help centre"
             }
         ],
         "cuisines": "Cuisines",
         "cuisineLinks": [
             {
-                "url": "/content/browse/burgers",
-                "text": "Burgers"
+                "url": "/browse/burgers",
+                "text": "Burgers Delivery"
             },
             {
                 "url": "/browse/chinese",
-                "text": "Chinese"
+                "text": "Chinese Delivery"
             },
             {
                 "url": "/browse/indian",
-                "text": "Indian"
+                "text": "Indian Delivery"
             },
             {
                 "url": "/content/browse/italian",
-                "text": "Italian"
+                "text": "Italian Delivery"
             },
             {
                 "url": "/browse/japanese",
-                "text": "Japanese"
+                "text": "Japanese Delivery"
             },
             {
                 "url": "/browse/korean",
-                "text": "Korean"
+                "text": "Korean Delivery"
             },
             {
                 "url": "/browse/pizza",
-                "text": "Pizza"
+                "text": "Pizza Delivery"
             },
             {
                 "url": "/browse/thai",
-                "text": "Thai"
+                "text": "Thai Delivery"
             },
             {
                 "url": "/browse/vietnamese",
-                "text": "Vietnamese"
+                "text": "Vietnamese Delivery"
             },
             {
                 "url": "/content/browse",
@@ -888,50 +906,97 @@
             },
             {
                 "url": "/browse",
-                "text": "View all cities"
+                "text": "View all locations"
             }
         ],
-        "aboutUs": "About us",
+        "brands": "Brands",
+        "brandLinks": [
+            {
+                "url": "/content/brands/hungry-jacks/",
+                "text": "Hungry Jack's Delivery"
+            },
+            {
+                "url": "/content/brands/kfc/",
+                "text": "KFC Delivery"
+            },
+            {
+                "url": "/content/brands/crust/",
+                "text": "Crust Delivery"
+            },
+            {
+                "url": "/content/brands/hogs-breath/",
+                "text": "Hog's Breath Delivery"
+            },
+            {
+                "url": "/content/brands/oporto/",
+                "text": "Oporto Delivery"
+            },
+            {
+                "url": "/content/brands/pizza-hut/",
+                "text": "Pizza Hut Delivery"
+            },
+            {
+                "url": "/content/brands/red-rooster/",
+                "text": "Red Rooster Delivery"
+            },
+            {
+                "url": "/content/brands/subway/",
+                "text": "Subway Delivery"
+            },
+            {
+                "url": "/content/brands/zambrero/",
+                "text": "Zambrero Delivery"
+            },
+            {
+                "url": "/browse/",
+                "text": "View all brands"
+            }
+        ],
+        "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
                 "url": "/content/",
                 "text": "About Menulog"
             },
             {
-                "url": "/content/our-price-promise",
-                "text": "Our Price Promise"
-            },
-            {
-                "url": "/content/partner-with-us",
-                "text": "Partner with Us"
+                "url": "/content/our-price-promise/",
+                "text": "Price promise"
             },
             {
                 "url": "/content/partner-with-us/",
-                "text": "Menulog Careers"
+                "text": "Partner with us"
             },
             {
-                "url": "/content/corporate-partners",
-                "text": "Corporate Partners"
+                "url": "/content/partner-with-us/",
+                "text": "Menulog careers"
             },
             {
-                "url": "/content/contact-us",
-                "text": "Contact Us"
+                "url": "/content/corporate-partners/",
+                "text": "Corporate partners"
             },
             {
                 "url": "/blog/category/press/",
                 "text": "Media Centre"
             },
             {
-                "url": "/help/",
-                "text": "Help Centre"
+                "url": "/privacy-policy/",
+                "text": "Privacy Policy and Terms of Use"
             },
             {
-                "url": "/blog/",
-                "text": "Menulog Blog"
+                "url": "https://partner.menulog.com.au/",
+                "text": "Partner centre"
             },
             {
-                "url": "/privacy-policy",
-                "text": "Privacy Policy / Terms & Conditions"
+                "url": "https://couriers.menulog.com.au/application/",
+                "text": "Become a courier"
+            },
+            {
+                "url": "https://couriers.menulog.com.au/",
+                "text": "Courier portal"
+            },
+            {
+                "url": "/content/join-menulog",
+                "text": "List your restaurant"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1077,20 +1142,28 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/content/get-to-know-us/",
-                "text": "Get to know us"
-            },
-            {
-                "url": "/content/work-with-us/",
-                "text": "Work with us"
-            },
-            {
-                "url": "/help",
+                "url": "/content/contact-us/",
                 "text": "Contact us"
             },
             {
-                "url": "/help",
-                "text": "Help Centre"
+                "url": "/account/login/",
+                "text": "Log in"
+            },
+            {
+                "url": "/account/register/",
+                "text": "Sign up"
+            },
+            {
+                "url": "/account/info/",
+                "text": "My account"
+            },
+            {
+                "url": "/blog/",
+                "text": "Menulog blog"
+            },
+            {
+                "url": "/help/",
+                "text": "Help centre"
             }
         ],
         "cuisines": "Top cuisines",
@@ -1135,16 +1208,26 @@
                 "text": "Dunedin"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
 
             {
-                "url": "/blog",
-                "text": "Menulog Blog"
+                "url": "/about_menulog",
+                "text": "Get to know us"
             },
             {
                 "url": "/privacy-policy#privacy_policy",
                 "text": "Privacy Policy / Terms & Conditions"
+            },
+            {
+                "url": "https://connect.menulog.co.nz/login?client_id=RappsOrigPartnerCentre&response_type=code&redirect_uri=https:%2F%2Fpartner.menulog.co.nz%2Fsignin-jeconnect&state=QaF4ae5nfj7FUpuoevTVCHvmMBxIA1hO_4mDtePNEJOasCly6wdTLaHjTuvS7_If4SwPYZelgwT0ZFYb7CCZvfIIr9X0OVLKiRpdCLYU9zJPuorMgnFjjRlyQNdU8L_5ZvkfGGBtXJx-jNOlh5lU_aqiQ-KgrKthGa83ZbYH8GjV81bwGb7iJ8PRFJPYbwTyys-zclUwNFxXhfdsOpqIWsIlfpQ",
+                "text": "Partner Centre"
+            },
+            {
+                "url": "/join_takeaway_section",
+                "text": "Restaurant sign up"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1363,6 +1446,8 @@
                 "text": "Offerte e Sconti"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Chi siamo",
         "aboutUsLinks": [
             {
@@ -1844,6 +1929,8 @@
                 "text": "Alle byer"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Om oss",
         "aboutUsLinks": [
             {
@@ -2090,6 +2177,8 @@
                 "text": "View all locations"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "About Us",
         "aboutUsLinks": [
             {
@@ -2360,6 +2449,8 @@
                 "text": "Voir toutes les villes"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "À propos de Just Eat",
         "aboutUsLinks": [
             {
@@ -2623,6 +2714,8 @@
                 "text": "[Ṽîéŵẋẋ åļļẋ ļöçåţîöñšẋẋẋ]"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "[Åẋ ƀîţẋ ɱöŕéẋẋ åƀöûţẋẋ ûšẋ]",
         "aboutUsLinks": [
             {
