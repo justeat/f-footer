@@ -24,7 +24,7 @@
                 "text": "Firmaaftale"
             },
             {
-                "url": "http://blog.just-eat.dk/",
+                "url": "/blog",
                 "text": "Just Eat Blog"
             },
             {
@@ -101,7 +101,7 @@
         "aboutUs": "Om os",
         "aboutUsLinks": [
             {
-                "url": "http://justeat-partner.dk/",
+                "url": "https://restaurants.just-eat.dk/",
                 "text": "Restaurant påmelding"
             },
             {
@@ -1001,12 +1001,6 @@
         "currentCountryFlagKey": "au",
         "countries": [
             {
-                "key": "au",
-                "flagUrl": "australiaFlagIconUrl",
-                "localisedName": "Australia",
-                "siteUrl": "https://www.menulog.com.au"
-            },
-            {
                 "key": "br",
                 "flagUrl": "brasilFlagIconUrl",
                 "localisedName": "Brazil",
@@ -1065,6 +1059,12 @@
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
             }
         ]
     },
@@ -1250,12 +1250,6 @@
                 "siteUrl": "https://www.justeat.it"
             },
             {
-                "key": "nz",
-                "flagUrl": "newzealandFlagIconUrl",
-                "localisedName": "New Zealand",
-                "siteUrl": "https://www.menulog.co.nz"
-            },
-            {
                 "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
                 "localisedName": "Norway",
@@ -1272,6 +1266,12 @@
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Switzerland",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
             }
         ]
     },
@@ -1545,7 +1545,7 @@
                 "text": "Price Promise"
             },
             {
-                "url": "http://www.getmoreorders.ie/",
+                "url": "https://restaurants.just-eat.ie/",
                 "text": "Restaurant sign-up"
             },
             {
@@ -1847,7 +1847,7 @@
         "aboutUs": "Om oss",
         "aboutUsLinks": [
             {
-                "url": "https://www.just-eat.no/take-away/bedrift-overtidsmat",
+                "url": "/take-away/bedrift-overtidsmat",
                 "text": "Restaurant påmelding"
             },
             {
@@ -1895,7 +1895,7 @@
                 "altText": ""
             },
             {
-                "url": "http://blog.just-eat.no/",
+                "url": "/blog",
                 "key": "rss",
                 "iconSrc": "rssIconUrl",
                 "altText": ""
