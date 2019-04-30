@@ -1847,7 +1847,7 @@
         "aboutUs": "Om oss",
         "aboutUsLinks": [
             {
-                "url": "https://www.just-eat.no/take-away/bedrift-overtidsmat",
+                "url": "/take-away/bedrift-overtidsmat",
                 "text": "Restaurant påmelding"
             },
             {
