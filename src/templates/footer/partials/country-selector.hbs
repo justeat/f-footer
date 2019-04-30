@@ -1,9 +1,9 @@
 <div class="c-countrySelector">
-    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" aria-label="{{ i18n "changeCurrentCountry" }}">
+    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" data-test-id="countrySelector-button" aria-label="{{ i18n "changeCurrentCountry" }}">
         {{!-- temporarily return back previos img solution untill WH-692 is fixed --}}
         {{!-- {{> je-svg-sprite cssClass="c-icon--flag--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath '#icons-flags-flag.' (i18n "currentCountryFlagKey")) }} --}}
         <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
-        <p>{{ i18n "currentCountryLocalisedName" }}</p>
+        <p data-test-id="countrySelector-current-country">{{ i18n "currentCountryLocalisedName" }}</p>
         {{!-- {{> je-svg-sprite cssClass="c-countrySelector-chevron c-icon--chevron--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath "#icons-arrows-chevron") }} --}}
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ miscIconPaths.chevronIconUrl }}" alt="" />
     </button>
