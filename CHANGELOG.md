@@ -4,6 +4,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.19.0
+------------------------------
+*April 30, 2019*
+
+### Added
+- United Kingdom to Australia and New Zealand's country selectors
+
+### Removed
+- New Zealand from New Zealand's country selector
+- Australia from Australia's country selector
+
+### Updated
+- Old (http) or dead links in footer.
+
+
 v1.18.1
 ------------------------------
 *April 15, 2019*
