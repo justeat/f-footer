@@ -7,7 +7,7 @@
         {{!-- {{> je-svg-sprite cssClass="c-countrySelector-chevron c-icon--chevron--small" spriteUrl=(concat svgSpriteModel.iconsSpritePath "#icons-arrows-chevron") }} --}}
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ miscIconPaths.chevronIconUrl }}" alt="" />
     </button>
-    <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list">
+    <ul class="c-countrySelector-list is-hidden" data-toggle-name="countrySelector-list" data-test-id="countrySelector-list">
         {{#each (i18n "countries") as | country |}}
             <li>
                 <a class="c-countrySelector-link" href="{{ country.siteUrl }}">
