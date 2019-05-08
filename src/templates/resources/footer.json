@@ -1398,15 +1398,15 @@
         "cuisines": "Cucine",
         "cuisineLinks": [
             {
-                "url": "/domicilio/pizza/",
+                "url": "/domicilio/domicilio/vicino-a-me/pizza/",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/domicilio/cines/e",
+                "url": "/domicilio/vicino-a-me/cinese",
                 "text": "Cinese a domicilio"
             },
             {
-                "url": "/domicilio/sushi/",
+                "url": "/domicilio/vicino-a-me/sushi/",
                 "text": "Sushi a domicilio"
             },
             {
@@ -1414,7 +1414,7 @@
                 "text": "Kebab a domicilio"
             },
             {
-                "url": "/domicilio/tipi-cucina/",
+                "url": "/domicilio/vicino-a-me/",
                 "text": "Tutti i tipi di cucine"
             }
         ],
