@@ -1398,7 +1398,7 @@
         "cuisines": "Cucine",
         "cuisineLinks": [
             {
-                "url": "/domicilio/domicilio/vicino-a-me/pizza/",
+                "url": "/domicilio/vicino-a-me/pizza/",
                 "text": "Pizza a domicilio"
             },
             {
@@ -1406,7 +1406,7 @@
                 "text": "Cinese a domicilio"
             },
             {
-                "url": "/domicilio/vicino-a-me/sushi/",
+                "url": "/domicilio/vicino-a-me/sushi-giapponese/",
                 "text": "Sushi a domicilio"
             },
             {
@@ -1454,15 +1454,15 @@
         "aboutUs": "Chi siamo",
         "aboutUsLinks": [
             {
-                "url": "/privacy-policy/",
+                "url": "/informazioni/privacy-policy/",
                 "text": "Termini e Condizioni"
             },
             {
-                "url": "/cookiespolicy/",
+                "url": "/informazioni/politica-dei-cookie/",
                 "text": "Cookie Policy"
             },
             {
-                "url": "/about/",
+                "url": "/informazioni/about-us/",
                 "text": "Informazioni su Just Eat"
             },
             {
@@ -1470,19 +1470,19 @@
                 "text": "Domande frequenti"
             },
             {
-                "url": "/domicilio/miglior-prezzo-garantito/",
+                "url": "/informazioni/miglior-prezzo-garantito/",
                 "text": "Miglior Prezzo Garantito"
             },
             {
-                "url": "/jobs/",
+                "url": "/informazioni/lavora-con-noi/",
                 "text": "Lavora con noi"
             },
             {
-                "url": "https://www.justeat.it/domicilio/driver-partner/",
+                "url": "/informazioni/driver-partner/",
                 "text": "Diventa un Rider"
             },
             {
-                "url": "/press-info/",
+                "url": "/informazioni/media-and-press/",
                 "text": "Area stampa"
             },
             {
