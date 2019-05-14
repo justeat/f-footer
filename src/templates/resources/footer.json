@@ -98,6 +98,8 @@
                 "text": "Alle byer"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Om os",
         "aboutUsLinks": [
             {
@@ -267,114 +269,124 @@
         "improveOurWebsite": "Ayúdanos a mejorar la web",
         "sendFeedback": "Enviar opinión",
         "vatInfo": "",
-        "customerService": "Atención al cliente",
+        "customerService": "Servicio al cliente",
         "changeCurrentCountry": "Estás en Just Eat España. Haz clic aquí para cambiar país.",
         "buttonClose": "Cerrar",
         "links": [
             {
-                "url": "https://restaurantes.just-eat.es/",
-                "text": "¿Tienes un restaurante?"
+                "url": "/account/login/",
+                "text": "Inicia Sesión"
             },
             {
-                "url": "/contact",
-                "text": "Quienes somos"
+                "url": "/account/register/",
+                "text": "Regístrate"
             },
             {
-                "url": "https://partner.just-eat.es/",
-                "text": "Mi Restaurante"
+                "url": "/blog/",
+                "text": "Nuestro blog"
             },
             {
-                "url": "/blog",
-                "text": "Blog"
-            },
-            {
-                "url": "/apps",
-                "text": "Mobile apps"
-            },
-            {
-                "url": "/faq",
-                "text": "Ayuda"
+                "url": "/account/info/",
+                "text": "Información De La Cuenta"
             }
         ],
         "cuisines": "Tipos de cocina",
         "cuisineLinks": [
             {
-                "url": "/a-domicilio/cerca-de-mi/pizza",
+                "url": "/a-domicilio/cerca-de-mi/pizza/",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/a-domicilio/cerca-de-mi/kebab",
+                "url": "/a-domicilio/cerca-de-mi/kebab/",
                 "text": "Kebab a domicilio"
             },
             {
-                "url": "/a-domicilio/cerca-de-mi/comida-china",
+                "url": "/a-domicilio/cerca-de-mi/comida-china/",
                 "text": "Comida china a domicilio"
             },
             {
-                "url": "/a-domicilio/cerca-de-mi/sushi",
+                "url": "/a-domicilio/cerca-de-mi/sushi/",
                 "text": "Sushi a domicilio"
             },
             {
-                "url": "/a-domicilio/cerca-de-mi/hamburguesas",
+                "url": "/a-domicilio/cerca-de-mi/hamburguesas/",
                 "text": "Hamburguesas a domicilio"
             },
             {
-                "url": "/a-domicilio/cerca-de-mi/tipos-de-comida",
-                "text": "Más comida a domicilio"
+                "url": "/a-domicilio/cerca-de-mi/",
+                "text": "Mas tipos de cocina"
             }
         ],
         "towns": "Ciudades",
         "locationLinks": [
             {
-                "url": "/a-domicilio/madrid",
+                "url": "/a-domicilio/madrid/",
                 "text": "Madrid"
             },
             {
-                "url": "/a-domicilio/barcelona",
+                "url": "/a-domicilio/barcelona/",
                 "text": "Barcelona"
             },
             {
-                "url": "/a-domicilio/valencia",
+                "url": "/a-domicilio/valencia/",
                 "text": "Valencia"
             },
             {
-                "url": "/a-domicilio/zaragoza",
+                "url": "/a-domicilio/zaragoza/",
                 "text": "Zaragoza"
             },
             {
-                "url": "/a-domicilio/a-coruna",
-                "text": "A Coruña"
+                "url": "/a-domicilio/palmas-de-gran-canaria/",
+                "text": "Las Palmas"
             },
             {
-                "url": "/a-domicilio",
+                "url": "/a-domicilio/",
                 "text": "Más ciudades"
             }
         ],
+        "brands": "Las marcas",
+        "brandLinks": [],
         "aboutUs": "Sobre nosotros",
         "aboutUsLinks": [
             {
-                "url": "/adomicilio/garantia-de-precio",
+                "url": "https://restaurantes.just-eat.es/",
+                "text": "Registrarse en el restaurante"
+            },
+            {
+                "url": "/info/acerca-de-just-eat/",
+                "text": "Quienes somos"
+            },
+            {
+                "url": "/help/",
+                "text": "Ayuda"
+            },
+            {
+                "url": "/info/garantia-de-precio/",
                 "text": "Garantía de precio"
             },
             {
-                "url": "/privacy-policy",
-                "text": "TyCs"
+                "url": "/info/politica-de-privacidad/",
+                "text": "Política de Privacidad"
             },
             {
-                "url": "/cookiespolicy",
-                "text": "Cookies"
+                "url": "/info/terminos-y-condiciones/",
+                "text": "Términos y Condiciones"
             },
             {
-                "url": "/adomicilio/ofertas-localidades",
-                "text": "Ofertas"
+                "url": "/info/politica-de-cookies/",
+                "text": "Política de Cookies"
             },
             {
-                "url": "/press-info",
-                "text": "Prensa"
+                "url": "/blog/descuento-5e-just-eat/",
+                "text": "5€ de descuento"
             },
             {
-                "url": "/jobs",
-                "text": "Trabaja con nosotros"
+                "url": "/campana/afiliacion",
+                "text": "Programa de Afiliación"
+            },
+            {
+                "url": "https://partner.just-eat.es/",
+                "text": "Gestiona tu restaurante"
             }
         ],
         "downloadOurApps": "Descárgate la app",
@@ -612,6 +624,8 @@
                 "text": "View all locations"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
@@ -793,55 +807,67 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/content/",
-                "text": "Get to know us"
-            },
-            {
-                "url": "/content/partner-with-us/",
-                "text": "Work with us"
-            },
-            {
-                "url": "/help",
+                "url": "/content/contact-us/",
                 "text": "Contact us"
+            },
+            {
+                "url": "/account/login/",
+                "text": "Log in"
+            },
+            {
+                "url": "/account/register/",
+                "text": "Sign up"
+            },
+            {
+                "url": "/account/info/",
+                "text": "My account"
+            },
+            {
+                "url": "/blog/",
+                "text": "Menulog blog"
+            },
+            {
+                "url": "/help/",
+                "text": "Help centre"
             }
         ],
         "cuisines": "Cuisines",
         "cuisineLinks": [
             {
-                "url": "/content/browse/burgers",
-                "text": "Burgers"
+                "url": "/browse/burgers",
+                "text": "Burgers Delivery"
             },
             {
                 "url": "/browse/chinese",
-                "text": "Chinese"
+                "text": "Chinese Delivery"
             },
             {
                 "url": "/browse/indian",
-                "text": "Indian"
+                "text": "Indian Delivery"
             },
             {
                 "url": "/content/browse/italian",
-                "text": "Italian"
+                "text": "Italian Delivery"
             },
             {
                 "url": "/browse/japanese",
-                "text": "Japanese"
+                "text": "Japanese Delivery"
             },
             {
                 "url": "/browse/korean",
-                "text": "Korean"
+                "text": "Korean Delivery"
             },
             {
                 "url": "/browse/pizza",
-                "text": "Pizza"
+                "text": "Pizza Delivery"
             },
             {
                 "url": "/browse/thai",
-                "text": "Thai"
+                "text": "Thai Delivery"
             },
             {
                 "url": "/browse/vietnamese",
-                "text": "Vietnamese"
+                "text": "Vietnamese Delivery"
             },
             {
                 "url": "/content/browse",
@@ -888,50 +914,97 @@
             },
             {
                 "url": "/browse",
-                "text": "View all cities"
+                "text": "View all locations"
             }
         ],
-        "aboutUs": "About us",
+        "brands": "Brands",
+        "brandLinks": [
+            {
+                "url": "/content/brands/hungry-jacks/",
+                "text": "Hungry Jack's Delivery"
+            },
+            {
+                "url": "/content/brands/kfc/",
+                "text": "KFC Delivery"
+            },
+            {
+                "url": "/content/brands/crust/",
+                "text": "Crust Delivery"
+            },
+            {
+                "url": "/content/brands/hogs-breath/",
+                "text": "Hog's Breath Delivery"
+            },
+            {
+                "url": "/content/brands/oporto/",
+                "text": "Oporto Delivery"
+            },
+            {
+                "url": "/content/brands/pizza-hut/",
+                "text": "Pizza Hut Delivery"
+            },
+            {
+                "url": "/content/brands/red-rooster/",
+                "text": "Red Rooster Delivery"
+            },
+            {
+                "url": "/content/brands/subway/",
+                "text": "Subway Delivery"
+            },
+            {
+                "url": "/content/brands/zambrero/",
+                "text": "Zambrero Delivery"
+            },
+            {
+                "url": "/browse/",
+                "text": "View all brands"
+            }
+        ],
+        "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
                 "url": "/content/",
                 "text": "About Menulog"
             },
             {
-                "url": "/content/our-price-promise",
-                "text": "Our Price Promise"
-            },
-            {
-                "url": "/content/partner-with-us",
-                "text": "Partner with Us"
+                "url": "/content/our-price-promise/",
+                "text": "Price promise"
             },
             {
                 "url": "/content/partner-with-us/",
-                "text": "Menulog Careers"
+                "text": "Partner with us"
             },
             {
-                "url": "/content/corporate-partners",
-                "text": "Corporate Partners"
+                "url": "/content/partner-with-us/",
+                "text": "Menulog careers"
             },
             {
-                "url": "/content/contact-us",
-                "text": "Contact Us"
+                "url": "/content/corporate-partners/",
+                "text": "Corporate partners"
             },
             {
                 "url": "/blog/category/press/",
                 "text": "Media Centre"
             },
             {
-                "url": "/help/",
-                "text": "Help Centre"
+                "url": "/privacy-policy/",
+                "text": "Privacy Policy and Terms of Use"
             },
             {
-                "url": "/blog/",
-                "text": "Menulog Blog"
+                "url": "https://partner.menulog.com.au/",
+                "text": "Partner centre"
             },
             {
-                "url": "/privacy-policy",
-                "text": "Privacy Policy / Terms & Conditions"
+                "url": "https://couriers.menulog.com.au/application/",
+                "text": "Become a courier"
+            },
+            {
+                "url": "https://couriers.menulog.com.au/",
+                "text": "Courier portal"
+            },
+            {
+                "url": "/content/join-menulog",
+                "text": "List your restaurant"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1077,20 +1150,28 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/content/get-to-know-us/",
-                "text": "Get to know us"
-            },
-            {
-                "url": "/content/work-with-us/",
-                "text": "Work with us"
-            },
-            {
-                "url": "/help",
+                "url": "/content/contact-us/",
                 "text": "Contact us"
             },
             {
-                "url": "/help",
-                "text": "Help Centre"
+                "url": "/account/login/",
+                "text": "Log in"
+            },
+            {
+                "url": "/account/register/",
+                "text": "Sign up"
+            },
+            {
+                "url": "/account/info/",
+                "text": "My account"
+            },
+            {
+                "url": "/blog/",
+                "text": "Menulog blog"
+            },
+            {
+                "url": "/help/",
+                "text": "Help centre"
             }
         ],
         "cuisines": "Top cuisines",
@@ -1135,16 +1216,26 @@
                 "text": "Dunedin"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
 
             {
-                "url": "/blog",
-                "text": "Menulog Blog"
+                "url": "/about_menulog",
+                "text": "Get to know us"
             },
             {
                 "url": "/privacy-policy#privacy_policy",
                 "text": "Privacy Policy / Terms & Conditions"
+            },
+            {
+                "url": "https://connect.menulog.co.nz/login?client_id=RappsOrigPartnerCentre&response_type=code&redirect_uri=https:%2F%2Fpartner.menulog.co.nz%2Fsignin-jeconnect&state=QaF4ae5nfj7FUpuoevTVCHvmMBxIA1hO_4mDtePNEJOasCly6wdTLaHjTuvS7_If4SwPYZelgwT0ZFYb7CCZvfIIr9X0OVLKiRpdCLYU9zJPuorMgnFjjRlyQNdU8L_5ZvkfGGBtXJx-jNOlh5lU_aqiQ-KgrKthGa83ZbYH8GjV81bwGb7iJ8PRFJPYbwTyys-zclUwNFxXhfdsOpqIWsIlfpQ",
+                "text": "Partner Centre"
+            },
+            {
+                "url": "/join_takeaway_section",
+                "text": "Restaurant sign up"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1284,121 +1375,118 @@
         "buttonClose": "Chiudi",
         "links": [
             {
-                "url": "/help",
-                "text": "Aiuto?"
+                "url": "/account/login/",
+                "text": "Accedi"
             },
             {
-                "url": "/account/login",
-                "text": "Accedi",
-                "rel": "nofollow"
-            },
-            {
-                "url": "/account/register",
+                "url": "/account/register/",
                 "text": "Registrati"
             },
             {
-                "url": "/blog",
+                "url": "/blog/",
                 "text": "Blog"
             },
             {
-                "url": "/apps",
-                "text": "App"
+                "url": "/account/info/",
+                "text": "Il mio account"
+            },
+            {
+                "url": "/help/",
+                "text": "Aiuto?"
             }
         ],
         "cuisines": "Cucine",
         "cuisineLinks": [
             {
-                "url": "/domicilio/pizza",
+                "url": "/domicilio/vicino-a-me/pizza/",
                 "text": "Pizza a domicilio"
             },
             {
-                "url": "/domicilio/cinese",
+                "url": "/domicilio/vicino-a-me/cinese",
                 "text": "Cinese a domicilio"
             },
             {
-                "url": "/domicilio/sushi",
+                "url": "/domicilio/vicino-a-me/sushi-giapponese/",
                 "text": "Sushi a domicilio"
             },
             {
-                "url": "/domicilio/hamburger",
-                "text": "Hamburger a domicilio"
+                "url": "/domicilio/vicino-a-me/kebab/",
+                "text": "Kebab a domicilio"
             },
             {
-                "url": "/domicilio/tipi-cucina",
+                "url": "/domicilio/vicino-a-me/",
                 "text": "Tutti i tipi di cucine"
             }
         ],
         "towns": "Città",
         "locationLinks": [
             {
-                "url": "/domicilio/palermo",
+                "url": "/domicilio/palermo/",
                 "text": "Palermo"
             },
             {
-                "url": "/domicilio/roma",
+                "url": "/domicilio/roma/",
                 "text": "Roma"
             },
             {
-                "url": "/domicilio/milano",
+                "url": "/domicilio/milano/",
                 "text": "Milano"
             },
             {
-                "url": "/domicilio/napoli",
+                "url": "/domicilio/napoli/",
                 "text": "Napoli"
             },
             {
-                "url": "/domicilio/Torino",
+                "url": "/domicilio/torino/",
                 "text": "Torino"
             },
             {
-                "url": "/domicilio/bologna",
+                "url": "/domicilio/bologna/",
                 "text": "Bologna"
             },
             {
-                "url": "/domicilio/citta",
+                "url": "/domicilio/citta/",
                 "text": "Tutte le città"
-            },
-            {
-                "url": "/domicilio/citta-offerte",
-                "text": "Offerte e Sconti"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Chi siamo",
         "aboutUsLinks": [
             {
-                "url": "/privacy-policy",
+                "url": "/informazioni/privacy-policy/",
                 "text": "Termini e Condizioni"
             },
             {
-                "url": "/cookiespolicy",
+                "url": "/informazioni/politica-dei-cookie/",
                 "text": "Cookie Policy"
             },
             {
-                "url": "/about",
+                "url": "/informazioni/about-us/",
                 "text": "Informazioni su Just Eat"
             },
             {
-                "url": "/faq",
+                "url": "/faq/",
                 "text": "Domande frequenti"
             },
             {
-                "url": "/domicilio/miglior-prezzo-garantito",
+                "url": "/informazioni/miglior-prezzo-garantito/",
                 "text": "Miglior Prezzo Garantito"
             },
             {
-                "url": "/jobs",
+                "url": "/informazioni/lavora-con-noi/",
                 "text": "Lavora con noi"
             },
             {
-                "url": "https://www.justeat.it/domicilio/driver-partner",
+                "url": "/informazioni/driver-partner/",
                 "text": "Diventa un Rider"
             },
             {
-                "url": "/press-info",
+                "url": "/informazioni/media-and-press/",
                 "text": "Area stampa"
             },
             {
-                "url": "/app",
+                "url": "/app/",
                 "text": "Le nostre App"
             }
         ],
@@ -1599,6 +1687,8 @@
                 "text": "Waterford"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "About us",
         "aboutUsLinks": [
             {
@@ -1844,6 +1934,8 @@
                 "text": "Alle byer"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "Om oss",
         "aboutUsLinks": [
             {
@@ -2090,6 +2182,8 @@
                 "text": "View all locations"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "About Us",
         "aboutUsLinks": [
             {
@@ -2360,6 +2454,8 @@
                 "text": "Voir toutes les villes"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "À propos de Just Eat",
         "aboutUsLinks": [
             {
@@ -2623,6 +2719,8 @@
                 "text": "[Ṽîéŵẋẋ åļļẋ ļöçåţîöñšẋẋẋ]"
             }
         ],
+        "brands": "Brands",
+        "brandLinks": [],
         "aboutUs": "[Åẋ ƀîţẋ ɱöŕéẋẋ åƀöûţẋẋ ûšẋ]",
         "aboutUsLinks": [
             {

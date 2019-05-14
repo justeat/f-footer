@@ -18,6 +18,7 @@ node_modules/*
 *.esproj
 *.sublime-*
 .vscode
+.vs
 nbproject
 Thumbs.db
 logs
