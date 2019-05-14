@@ -8,9 +8,9 @@ v1.20.0
 *May 07, 2019*
 
 ### Added
-- "Updated footer content for Australia, New Zealand, Italy and Spain"
-- "Added brands list which is populated for Australia, empty for all other tenants"
-- "Brands list only shows up when it has been setup with at least one brand for the tenant"
+- Updated footer content for Australia, New Zealand, Italy and Spain
+- Added brands list which is populated for Australia, empty for all other tenants
+- Brands list only shows up when it has been setup with at least one brand for the tenant
 
 
 v1.19.1
