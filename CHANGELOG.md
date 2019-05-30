@@ -8,7 +8,7 @@ v1.21.0
 ------------------------------
 *May 29, 2019*
 
-### Updated
+### Changed
 - Play store links for Android and Iphone
 
 
