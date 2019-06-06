@@ -568,6 +568,14 @@
             {
                 "url": "/member/updateuserinfo",
                 "text": "My account"
+            },
+            {
+                "url": "/giftcards/redeem",
+                "text": "Redeem a gift card"
+            },
+            {
+                "url": "http://giftcards.just-eat.co.uk",
+                "text": "Buy a gift card"
             }
         ],
         "cuisines": "Top cuisines",
