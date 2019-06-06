@@ -681,13 +681,13 @@
         "downloadOurApps": "Download our apps",
         "appStoreIcons": [
             {
-                "url": "https://179046.measurementapi.com/serve?action=click&publisher_id=179046&site_id=106656&my_campaign=q4-2015",
+                "url": "https://app.adjust.com/oc511o_1455tm?utm_medium=internal&campaign=homepage",
                 "key": "ios",
                 "iconSrc": "iosIconSrc",
                 "altText": "Download on the App Store"
             },
             {
-                "url": "https://q2d-a.tlnk.io/serve?action=click&publisher_id=170720&site_id=106644&invoke_id=178925&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/1455tm?utm_medium=internal&campaign=homepage",
                 "key": "android",
                 "iconSrc": "androidIconSrc",
                 "altText": "Get it on Google Play"
@@ -2772,13 +2772,13 @@
         "downloadOurApps": "[Ðöŵñļöåðẋẋẋ öûŕẋ åþþšẋẋ]",
         "appStoreIcons": [
             {
-                "url": "https://179046.measurementapi.com/serve?action=click&publisher_id=179046&site_id=106656&my_campaign=q4-2015",
+                "url": "https://app.adjust.com/oc511o_1455tm?utm_medium=internal&campaign=homepage",
                 "key": "ios",
                 "iconSrc": "iosIconSrc",
                 "altText": "[Ðöŵñļöåðẋẋẋ öñẋ ţĥéẋ Åþþẋ Šţöŕéẋẋ]"
             },
             {
-                "url": "https://q2d-a.tlnk.io/serve?action=click&publisher_id=170720&site_id=106644&invoke_id=178925&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/1455tm?utm_medium=internal&campaign=homepage",
                 "key": "android",
                 "iconSrc": "androidIconSrc",
                 "altText": "[Ĝéţẋ îţẋ öñẋ Ĝööĝļéẋẋ Þļåýẋẋ]"
