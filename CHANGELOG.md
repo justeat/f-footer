@@ -3,16 +3,25 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.25.0
+------------------------------
+*June 19, 2019*
+
+### Removed
+- Careers link for AU
+
+
 v1.24.0
 ------------------------------
-*June 06, 2019*
+*June 6, 2019*
 
 ### Added
 - Added footer links for gift cards
 
+
 v1.23.0
 ------------------------------
-*June 05, 2019*
+*June 5, 2019*
 
 ### Updated
 - Package dependencies.
@@ -34,9 +43,10 @@ v1.21.0
 ### Changed
 - Play store links for Android and Iphone
 
+
 v1.20.0
 ------------------------------
-*May 07, 2019*
+*May 7, 2019*
 
 ### Added
 - Updated footer content for Australia, New Zealand, Italy and Spain
