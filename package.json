@@ -31,7 +31,8 @@
     "include-media": "1.4.9",
     "lite-ready": "1.0.4",
     "lodash.debounce": "4.0.8",
-    "qwery": "4.0.0"
+    "qwery": "4.0.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "@justeat/gulp-build-fozzie": "8.4.0",
@@ -64,7 +65,9 @@
     "lint:js": "gulp scripts:lint --prod",
     "test": "jest",
     "test:cover": "jest --coverage",
-    "test:cover:ci": "cat coverage/lcov.info | coveralls"
+    "test:cover:ci": "cat coverage/lcov.info | coveralls",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "stylelint": {
     "extends": "@justeat/stylelint-config-fozzie"
@@ -98,5 +101,6 @@
     "testEnvironmentOptions": {
       "url": "https://www.just-eat.co.uk"
     }
-  }
+  },
+  "snyk": true
 }
