@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.25.2
+------------------------------
+*July 04, 2019*
+
+### Changed
+- Update the updated URL for the "Diverenta un Rider" link in Italy
+
+
 v1.25.1
 ------------------------------
 *July 03, 2019*
