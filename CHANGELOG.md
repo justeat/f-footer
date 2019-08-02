@@ -3,6 +3,13 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.25.4
+------------------------------
+*July 29, 2019*
+
+### Changed
+- Update footer URL for the "About Us" section in Australia(Menulog)
+
 v1.25.3
 ------------------------------
 *July 12, 2019*

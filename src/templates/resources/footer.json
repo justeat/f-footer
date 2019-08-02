@@ -879,7 +879,7 @@
             },
             {
                 "url": "/takeaway/nearme/",
-                "text": "View all cuisines"
+                "text": "Browse more cuisines"
             }
         ],
         "towns": "Locations",
@@ -922,7 +922,7 @@
             },
             {
                 "url": "/takeaway/",
-                "text": "View all locations"
+                "text": "Browse more cities"
             }
         ],
         "brands": "Brands",
@@ -965,50 +965,50 @@
             },
             {
                 "url": "/browse/",
-                "text": "View all brands"
+                "text": "Browse more brands"
             }
         ],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
-                "url": "/content/",
-                "text": "About Menulog"
+              "url": "/info/about-us",
+              "text": "About Menulog"
             },
             {
-                "url": "/content/our-price-promise/",
-                "text": "Price promise"
+              "url": "/info/our-price-promise",
+              "text": "Our Price Promise"
             },
             {
-                "url": "/content/partner-with-us/",
-                "text": "Partner with us"
+              "url": "/info/partner-with-us/",
+              "text": "Partner with Us"
             },
             {
-                "url": "/content/corporate-partners/",
-                "text": "Corporate partners"
+              "url": "/info/corporate-partners",
+              "text": "Corporate Partners"
             },
             {
-                "url": "/blog/category/press/",
-                "text": "Media Centre"
+              "url": "/blog/menulog-news",
+              "text": "Media Centre"
             },
             {
-                "url": "/privacy-policy/",
-                "text": "Privacy Policy and Terms of Use"
+              "url": "/info/privacy-policy",
+              "text": "Privacy Policy and Terms of Use"
             },
             {
-                "url": "https://partner.menulog.com.au/",
-                "text": "Partner centre"
+              "url": "https://partner.menulog.com.au/",
+              "text": "Partner Centre"
             },
             {
-                "url": "https://couriers.menulog.com.au/application/",
-                "text": "Become a courier"
+              "url": "https://couriers.menulog.com.au/application",
+              "text": "Become a Courier"
             },
             {
-                "url": "https://couriers.menulog.com.au/",
-                "text": "Courier portal"
+              "url": "https://couriers.menulog.com.au/login",
+              "text": "Courier Portal"
             },
             {
-                "url": "/content/join-menulog",
-                "text": "List your restaurant"
+              "url": "/info/join-menulog",
+              "text": "List Your Restaurant"
             }
         ],
         "downloadOurApps": "Download our apps",
