@@ -134,22 +134,16 @@
         "downloadOurApps": "Download vores app",
         "appStoreIcons": [
             {
-                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=109400&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/lgmmz6?utm_medium=internal&campaign=homepage",
                 "key": "ios",
                 "iconSrc": "iosIconSrc",
                 "altText": "Hent i App Store"
             },
             {
-                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=108390&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/5sd9oz?utm_medium=internal&campaign=homepage",
                 "key": "android",
                 "iconSrc": "androidIconSrc",
                 "altText": "Hent i Google Play"
-            },
-            {
-                "url": "https://www.microsoft.com/store/apps/9nblggh4vk8q",
-                "key": "microsoft",
-                "iconSrc": "microsoftIconSrc",
-                "altText": "Hent i Windows Store"
             }
         ],
         "followUs": "Følg os",
