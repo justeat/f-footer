@@ -922,43 +922,43 @@
         "brands": "Brands",
         "brandLinks": [
             {
-                "url": "/content/brands/hungry-jacks/",
+                "url": "/takeaway/brands/hungry-jacks/",
                 "text": "Hungry Jack's Delivery"
             },
             {
-                "url": "/content/brands/kfc/",
+                "url": "/takeaway/brands/kfc/",
                 "text": "KFC Delivery"
             },
             {
-                "url": "/content/brands/crust/",
+                "url": "/takeaway/brands/crust/",
                 "text": "Crust Delivery"
             },
             {
-                "url": "/content/brands/hogs-breath/",
+                "url": "/takeaway/brands/hogs-breath/",
                 "text": "Hog's Breath Delivery"
             },
             {
-                "url": "/content/brands/oporto/",
+                "url": "/takeaway/brands/oporto/",
                 "text": "Oporto Delivery"
             },
             {
-                "url": "/content/brands/pizza-hut/",
+                "url": "/takeaway/brands/pizza-hut/",
                 "text": "Pizza Hut Delivery"
             },
             {
-                "url": "/content/brands/red-rooster/",
+                "url": "/takeaway/brands/red-rooster/",
                 "text": "Red Rooster Delivery"
             },
             {
-                "url": "/content/brands/subway/",
+                "url": "/takeaway/brands/subway/",
                 "text": "Subway Delivery"
             },
             {
-                "url": "/content/brands/zambrero/",
+                "url": "/takeaway/brands/zambrero/",
                 "text": "Zambrero Delivery"
             },
             {
-                "url": "/browse/",
+                "url": "/takeaway/brands",
                 "text": "Browse more brands"
             }
         ],
