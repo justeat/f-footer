@@ -460,7 +460,6 @@
         ],
         "currentCountryLocalisedName": "España",
         "currentCountryFlagKey": "es",
-
         "countries": [
             {
                 "key": "au",
@@ -965,44 +964,44 @@
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
-              "url": "/info/about-us",
-              "text": "About Menulog"
+                "url": "/info/about-us",
+                "text": "About Menulog"
             },
             {
-              "url": "/info/our-price-promise",
-              "text": "Our Price Promise"
+                "url": "/info/our-price-promise",
+                "text": "Our Price Promise"
             },
             {
-              "url": "/info/partner-with-us/",
-              "text": "Partner with Us"
+                "url": "/info/partner-with-us/",
+                "text": "Partner with Us"
             },
             {
-              "url": "/info/corporate-partners",
-              "text": "Corporate Partners"
+                "url": "/info/corporate-partners",
+                "text": "Corporate Partners"
             },
             {
-              "url": "/blog/menulog-news",
-              "text": "Media Centre"
+                "url": "/blog/menulog-news",
+                "text": "Media Centre"
             },
             {
-              "url": "/info/privacy-policy",
-              "text": "Privacy Policy and Terms of Use"
+                "url": "/info/privacy-policy",
+                "text": "Privacy Policy and Terms of Use"
             },
             {
-              "url": "https://partner.menulog.com.au/",
-              "text": "Partner Centre"
+                "url": "https://partner.menulog.com.au/",
+                "text": "Partner Centre"
             },
             {
-              "url": "https://couriers.menulog.com.au/application",
-              "text": "Become a Courier"
+                "url": "https://couriers.menulog.com.au/application",
+                "text": "Become a Courier"
             },
             {
-              "url": "https://couriers.menulog.com.au/login",
-              "text": "Courier Portal"
+                "url": "https://couriers.menulog.com.au/login",
+                "text": "Courier Portal"
             },
             {
-              "url": "/info/join-menulog",
-              "text": "List Your Restaurant"
+                "url": "/info/join-menulog",
+                "text": "List Your Restaurant"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1218,7 +1217,6 @@
         "brandLinks": [],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
-
             {
                 "url": "/about_menulog",
                 "text": "Get to know us"
@@ -1230,6 +1228,14 @@
             {
                 "url": "https://connect.menulog.co.nz/login?client_id=RappsOrigPartnerCentre&response_type=code&redirect_uri=https:%2F%2Fpartner.menulog.co.nz%2Fsignin-jeconnect&state=QaF4ae5nfj7FUpuoevTVCHvmMBxIA1hO_4mDtePNEJOasCly6wdTLaHjTuvS7_If4SwPYZelgwT0ZFYb7CCZvfIIr9X0OVLKiRpdCLYU9zJPuorMgnFjjRlyQNdU8L_5ZvkfGGBtXJx-jNOlh5lU_aqiQ-KgrKthGa83ZbYH8GjV81bwGb7iJ8PRFJPYbwTyys-zclUwNFxXhfdsOpqIWsIlfpQ",
                 "text": "Partner Centre"
+            },
+            {
+                "url": "https://couriers.menulog.co.nz/application",
+                "text": "Become a Courier"
+            },
+            {
+                "url": "https://couriers.menulog.co.nz/login",
+                "text": "Courier Portal"
             },
             {
                 "url": "/join_takeaway_section",
