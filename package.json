@@ -37,7 +37,7 @@
     "@justeat/gulp-build-fozzie": "8.4.0",
     "concurrently": "4.1.0",
     "coveralls": "3.0.3",
-    "danger": "4.4.8",
+    "danger": "9.2.9",
     "gulp": "3.9.1",
     "jest": "24.8.0",
     "js-test-buddy": "0.2.0"
