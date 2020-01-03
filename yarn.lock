@@ -836,6 +836,11 @@
   resolved "https://registry.yarnpkg.com/@justeat/fozzie-colour-palette/-/fozzie-colour-palette-2.3.0.tgz#1ad4b7e827b6c7c7bb0a73d2b72cf8d608fc09b5"
   integrity sha512-eVzfPhKojCQ0IxXQQL73fnami/ffjtwgRIcnnFik9E/GmJ26WtoxFrBCL6YksmEKU8JKP9tqVkLsC+JqYbjB9Q==
 
+"@justeat/fozzie-colour-palette@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@justeat/fozzie-colour-palette/-/fozzie-colour-palette-2.5.0.tgz#a26555e476c6103cdcd9fdf233238af6b0321cee"
+  integrity sha512-qMWN2jSOhV/d0t6lmDnN4ae8n5pKNgXvq/BNM3q/t2RZz4Zckzxdy/g+H/tVsqYP6o8Liu1e05VXbpwAqTKeWQ==
+
 "@justeat/fozzie@1.50.0":
   version "1.50.0"
   resolved "https://registry.yarnpkg.com/@justeat/fozzie/-/fozzie-1.50.0.tgz#be7a28bfe7993756f32f5932b6a70f1f80864363"
