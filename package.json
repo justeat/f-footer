@@ -34,7 +34,7 @@
     "qwery": "4.0.0"
   },
   "devDependencies": {
-    "@justeat/gulp-build-fozzie": "8.4.0",
+    "@justeat/gulp-build-fozzie": "9.0.1",
     "concurrently": "4.1.0",
     "coveralls": "3.0.3",
     "danger": "4.4.8",
