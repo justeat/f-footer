@@ -25,7 +25,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "@justeat/f-utils": "0.2.0",
+    "@justeat/f-utils": "0.3.0",
     "@justeat/fozzie": "1.50.0",
     "@justeat/fozzie-colour-palette": "2.3.0",
     "include-media": "1.4.9",
