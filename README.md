@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/justeat/f-footer.svg)](https://travis-ci.org/justeat/f-footer)
 [![Dependency Status](https://gemnasium.com/badges/github.com/justeat/f-footer.svg)](https://gemnasium.com/github.com/justeat/f-footer)
 
+## This repo is being deprecated and is only used on sites that cannot currently render Vue components. We recommend switching to using the [Vue.js version of this component as soon as possible](https://github.com/justeat/fozzie-components/tree/master/packages/f-footer).
+
 Allows any project to install and use a variation of the Just Eat footer on their project.
 
 
