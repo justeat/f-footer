@@ -3,12 +3,21 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.26.0
+------------------------------
+*June 4, 2020*
+
+### Changed
+- Updating ML brand to new JET colour palette.
+
+
 v1.25.6
 ------------------------------
 *Oct 8, 2019*
 
 ### Changed
 - Update footer URL for the "Brands" section in Australia(Menulog)
+
 
 v1.25.5
 ------------------------------
@@ -20,6 +29,7 @@ v1.25.5
 ### Removed
 - Microsoft app download link for Denmark
 
+
 v1.25.4
 ------------------------------
 *July 29, 2019*
@@ -27,12 +37,14 @@ v1.25.4
 ### Changed
 - Update footer URL for the "About Us" section in Australia(Menulog)
 
+
 v1.25.3
 ------------------------------
 *July 12, 2019*
 
 ### Changed
 - Update footer URL for the "Locations" and "Cuisines" sections in Australia(Menulog)
+
 
 v1.25.2
 ------------------------------
