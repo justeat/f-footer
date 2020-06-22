@@ -3,6 +3,15 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+v1.27.0
+------------------------------
+*June 22, 2020*
+
+### Changed
+- Updated `fozzie-colour-palette` and `fozzie` to apply new JET colour scheme to all countries.
+
+
 v1.26.0
 ------------------------------
 *June 4, 2020*
