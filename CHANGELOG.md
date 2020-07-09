@@ -4,6 +4,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.28.0
+------------------------------
+*July 10, 2020*
+
+### Changed
+- Updated Modern Slavery link.
+- Alt text for social links.
+- Privacy policy, cookie policy and Terms and conditions links to avoid redirects
+
+### Removed
+- `en-CA` and `fr-CA` translations.
+- Google Plus references.
+- Dead links.
+
+
 v1.27.0
 ------------------------------
 *June 22, 2020*
