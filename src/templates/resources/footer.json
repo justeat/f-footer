@@ -12,8 +12,8 @@
                 "text": "Hjælp"
             },
             {
-                "url": "https://external-ordering.gavekortet.dk/justeat",
-                "text": "Gavekort"
+                "url": "https://giftcard-engine.gogift.com/DK/shop/justeatdk#/giftcards",
+                "text": "Gavekort til Just Eat"
             },
             {
                 "url": "/takeaway/prisgaranti",
@@ -107,12 +107,12 @@
                 "text": "Restaurant påmelding"
             },
             {
-                "url": "/about",
+                "url": "/info/hvem-er-vi",
                 "text": "Hvem er vi"
             },
             {
                 "url": "https://partner.just-eat.dk/",
-                "text": "Partner centre"
+                "text": "Partner Center"
             },
             {
                 "url": "http://partnerblog.just-eat.dk/",
@@ -123,12 +123,12 @@
                 "text": "Arbejd for os"
             },
             {
-                "url": "/privacy-policy",
-                "text": "Handelsbetingelser"
+                "url": "/info/privatlivspolitik",
+                "text": "Privatlivspolitik"
             },
             {
-                "url": "/cookiespolicy",
-                "text": "Brug af cookies"
+                "url": "/info/cookiepolitik",
+                "text": "Cookiepolitik"
             }
         ],
         "downloadOurApps": "Download vores app",
@@ -152,19 +152,19 @@
                 "url": "https://www.facebook.com/JustEatDK/",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Facebook"
             },
             {
                 "url": "https://twitter.com/justeatdk",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Twitter"
             },
             {
                 "url": "https://www.instagram.com/justeatdk/?hl=dk",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Instagram"
             }
         ],
         "feedback": "Feedback",
@@ -207,7 +207,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "fr",
@@ -404,25 +404,19 @@
                 "url": "https://www.facebook.com/JustEat.es",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Facebook"
             },
             {
                 "url": "https://twitter.com/JustEat_es",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
-            },
-            {
-                "url": "https://plus.google.com/+Just-eatEs",
-                "key": "google-plus",
-                "iconSrc": "googlePlusIconUrl",
-                "altText": ""
+                "altText": "Twitter"
             },
             {
                 "url": "https://www.instagram.com/justeat_es/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": ""
+                "altText": "Instagram"
             }
         ],
         "feedback": "Opinión",
@@ -478,7 +472,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canadá",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -643,19 +637,19 @@
                 "text": "Price promise"
             },
             {
-                "url": "/privacy-policy",
+                "url": "/info/privacy-policy",
                 "text": "Privacy policy"
             },
             {
-                "url": "/termsandconditions",
+                "url": "/info/terms-and-conditions",
                 "text": "Terms and Conditions"
             },
             {
-                "url": "/cookiespolicy",
+                "url": "/info/cookies-policy",
                 "text": "Cookie Policy"
             },
             {
-                "url": "https://www.justeatplc.com/about-us/our-business",
+                "url": "https://www.just-eat.com/about-us",
                 "text": "About us"
             },
             {
@@ -667,7 +661,7 @@
                 "text": "Careers"
             },
             {
-                "url": "https://www.justeatplc.com/download_file/view/435/1",
+                "url": "https://www.just-eat.com/download_file/view/912/1",
                 "text": "Modern Slavery Statement",
                 "target": "_blank"
             }
@@ -693,19 +687,19 @@
                 "url": "https://www.facebook.com/justeat",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": "Just Eat on Facebook"
+                "altText": "Just Eat on Facebook (leads to external site)"
             },
             {
                 "url": "https://twitter.com/JustEatUK",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": "Just Eat on Twitter"
+                "altText": "Just Eat on Twitter (leads to external site)"
             },
             {
                 "url": "https://www.youtube.com/user/TVjusteat",
                 "key": "youtube",
                 "iconSrc": "youtubeIconUrl",
-                "altText": "Just Eat on YouTube"
+                "altText": "Just Eat on YouTube (leads to external site)"
             }
         ],
         "feedback": "Feedback",
@@ -748,7 +742,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -1026,19 +1020,19 @@
                 "url": "https://www.facebook.com/Menulog.com.au/",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": "Menu Log on Facebook"
+                "altText": "Menu Log on Facebook (leads to external site)"
             },
             {
                 "url": "https://twitter.com/menulog",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": "Menu Log on Twitter"
+                "altText": "Menu Log on Twitter (leads to external site)"
             },
             {
                 "url": "https://www.instagram.com/menulog/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": "Menu Log on Instagram"
+                "altText": "Menu Log on Instagram (leads to external site)"
             }
         ],
         "feedback": "Feedback",
@@ -1081,7 +1075,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -1148,8 +1142,8 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/content/contact-us/",
-                "text": "Contact us"
+                "url": "/help/",
+                "text": "Help Centre"
             },
             {
                 "url": "/account/login/",
@@ -1165,11 +1159,7 @@
             },
             {
                 "url": "/blog/",
-                "text": "Menulog blog"
-            },
-            {
-                "url": "/help/",
-                "text": "Help centre"
+                "text": "Menulog Blog"
             }
         ],
         "cuisines": "Top cuisines",
@@ -1220,12 +1210,12 @@
         "aboutUsLinks": [
 
             {
-                "url": "/about_menulog",
-                "text": "Get to know us"
+                "url": "/info/about-us",
+                "text": "About Menulog"
             },
             {
-                "url": "/privacy-policy#privacy_policy",
-                "text": "Privacy Policy / Terms & Conditions"
+                "url": "/info/privacy-policy",
+                "text": "Privacy Policy & Terms of Use"
             },
             {
                 "url": "https://connect.menulog.co.nz/login?client_id=RappsOrigPartnerCentre&response_type=code&redirect_uri=https:%2F%2Fpartner.menulog.co.nz%2Fsignin-jeconnect&state=QaF4ae5nfj7FUpuoevTVCHvmMBxIA1hO_4mDtePNEJOasCly6wdTLaHjTuvS7_If4SwPYZelgwT0ZFYb7CCZvfIIr9X0OVLKiRpdCLYU9zJPuorMgnFjjRlyQNdU8L_5ZvkfGGBtXJx-jNOlh5lU_aqiQ-KgrKthGa83ZbYH8GjV81bwGb7iJ8PRFJPYbwTyys-zclUwNFxXhfdsOpqIWsIlfpQ",
@@ -1257,19 +1247,19 @@
                 "url": "https://www.facebook.com/Menulog.co.nz",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": "Menu Log on Facebook"
+                "altText": "Menu Log on Facebook (leads to external site)"
             },
             {
                 "url": "https://twitter.com/Menulog",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": "Menu Log on Twitter"
+                "altText": "Menu Log on Twitter (leads to external site)"
             },
             {
                 "url": "https://www.instagram.com/menulog/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": "Menu Log on Instagram"
+                "altText": "Menu Log on Instagram (leads to external site)"
             }
         ],
         "feedback": "Feedback",
@@ -1312,7 +1302,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -1457,15 +1447,15 @@
             },
             {
                 "url": "/informazioni/politica-dei-cookie/",
-                "text": "Cookie Policy"
+                "text": "Politica dei cookie"
+            },
+            {
+                "url": "/informazioni/privacy-policy/",
+                "text": "Informativa sulla Privacy"
             },
             {
                 "url": "/informazioni/about-us/",
                 "text": "Informazioni su Just Eat"
-            },
-            {
-                "url": "/faq/",
-                "text": "Domande frequenti"
             },
             {
                 "url": "/informazioni/miglior-prezzo-garantito/",
@@ -1509,13 +1499,13 @@
                 "url": "https://www.facebook.com/justeatitaly",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Facebook"
             },
             {
                 "url": "https://twitter.com/JustEat_it",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": ""
+                "altText": "Twitter"
             }
         ],
         "feedback": "Feedback",
@@ -1558,7 +1548,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -1619,12 +1609,8 @@
         "buttonClose": "Close",
         "links": [
             {
-                "url": "/contact",
-                "text": "Contact us"
-            },
-            {
-                "url": "/faq",
-                "text": "FAQs"
+                "url": "/help",
+                "text": "Help Centre"
             },
             {
                 "url": "/pricepromise",
@@ -1636,7 +1622,7 @@
             },
             {
                 "url": "https://partner.just-eat.ie/",
-                "text": "Partner centre"
+                "text": "Partner Centre"
             }
         ],
         "cuisines": "Popular cuisines",
@@ -1698,15 +1684,15 @@
                 "text": "Browse Takeaways"
             },
             {
-                "url": "/privacy-policy",
+                "url": "/info/privacy-policy",
                 "text": "Privacy Policy"
             },
             {
-                "url": "/cookiespolicy",
+                "url": "/info/cookies-policy",
                 "text": "Cookie Policy"
             },
             {
-                "url": "https://www.justeatshop.ie/gift-vouchers",
+                "url": "https://giftcards.just-eat.ie",
                 "text": "Just Eat Gift Cards"
             },
             {
@@ -1735,31 +1721,25 @@
                 "url": "https://www.facebook.com/JustEatIreland",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": "Just Eat on Facebook"
+                "altText": "Just Eat on Facebook (leads to external site)"
             },
             {
                 "url": "https://www.twitter.com/JustEatIE",
                 "key": "twitter",
                 "iconSrc": "twitterIconUrl",
-                "altText": "Just Eat on Twitter"
-            },
-            {
-                "url": "https://www.google.com/+JusteatIe1",
-                "key": "google-plus",
-                "iconSrc": "googlePlusIconUrl",
-                "altText": ""
+                "altText": "Just Eat on Twitter (leads to external site)"
             },
             {
                 "url": "https://instagram.com/justeatie/",
                 "key": "instagram",
                 "iconSrc": "instagramIconUrl",
-                "altText": "Just Eat on Instagram"
+                "altText": "Just Eat on Instagram (leads to external site)"
             },
             {
                 "url": "https://www.pinterest.com/justeatie/",
                 "key": "pinterest",
                 "iconSrc": "pinterestIconUrl",
-                "altText": "Just Eat on Pinterest"
+                "altText": "Just Eat on Pinterest (leads to external site)"
             }
         ],
         "feedback": "Feedback",
@@ -1796,7 +1776,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -1941,24 +1921,24 @@
                 "text": "Restaurant påmelding"
             },
             {
-                "url": "/about",
+                "url": "/info/historien",
                 "text": "Om oss"
             },
             {
                 "url": "https://partner.just-eat.no/",
-                "text": "Partner centre"
+                "text": "Partner Center"
             },
             {
                 "url": "/jobs",
                 "text": "Ledige stillinger"
             },
             {
-                "url": "/cookiespolicy",
-                "text": "Cookies"
+                "url": "/info/cookie-politikk",
+                "text": "Cookie politikk"
             },
             {
-                "url": "/privacy-policy",
-                "text": "Handelsvilkår"
+                "url": "/info/personvernerklæring",
+                "text": "Personvernerklæring"
             }
         ],
         "downloadOurApps": "Last ned appen vår",
@@ -1982,13 +1962,13 @@
                 "url": "https://www.facebook.com/JustEatNO/",
                 "key": "facebook",
                 "iconSrc": "facebookIconUrl",
-                "altText": ""
+                "altText": "Facebook"
             },
             {
                 "url": "/blog",
                 "key": "rss",
                 "iconSrc": "rssIconUrl",
-                "altText": ""
+                "altText": "Blog"
             }
         ],
         "feedback": "Tilbakemelding",
@@ -2025,7 +2005,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "Canada",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
@@ -2073,554 +2053,6 @@
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Sveits",
-                "siteUrl": "https://www.eat.ch"
-            }
-        ]
-    },
-    "en-CA": {
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
-        "vatInfo": "",
-        "customerService": "Customer service",
-        "changeCurrentCountry": "You are on the Canadian website. Click here to change.",
-        "buttonClose": "Close",
-        "links": [
-            {
-                "url": "https://www.just-eat.ca/blog/moreorders/",
-                "text": "Restaurant sign-up"
-            },
-            {
-                "url": "/contact",
-                "text": "Contact Us"
-            },
-            {
-                "url": "https://partner.just-eat.ca/",
-                "text": "Partner centre"
-            },
-            {
-                "url": "/blog",
-                "text": "Blog"
-            },
-            {
-                "url": "/suggest-a-restaurant",
-                "text": "Suggest a restaurant"
-            },
-            {
-                "url": "/help",
-                "text": "Help"
-            }
-        ],
-        "cuisines": "Cuisines",
-        "cuisineLinks": [
-            {
-                "url": "/ideas",
-                "text": "Ideas"
-            },
-            {
-                "url": "/delivery/chinese",
-                "text": "Chinese Food Delivery"
-            },
-            {
-                "url": "/delivery/pizza",
-                "text": "Pizza Delivery"
-            },
-            {
-                "url": "/delivery/sushi",
-                "text": "Sushi Delivery"
-            },
-            {
-                "url": "/delivery/thai",
-                "text": "Thai Food Delivery"
-            },
-            {
-                "url": "/delivery/indian",
-                "text": "Indian Food Delivery"
-            },
-            {
-                "url": "/delivery/greek",
-                "text": "Greek Food Delivery"
-            },
-            {
-                "url": "/delivery/cuisine-types",
-                "text": "Take out Cuisines"
-            }
-        ],
-        "towns": "Towns",
-        "locationLinks": [
-            {
-                "url": "/delivery/toronto",
-                "text": "Toronto Food Delivery"
-            },
-            {
-                "url": "/delivery/calgary",
-                "text": "Calgary Food Delivery"
-            },
-            {
-                "url": "/delivery/waterloo",
-                "text": "Waterloo Food Delivery"
-            },
-            {
-                "url": "/delivery/kitchener",
-                "text": "Kitchener Food Delivery"
-            },
-            {
-                "url": "/delivery/emonton",
-                "text": "Edmonton Food Delivery"
-            },
-            {
-                "url": "/delivery/halifax",
-                "text": "Halifax Food Delivery"
-            },
-            {
-                "url": "/delivery/mississauga",
-                "text": "Mississauga Delivery"
-            },
-            {
-                "url": "/delivery",
-                "text": "View all locations"
-            }
-        ],
-        "brands": "Brands",
-        "brandLinks": [],
-        "aboutUs": "About Us",
-        "aboutUsLinks": [
-            {
-                "url": "/pricepromise",
-                "text": "Price Promise"
-            },
-            {
-                "url": "https://www.just-eat.ca/blog/moreorders/",
-                "text": "For Restaurants"
-            },
-            {
-                "url": "/about",
-                "text": "About Us"
-            },
-            {
-                "url": "/faq",
-                "text": "FAQ's"
-            },
-            {
-                "url": "/privacy-policy",
-                "text": "Privacy Policy / Terms & Conditions"
-            },
-            {
-                "url": "/jobs",
-                "text": "Career Opportunities"
-            },
-            {
-                "url": "/press-info",
-                "text": "Press info"
-            }
-        ],
-        "downloadOurApps": "Download our apps",
-        "appStoreIcons": [
-            {
-                "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
-                "key": "ios",
-                "iconSrc": "iosIconSrc",
-                "altText": "Download on the App Store"
-            },
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
-                "key": "android",
-                "iconSrc": "androidIconSrc",
-                "altText": "Get it on Google Play"
-            }
-        ],
-        "followUs": "Follow us",
-        "socialIcons": [
-            {
-                "url": "https://www.facebook.com/just.eat.canada",
-                "key": "facebook",
-                "iconSrc": "facebookIconUrl",
-                "altText": "Just Eat on Facebook"
-            },
-            {
-                "url": "https://twitter.com/justeatca",
-                "key": "twitter",
-                "iconSrc": "twitterIconUrl",
-                "altText": "Just Eat on Twitter"
-            },
-            {
-                "url": "https://plus.google.com/107342937635884431309/about",
-                "key": "google-plus",
-                "iconSrc": "googlePlusIconUrl",
-                "altText": ""
-            },
-            {
-                "url": "https://www.instagram.com/justeatca/",
-                "key": "instagram",
-                "iconSrc": "instagramIconUrl",
-                "altText": "Just Eat on Instagram"
-            }
-        ],
-        "feedback": "Feedback",
-        "paymentIcons": [
-            {
-                "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
-                "altText": "Mastercard"
-            },
-            {
-                "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
-                "altText": "Visa"
-            },
-            {
-                "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
-                "altText": "American Express"
-            },
-            {
-                "type": "card",
-                "key": "interac",
-                "iconSrc": "interacIconSrc",
-                "altText": "Interac Online"
-            }
-        ],
-        "currentCountryLocalisedName": "Canada",
-        "currentCountryFlagKey": "ca",
-        "countries": [
-            {
-                "key": "au",
-                "flagUrl": "australiaFlagIconUrl",
-                "localisedName": "Australia",
-                "siteUrl": "https://www.menulog.com.au"
-            },
-            {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brazil",
-                "siteUrl": "https://www.ifood.com.br"
-            },
-            {
-                "key": "dk",
-                "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Denmark",
-                "siteUrl": "https://www.just-eat.dk"
-            },
-            {
-                "key": "fr",
-                "flagUrl": "franceFlagIconUrl",
-                "localisedName": "France",
-                "siteUrl": "https://www.just-eat.fr/"
-            },
-            {
-                "key": "ie",
-                "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Ireland",
-                "siteUrl": "https://www.just-eat.ie"
-            },
-            {
-                "key": "it",
-                "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italy",
-                "siteUrl": "https://www.justeat.it"
-            },
-            {
-                "key": "nz",
-                "flagUrl": "newzealandFlagIconUrl",
-                "localisedName": "New Zealand",
-                "siteUrl": "https://www.menulog.co.nz"
-            },
-            {
-                "key": "no",
-                "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norway",
-                "siteUrl": "https://www.just-eat.no"
-            },
-            {
-                "key": "es",
-                "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spain",
-                "siteUrl": "https://www.just-eat.es"
-            },
-            {
-                "key": "ch",
-                "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Switzerland",
-                "siteUrl": "https://www.eat.ch"
-            },
-            {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "United Kingdom",
-                "siteUrl": "https://www.just-eat.co.uk"
-            }
-        ]
-    },
-    "fr-CA": {
-        "improveOurWebsite": "Help us improve our website",
-        "sendFeedback": "Send feedback",
-        "vatInfo": "",
-        "customerService": "Service à la clientèle",
-        "changeCurrentCountry": "Vous êtes sur le site du Canada. Cliquez ici pour changer le pays.",
-        "buttonClose": "Fermer",
-        "links": [
-            {
-                "url": "https://restaurants.just-eat.ca/",
-                "text": "Inscrire un restaurant"
-            },
-            {
-                "url": "/fr/contact",
-                "text": "Communiquer avec nous"
-            },
-            {
-                "url": "https://partner.just-eat.ca/",
-                "text": "Centre des partenaires"
-            },
-            {
-                "url": "/fr/blog",
-                "text": "Blogue"
-            },
-            {
-                "url": "/fr/suggest-a-restaurant",
-                "text": "Suggérer un restaurant"
-            },
-            {
-                "url": "/fr/faq",
-                "text": "Aide"
-            }
-        ],
-        "cuisines": "Plats",
-        "cuisineLinks": [
-            {
-                "url": "/fr/ideas",
-                "text": "Idées de repas"
-            },
-            {
-                "url": "/delivery/fr/chinese",
-                "text": "Livraison de mets chinois"
-            },
-            {
-                "url": "/delivery/fr/thai",
-                "text": "Livraison de mets thaïs"
-            },
-            {
-                "url": "/delivery/fr/pizza",
-                "text": "Livraison de pizza"
-            },
-            {
-                "url": "/delivery/fr/indian",
-                "text": "Livraison de mets indiens"
-            },
-            {
-                "url": "/delivery/fr/burger",
-                "text": "Livraison de burgers"
-            },
-            {
-                "url": "/delivery/fr/cuisine-types",
-                "text": "Voir toutes les cuisines"
-            }
-        ],
-        "towns": "Endroits populaires",
-        "locationLinks": [
-            {
-                "url": "/delivery/fr/quebec",
-                "text": "Livraison à Québec"
-            },
-            {
-                "url": "/delivery/fr/gatineau",
-                "text": "Livraison à Gatineau"
-            },
-            {
-                "url": "/delivery/fr/montreal",
-                "text": "Livraison à Montréal"
-            },
-            {
-                "url": "/delivery/fr/laval",
-                "text": "Livraison à Laval"
-            },
-            {
-                "url": "/delivery/fr/longueuil",
-                "text": "Livraison à Longueuil"
-            },
-            {
-                "url": "/delivery/fr/lasalle",
-                "text": "Livraison à LaSalle"
-            },
-            {
-                "url": "/delivery/fr/cote-saint-luc",
-                "text": "Livraison à Côte-Saint-Luc"
-            },
-            {
-                "url": "/delivery/fr/cities",
-                "text": "Voir toutes les villes"
-            }
-        ],
-        "brands": "Brands",
-        "brandLinks": [],
-        "aboutUs": "À propos de Just Eat",
-        "aboutUsLinks": [
-            {
-                "url": "/fr/pricepromise",
-                "text": "La promesse de prix"
-            },
-            {
-                "url": "https://restaurants.just-eat.ca/",
-                "text": "Pour les restaurateurs"
-            },
-            {
-                "url": "/fr/about",
-                "text": "Qui sommes-nous?"
-            },
-            {
-                "url": "/fr/faq",
-                "text": "Foire aux questions"
-            },
-            {
-                "url": "/fr/privacy-policy",
-                "text": "Politique de confidentialité"
-            },
-            {
-                "url": "/fr/jobs",
-                "text": "Offres d’emploi"
-            },
-            {
-                "url": "/fr/jobs",
-                "text": "Médias et presse"
-            }
-        ],
-        "downloadOurApps": "Télécharger notre application",
-        "appStoreIcons": [
-            {
-                "url": "https://itunes.apple.com/ca/app/just-eat-order-food-delivery/id682436712?mt=8",
-                "key": "ios",
-                "iconSrc": "iosIconSrc",
-                "altText": "Download on the App Store"
-            },
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.justeat.app.ca",
-                "key": "android",
-                "iconSrc": "androidIconSrc",
-                "altText": "Get it on Google Play"
-            }
-        ],
-        "followUs": "Suivez-nous",
-        "socialIcons": [
-            {
-                "url": "https://www.facebook.com/just.eat.canada",
-                "key": "facebook",
-                "iconSrc": "facebookIconUrl",
-                "altText": ""
-            },
-            {
-                "url": "https://twitter.com/justeatca",
-                "key": "twitter",
-                "iconSrc": "twitterIconUrl",
-                "altText": ""
-            },
-            {
-                "url": "https://plus.google.com/107342937635884431309/about",
-                "key": "google-plus",
-                "iconSrc": "googlePlusIconUrl",
-                "altText": ""
-            },
-            {
-                "url": "https://www.instagram.com/justeatca/",
-                "key": "instagram",
-                "iconSrc": "instagramIconUrl",
-                "altText": ""
-            }
-        ],
-        "feedback": "Votre avis",
-        "paymentIcons": [
-            {
-                "type": "card",
-                "key": "mastercard--securecode",
-                "iconSrc": "mastercardIconSrc",
-                "altText": "Mastercard"
-            },
-            {
-                "type": "card",
-                "key": "visa--verified",
-                "iconSrc": "visaIconSrc",
-                "altText": "Visa"
-            },
-            {
-                "type": "card",
-                "key": "amex--safekey",
-                "iconSrc": "amexIconSrc",
-                "altText": "American Express"
-            },
-            {
-                "type": "card",
-                "key": "interac",
-                "iconSrc": "interacIconSrc",
-                "altText": "Interac Online"
-            }
-        ],
-        "currentCountryLocalisedName": "Canada",
-        "currentCountryFlagKey": "ca",
-        "countries": [
-            {
-                "key": "au",
-                "flagUrl": "australiaFlagIconUrl",
-                "localisedName": "Australie",
-                "siteUrl": "https://www.menulog.com.au"
-            },
-            {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brésil",
-                "siteUrl": "https://www.ifood.com.br"
-            },
-            {
-                "key": "dk",
-                "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Danemark",
-                "siteUrl": "https://www.just-eat.dk"
-            },
-            {
-                "key": "es",
-                "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Espagne",
-                "siteUrl": "https://www.just-eat.es"
-            },
-            {
-                "key": "fr",
-                "flagUrl": "franceFlagIconUrl",
-                "localisedName": "France",
-                "siteUrl": "https://www.just-eat.fr/"
-            },
-            {
-                "key": "ie",
-                "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Irlande",
-                "siteUrl": "https://www.just-eat.ie"
-            },
-            {
-                "key": "it",
-                "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italie",
-                "siteUrl": "https://www.justeat.it"
-            },
-            {
-                "key": "no",
-                "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norvège",
-                "siteUrl": "https://www.just-eat.no"
-            },
-            {
-                "key": "nz",
-                "flagUrl": "newzealandFlagIconUrl",
-                "localisedName": "Nouvelle-Zélande",
-                "siteUrl": "https://www.menulog.co.nz"
-            },
-            {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "Royaume-Uni",
-                "siteUrl": "https://www.just-eat.co.uk"
-            },
-            {
-                "key": "ch",
-                "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Suisse",
                 "siteUrl": "https://www.eat.ch"
             }
         ]
@@ -2730,15 +2162,15 @@
                 "text": "[Þŕîçéẋẋ þŕöɱîšéẋẋẋ]"
             },
             {
-                "url": "/privacy-policy",
+                "url": "/info/privacy-policy",
                 "text": "[Þŕîṽåçýẋẋẋ þöļîçýẋẋ]"
             },
             {
-                "url": "/termsandconditions",
+                "url": "/info/terms-and-conditions",
                 "text": "[Ţéŕɱšẋẋ åñðẋ Çöñðîţîöñšẋẋẋẋ]"
             },
             {
-                "url": "/cookiespolicy",
+                "url": "/info/cookies-policy",
                 "text": "[Çööķîéẋẋ Þöļîçýẋẋ]"
             },
             {
@@ -2754,7 +2186,7 @@
                 "text": "[Çåŕééŕšẋẋẋ]"
             },
             {
-                "url": "https://www.justeatplc.com/download_file/view/435/1",
+                "url": "https://www.just-eat.com/download_file/view/912/1",
                 "text": "[Ṁöðéŕñẋẋ Šļåṽéŕýẋẋẋ Šţåţéɱéñţẋẋẋ]",
                 "target": "_blank"
             }
@@ -2835,7 +2267,7 @@
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
                 "localisedName": "[Çåñåðåẋẋ]",
-                "siteUrl": "https://www.just-eat.ca"
+                "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
