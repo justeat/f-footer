@@ -95,9 +95,13 @@ $footer-socialIconColor : $grey--darkest !default;
 
 
     .c-footer-panel {
+        border-bottom: none;
+
+        @include media('<mid') {
+            border-bottom: 1px solid $footer-borderColor;
+        }
 
         @include media('<wide') {
-            border-bottom: 1px solid $footer-borderColor;
             cursor: pointer;
 
             .c-footer-chevron {
@@ -113,10 +117,6 @@ $footer-socialIconColor : $grey--darkest !default;
                     display: none;
                 }
             }
-        }
-
-        &:last-of-type {
-            border-bottom: none;
         }
 
         .c-footer-heading {

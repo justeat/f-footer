@@ -10,6 +10,7 @@ v1.31.0
 
 ### Changed
 - Use darker greys for background, border and icon colours.
+- Fix small visual issue with the border below the lists.
 
 
 v1.30.0
