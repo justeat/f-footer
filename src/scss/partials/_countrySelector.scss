@@ -10,9 +10,8 @@
  * Component Variables
  */
 $countrySelector-textColor      : $color-text !default;
-$countrySelector-chevronColor   : $grey--dark !default;
-$countrySelector-crossColor     : $blue !default;
-$countrySelector-bgColor        : $grey--offWhite !default;
+$countrySelector-iconColor      : $grey--darkest !default;
+$countrySelector-bgColor        : $grey--lighter !default;
 $countrySelector-borderColor    : $color-border !default;
 $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
 
@@ -74,12 +73,12 @@ $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
         height: 6px;
         margin-left: spacing();
         width: 14px;
-        fill: $countrySelector-chevronColor;
+        fill: $countrySelector-iconColor;
     }
 
     .c-countrySelector-cross {
         align-self: center;
-        fill: $countrySelector-crossColor;
+        fill: $countrySelector-iconColor;
         height: 24px;
         margin-left: auto;
         margin-right: spacing();
