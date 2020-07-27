@@ -29,12 +29,12 @@
 /**
  * Component Variables
  */
-$footer-bgColor         : $grey--lighter !default;
-$footer-bgLight         : $grey--offWhite !default;
+$footer-bgColor         : $grey--light !default;
+$footer-bgLight         : $grey--lighter !default;
 $footer-textColor       : $color-text !default;
-$footer-borderColor     : $color-border--interactive !default;
-$footer-chevronColor    : $grey--dark !default;
-$footer-socialIconColor : $grey--dark !default;
+$footer-borderColor     : $color-border !default;
+$footer-chevronColor    : $grey--darkest !default;
+$footer-socialIconColor : $grey--darkest !default;
 
 
 /**
@@ -95,9 +95,13 @@ $footer-socialIconColor : $grey--dark !default;
 
 
     .c-footer-panel {
+        border-bottom: none;
+
+        @include media('<mid') {
+            border-bottom: 1px solid $footer-borderColor;
+        }
 
         @include media('<wide') {
-            border-bottom: 1px solid $footer-borderColor;
             cursor: pointer;
 
             .c-footer-chevron {
@@ -113,10 +117,6 @@ $footer-socialIconColor : $grey--dark !default;
                     display: none;
                 }
             }
-        }
-
-        &:last-of-type {
-            border-bottom: none;
         }
 
         .c-footer-heading {

@@ -4,6 +4,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.31.0
+------------------------------
+*July 24, 2020*
+
+### Changed
+- Use darker greys for background, border and icon colours.
+
+### Fixed
+- Small visual issue with the border below the lists.
+
+
 v1.30.0
 ------------------------------
 *July 22, 2020*
