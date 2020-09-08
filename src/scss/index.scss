@@ -52,7 +52,7 @@ $footer-socialIconColor : $grey--darkest !default;
 }
 
     .c-footer-heading {
-        @include font-size(mid);
+        @include font-size(heading-s);
         padding: spacing(x2);
         position: relative;
         user-select: none;
