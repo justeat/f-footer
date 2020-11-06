@@ -189,19 +189,36 @@
             }
         ],
         "currentCountryLocalisedName": "Danmark",
-        "currentCountryFlagKey": "dk",
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
-                "localisedName": "Australien",
+                "localisedName": "Australia",
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brasilien",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -212,20 +229,44 @@
             {
                 "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
-                "localisedName": "Frankrig",
+                "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
             },
             {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Irland",
+                "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
             },
             {
                 "key": "it",
                 "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italien",
+                "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
@@ -240,22 +281,46 @@
                 "siteUrl": "https://www.just-eat.no"
             },
             {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
+            },
+            {
+                "key": "es",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "España",
+                "siteUrl": "https://www.just-eat.es"
+            },
+            {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
                 "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
             },
             {
-                "key": "es",
-                "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spanien",
-                "siteUrl": "https://www.just-eat.es"
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "Storbritannien",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -453,9 +518,13 @@
             }
         ],
         "currentCountryLocalisedName": "España",
-        "currentCountryFlagKey": "es",
-
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
@@ -463,34 +532,58 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brasil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
                 "flagUrl": "canadaFlagIconUrl",
-                "localisedName": "Canadá",
+                "localisedName": "Canada",
                 "siteUrl": "https://www.skipthedishes.com"
             },
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Dinamarca",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
                 "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
-                "localisedName": "Francia",
+                "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
             },
             {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Irlanda",
+                "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
             },
             {
                 "key": "it",
@@ -499,28 +592,64 @@
                 "siteUrl": "https://www.justeat.it"
             },
             {
-                "key": "no",
-                "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Noruega",
-                "siteUrl": "https://www.just-eat.no"
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
-                "localisedName": "Nueva Zelanda",
+                "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "Reino Unido",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "no",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norge",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Suiza",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -679,6 +808,12 @@
                 "key": "android",
                 "iconSrc": "androidIconSrc",
                 "altText": "Get it on Google Play"
+            },
+            {
+                "url": "https://appgallery.cloud.huawei.com/ag/n/app/C101688679?channelId=JustEat+website&id=f7c5193d2ec8406c9774188a3a7360a0&s=81F93139C63A9427F2E6E58C3F34313F7EF771664E5EE8F919F929ED301468F9&detailType=0&v=",
+                "key": "huawei",
+                "iconSrc": "huaweiIconSrc",
+                "altText": "Get it on HUAWEI AppGallery"
             }
         ],
         "followUs": "Follow us",
@@ -724,7 +859,6 @@
             }
         ],
         "currentCountryLocalisedName": "United Kingdom",
-        "currentCountryFlagKey": "gb",
         "countries": [
             {
                 "key": "au",
@@ -733,10 +867,22 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brazil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -747,7 +893,7 @@
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Denmark",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
@@ -757,16 +903,40 @@
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
+            },
+            {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
+            },
+            {
                 "key": "it",
                 "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italy",
+                "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
@@ -777,20 +947,50 @@
             {
                 "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norway",
+                "localisedName": "Norge",
                 "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "es",
                 "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spain",
+                "localisedName": "España",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Switzerland",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -1063,13 +1263,30 @@
             }
         ],
         "currentCountryLocalisedName": "Australia",
-        "currentCountryFlagKey": "au",
         "countries": [
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brazil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
+            {
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -1080,7 +1297,7 @@
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Denmark",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
@@ -1090,16 +1307,40 @@
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
+            },
+            {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
+            },
+            {
                 "key": "it",
                 "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italy",
+                "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
@@ -1110,26 +1351,50 @@
             {
                 "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norway",
+                "localisedName": "Norge",
                 "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "es",
                 "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spain",
+                "localisedName": "España",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Switzerland",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "United Kingdom",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -1284,8 +1549,13 @@
             }
         ],
         "currentCountryLocalisedName": "New Zealand",
-        "currentCountryFlagKey": "nz",
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
@@ -1293,10 +1563,22 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brazil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -1307,7 +1589,7 @@
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Denmark",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
@@ -1317,40 +1599,88 @@
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
+            },
+            {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
                 "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
+            },
+            {
                 "key": "it",
                 "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italy",
+                "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norway",
+                "localisedName": "Norge",
                 "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "es",
                 "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spain",
+                "localisedName": "España",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Switzerland",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "United Kingdom",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -1530,8 +1860,13 @@
             }
         ],
         "currentCountryLocalisedName": "Italia",
-        "currentCountryFlagKey": "it",
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
@@ -1539,10 +1874,22 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brasile",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -1553,50 +1900,98 @@
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Danimarca",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
                 "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
-                "localisedName": "Francia",
+                "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
             },
             {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Irlanda",
+                "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
             },
             {
-                "key": "no",
-                "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norvegia",
-                "siteUrl": "https://www.just-eat.no"
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
-                "localisedName": "Nuova Zelanda",
+                "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "Regno Unito",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "no",
+                "flagUrl": "norwayFlagIconUrl",
+                "localisedName": "Norge",
+                "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "es",
                 "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spagna",
+                "localisedName": "España",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Svizzera",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -1758,8 +2153,13 @@
             }
         ],
         "currentCountryLocalisedName": "Ireland",
-        "currentCountryFlagKey": "ie",
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
@@ -1767,10 +2167,22 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brazil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -1781,7 +2193,7 @@
             {
                 "key": "dk",
                 "flagUrl": "denmarkFlagIconUrl",
-                "localisedName": "Denmark",
+                "localisedName": "Danmark",
                 "siteUrl": "https://www.just-eat.dk"
             },
             {
@@ -1791,10 +2203,34 @@
                 "siteUrl": "https://www.just-eat.fr/"
             },
             {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
+            },
+            {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
+            },
+            {
                 "key": "it",
                 "flagUrl": "italyFlagIconUrl",
-                "localisedName": "Italy",
+                "localisedName": "Italia",
                 "siteUrl": "https://www.justeat.it"
+            },
+            {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
             },
             {
                 "key": "nz",
@@ -1805,26 +2241,50 @@
             {
                 "key": "no",
                 "flagUrl": "norwayFlagIconUrl",
-                "localisedName": "Norway",
+                "localisedName": "Norge",
                 "siteUrl": "https://www.just-eat.no"
+            },
+            {
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
+            },
+            {
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
             },
             {
                 "key": "es",
                 "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spain",
+                "localisedName": "España",
                 "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Switzerland",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "United Kingdom",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -1987,8 +2447,13 @@
             }
         ],
         "currentCountryLocalisedName": "Norge",
-        "currentCountryFlagKey": "no",
         "countries": [
+            {
+                "key": "gb",
+                "flagUrl": "ukFlagIconUrl",
+                "localisedName": "United Kingdom",
+                "siteUrl": "https://www.just-eat.co.uk"
+            },
             {
                 "key": "au",
                 "flagUrl": "australiaFlagIconUrl",
@@ -1996,10 +2461,22 @@
                 "siteUrl": "https://www.menulog.com.au"
             },
             {
-                "key": "br",
-                "flagUrl": "brasilFlagIconUrl",
-                "localisedName": "Brasil",
-                "siteUrl": "https://www.ifood.com.br"
+                "key": "at",
+                "flagUrl": "austriaFlagIconUrl",
+                "localisedName": "Österreich",
+                "siteUrl": "https://www.lieferando.at"
+            },
+            {
+                "key": "be",
+                "flagUrl": "belgiumFlagIconUrl",
+                "localisedName": "België",
+                "siteUrl": "https://www.takeaway.com/be"
+            },
+            {
+                "key": "bg",
+                "flagUrl": "bulgariaFlagIconUrl",
+                "localisedName": "Bulgaria",
+                "siteUrl": "https://www.takeaway.com/bg"
             },
             {
                 "key": "ca",
@@ -2016,14 +2493,26 @@
             {
                 "key": "fr",
                 "flagUrl": "franceFlagIconUrl",
-                "localisedName": "Frankrike",
+                "localisedName": "France",
                 "siteUrl": "https://www.just-eat.fr/"
+            },
+            {
+                "key": "de",
+                "flagUrl": "germanyFlagIconUrl",
+                "localisedName": "Deutschland",
+                "siteUrl": "https://www.lieferando.de"
             },
             {
                 "key": "ie",
                 "flagUrl": "irelandFlagIconUrl",
-                "localisedName": "Irland",
+                "localisedName": "Ireland",
                 "siteUrl": "https://www.just-eat.ie"
+            },
+            {
+                "key": "il",
+                "flagUrl": "israelFlagIconUrl",
+                "localisedName": "Israel",
+                "siteUrl": "https://www.10bis.co.il/next"
             },
             {
                 "key": "it",
@@ -2032,28 +2521,64 @@
                 "siteUrl": "https://www.justeat.it"
             },
             {
+                "key": "lu",
+                "flagUrl": "luxembourgFlagIconUrl",
+                "localisedName": "Luxembourg",
+                "siteUrl": "https://www.takeaway.com/lu"
+            },
+            {
+                "key": "nl",
+                "flagUrl": "netherlandsFlagIconUrl",
+                "localisedName": "Nederland",
+                "siteUrl": "https://www.thuisbezorgd.nl"
+            },
+            {
                 "key": "nz",
                 "flagUrl": "newzealandFlagIconUrl",
                 "localisedName": "New Zealand",
                 "siteUrl": "https://www.menulog.co.nz"
             },
             {
-                "key": "es",
-                "flagUrl": "spainFlagIconUrl",
-                "localisedName": "Spania",
-                "siteUrl": "https://www.just-eat.es"
+                "key": "pl",
+                "flagUrl": "polandFlagIconUrl",
+                "localisedName": "Polska",
+                "siteUrl": "https://www.pyszne.pl"
             },
             {
-                "key": "gb",
-                "flagUrl": "ukFlagIconUrl",
-                "localisedName": "Storbritannia",
-                "siteUrl": "https://www.just-eat.co.uk"
+                "key": "pt",
+                "flagUrl": "portugalFlagIconUrl",
+                "localisedName": "Portugal",
+                "siteUrl": "https://www.takeaway.com/pt"
+            },
+            {
+                "key": "ro",
+                "flagUrl": "romaniaFlagIconUrl",
+                "localisedName": "Romania",
+                "siteUrl": "https://www.takeaway.com/ro"
+            },
+            {
+                "key": "es",
+                "flagUrl": "spainFlagIconUrl",
+                "localisedName": "España",
+                "siteUrl": "https://www.just-eat.es"
             },
             {
                 "key": "ch",
                 "flagUrl": "switzerlandFlagIconUrl",
-                "localisedName": "Sveits",
+                "localisedName": "Schweiz",
                 "siteUrl": "https://www.eat.ch"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Switzerland",
+                "siteUrl": "https://www.eat.ch/en"
+            },
+            {
+                "key": "ch",
+                "flagUrl": "switzerlandFlagIconUrl",
+                "localisedName": "Suisse",
+                "siteUrl": "https://www.eat.ch/fr"
             }
         ]
     },
@@ -2249,7 +2774,6 @@
             }
         ],
         "currentCountryLocalisedName": "[⁅Ûñîţéðẋẋ Ķîñĝðöɱẋẋẋ⁆ẋẋẋẋẋẋẋ]",
-        "currentCountryFlagKey": "gb",
         "countries": [
             {
                 "key": "au",
