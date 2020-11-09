@@ -12,6 +12,9 @@ v1.33.0
 - New countries to country selector
 - New huawei app link
 
+### Changed
+- Modern slavery statement link
+
 ### Removed
 -Old commented out code from country selector
 

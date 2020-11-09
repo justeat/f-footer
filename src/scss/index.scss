@@ -169,16 +169,16 @@ $footer-socialIconColor : $grey--darkest !default;
             display: flex;
             flex-flow: row wrap;
             margin-top: 0;
+            margin-bottom: 0;
 
-            @include media('>=wide') {
-                margin-bottom: 0;
+            .c-footer-list-item {
+                margin-bottom: spacing(x2);
             }
         }
 
         .c-footer-list-item {
-            & + .c-footer-list-item {
-                margin-left: spacing(x2);
-            }
+            margin-right: spacing(x2);
+
             & > a {
                 display: block;
             }
