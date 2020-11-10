@@ -18,23 +18,33 @@
         "rssIconUrl": "/assets/img/icons/social/icon-rss.svg"
     },
     "flagIconPaths": {
-        "australiaFlagIconUrl": "/assets/img/icons/flags/flag.au.svg",
-        "brasilFlagIconUrl": "/assets/img/icons/flags/flag.br.svg",
-        "canadaFlagIconUrl": "/assets/img/icons/flags/flag.ca.svg",
-        "denmarkFlagIconUrl": "/assets/img/icons/flags/flag.dk.svg",
-        "franceFlagIconUrl": "/assets/img/icons/flags/flag.fr.svg",
-        "irelandFlagIconUrl": "/assets/img/icons/flags/flag.ie.svg",
-        "italyFlagIconUrl": "/assets/img/icons/flags/flag.it.svg",
-        "newzealandFlagIconUrl": "/assets/img/icons/flags/flag.nz.svg",
-        "norwayFlagIconUrl": "/assets/img/icons/flags/flag.no.svg",
-        "switzerlandFlagIconUrl": "/assets/img/icons/flags/flag.ch.svg",
-        "spainFlagIconUrl": "/assets/img/icons/flags/flag.es.svg",
-        "ukFlagIconUrl": "/assets/img/icons/flags/flag.gb.svg"
+        "australiaFlagIconUrl": "/assets/img/icons/flags/flag.round.au.svg",
+        "austriaFlagIconUrl": "/assets/img/icons/flags/flag.round.at.svg",
+        "belgiumFlagIconUrl": "/assets/img/icons/flags/flag.round.be.svg",
+        "bulgariaFlagIconUrl": "/assets/img/icons/flags/flag.round.bg.svg",
+        "canadaFlagIconUrl": "/assets/img/icons/flags/flag.round.ca.svg",
+        "denmarkFlagIconUrl": "/assets/img/icons/flags/flag.round.dk.svg",
+        "franceFlagIconUrl": "/assets/img/icons/flags/flag.round.fr.svg",
+        "germanyFlagIconUrl": "/assets/img/icons/flags/flag.round.de.svg",
+        "irelandFlagIconUrl": "/assets/img/icons/flags/flag.round.ie.svg",
+        "israelFlagIconUrl": "/assets/img/icons/flags/flag.round.il.svg",
+        "italyFlagIconUrl": "/assets/img/icons/flags/flag.round.it.svg",
+        "luxembourgFlagIconUrl": "/assets/img/icons/flags/flag.round.lu.svg",
+        "netherlandsFlagIconUrl": "/assets/img/icons/flags/flag.round.nl.svg",
+        "newzealandFlagIconUrl": "/assets/img/icons/flags/flag.round.nz.svg",
+        "norwayFlagIconUrl": "/assets/img/icons/flags/flag.round.no.svg",
+        "polandFlagIconUrl": "/assets/img/icons/flags/flag.round.pl.svg",
+        "portugalFlagIconUrl": "/assets/img/icons/flags/flag.round.pt.svg",
+        "romaniaFlagIconUrl": "/assets/img/icons/flags/flag.round.ro.svg",
+        "switzerlandFlagIconUrl": "/assets/img/icons/flags/flag.round.ch.svg",
+        "spainFlagIconUrl": "/assets/img/icons/flags/flag.round.es.svg",
+        "ukFlagIconUrl": "/assets/img/icons/flags/flag.round.gb.svg"
     },
     "appIconPaths": {
         "iosIconSrc": "/assets/img/icons/appstore/ios.svg",
         "androidIconSrc": "/assets/img/icons/appstore/android.svg",
-        "microsoftIconSrc": "/assets/img/icons/appstore/microsoft.dk.svg"
+        "microsoftIconSrc": "/assets/img/icons/appstore/microsoft.dk.svg",
+        "huaweiIconSrc": "/assets/img/icons/appstore/huawei.svg"
     },
     "paymentIconPaths": {
         "dkIconSrc": "/assets/img/icons/cards/dk.svg",
