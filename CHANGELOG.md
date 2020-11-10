@@ -4,6 +4,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.33.1
+------------------------------
+*November 10, 2020*
+
+### Changed
+- Version bump to fix wrong npm publish
+(published main version instead of legacy)
+
+
 v1.33.0
 ------------------------------
 *November 9, 2020*
@@ -16,7 +25,7 @@ v1.33.0
 - Modern slavery statement link
 
 ### Removed
--Old commented out code from country selector
+- Old commented out code from country selector
 
 
 v1.32.0
