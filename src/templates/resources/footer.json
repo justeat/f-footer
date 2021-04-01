@@ -129,6 +129,11 @@
             {
                 "url": "/info/cookiepolitik",
                 "text": "Cookiepolitik"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/da/gui/106834/index.html",
+                "text": "Etisk hotline",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Download vores app",
@@ -446,6 +451,11 @@
             {
                 "url": "https://partner.just-eat.es/",
                 "text": "Gestiona tu restaurante"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/eseu/gui/106834/index.html",
+                "text": "Linea directa de ética",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Descárgate la app",
@@ -751,7 +761,7 @@
         ],
         "brands": "Brands",
         "brandLinks": [],
-        "aboutUs": "A bit more about us",
+        "aboutUs": "Get to know us",
         "aboutUsLinks": [
             {
                 "url": "https://restaurants.just-eat.co.uk/",
@@ -792,6 +802,11 @@
             {
                 "url": "https://www.just-eat.co.uk/CmsAssets/media/Files/Common/legal/modern-slavery-statement/JEL-Modern-Slavery-Statement-2019-FINAL.pdf?bid=84c6585fdc794d4fa4b917b8cedb9ff5",
                 "text": "Modern Slavery Statement",
+                "target": "_blank"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/en/gui/106834/index.html",
+                "text": "Ethics hotline",
                 "target": "_blank"
             }
         ],
@@ -1197,6 +1212,11 @@
             {
               "url": "/info/join-menulog",
               "text": "List Your Restaurant"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/en/gui/106834/index.html",
+                "text": "Ethics hotline",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1489,6 +1509,11 @@
             {
                 "url": "/join_takeaway_section",
                 "text": "Restaurant sign up"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/en/gui/106834/index.html",
+                "text": "Ethics hotline",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -1806,6 +1831,11 @@
             {
                 "url": "/app/",
                 "text": "Le nostre App"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/it/gui/106834/index.html",
+                "text": "Linea diretta per l’Etica",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Scarica l'app",
@@ -2093,6 +2123,11 @@
             {
                 "url": "/blog",
                 "text": "Just Eat Blog"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/en/gui/106834/index.html",
+                "text": "Ethics hotline",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Download our apps",
@@ -2399,6 +2434,11 @@
             {
                 "url": "/info/personvernerklæring",
                 "text": "Personvernerklæring"
+            },
+            {
+                "url": "https://secure.ethicspoint.eu/domain/media/no/gui/106834/index.html",
+                "text": "Etikkhjelpelinje",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Last ned appen vår",
