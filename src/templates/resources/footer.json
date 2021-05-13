@@ -456,6 +456,11 @@
                 "url": "https://secure.ethicspoint.eu/domain/media/eseu/gui/106834/index.html",
                 "text": "Linea directa de ética",
                 "target": "_blank"
+            },
+            {
+                "url": "mailto:prensa@justeattakeaway.com",
+                "text": "Prensa",
+                "target": "_blank"
             }
         ],
         "downloadOurApps": "Descárgate la app",
