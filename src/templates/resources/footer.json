@@ -1797,8 +1797,61 @@
                 "text": "Tutte le città"
             }
         ],
-        "brands": "Brands",
-        "brandLinks": [],
+        "brands": "Catene",
+        "brandLinks": [
+            {
+                "url": "/domicilio/catene-ristoranti/McDonald's",
+                "text": "McDonald's"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/burger-king",
+                "text": "Burger King"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/old-wild-west",
+                "text": "Old Wild West"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/kfc",
+                "text": "KFC"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/dominos-pizza",
+                "text": "Domino's"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/sushiko",
+                "text": "Sushiko"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/la-piadineria",
+                "text": "La Piadineria"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/Roadhouse",
+                "text": "Roadhouse"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/fratelli-la-bufala",
+                "text": "Fratelli La Bufala"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/poke-house",
+                "text": "Poke House"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/zushi",
+                "text": "Zushi"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti/alice-pizza",
+                "text": "Alice Pizza"
+            },
+            {
+                "url": "/domicilio/catene-ristoranti",
+                "text": "Tutte le catene"
+            }
+        ],
         "aboutUs": "Chi siamo",
         "aboutUsLinks": [
             {
