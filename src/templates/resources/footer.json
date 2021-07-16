@@ -417,7 +417,7 @@
                 "text": "Registrarse en el restaurante"
             },
             {
-                "url": "/info/acerca-de-just-eat/",
+                "url": "https://www.justeattakeaway.com/",
                 "text": "Quienes somos"
             },
             {
@@ -764,8 +764,61 @@
                 "text": "View all locations"
             }
         ],
-        "brands": "Brands",
-        "brandLinks": [],
+        "brands": "Famous restaurants",
+        "brandLinks": [
+            {
+                "url": "/takeaway/brands/mcdonalds",
+                "text": "McDs"
+            },
+            {
+                "url": "/takeaway/brands/greggs",
+                "text": "Greggs"
+            },
+            {
+                "url": "/takeaway/brands/costa-coffee",
+                "text": "Costa Coffee"
+            },
+            {
+                "url": "/takeaway/brands/kfc",
+                "text": "KFC"
+            },
+            {
+                "url": "/takeaway/brands/starbucks",
+                "text": "Starbucks"
+            },
+            {
+                "url": "/takeaway/brands/subway",
+                "text": "Subway"
+            },
+            {
+                "url": "/takeaway/brands/burgerking",
+                "text": "Burger King"
+            },
+            {
+                "url": "/takeaway/brands/pret-a-manger",
+                "text": "Pret"
+            },
+            {
+                "url": "/takeaway/brands/leon",
+                "text": "LEON"
+            },
+            {
+                "url": "/takeaway/brands/papajohns",
+                "text": "Papa Johns"
+            },
+            {
+                "url": "/takeaway/brands/pizza-hut",
+                "text": "Pizza Hut"
+            },
+            {
+                "url": "/takeaway/brands/german-doner-kebab",
+                "text": "German Doner Kebab"
+            },
+            {
+                "url": "/takeaway/brands",
+                "text": "View all brands"
+            }
+        ],
         "aboutUs": "Get to know us",
         "aboutUsLinks": [
             {
@@ -793,11 +846,11 @@
                 "text": "Cookie Policy"
             },
             {
-                "url": "https://www.just-eat.com/about-us",
+                "url": "https://www.justeattakeaway.com/",
                 "text": "About us"
             },
             {
-                "url": "https://www.just-eat.com/",
+                "url": "https://www.justeattakeaway.com/",
                 "text": "Company website"
             },
             {
@@ -1871,7 +1924,7 @@
                 "text": "Informativa sulla Privacy"
             },
             {
-                "url": "/informazioni/about-us/",
+                "url": "https://www.justeattakeaway.com/",
                 "text": "Informazioni su Just Eat"
             },
             {
@@ -2163,7 +2216,7 @@
         "aboutUs": "About us",
         "aboutUsLinks": [
             {
-                "url": "/info/about-us",
+                "url": "https://www.justeattakeaway.com/",
                 "text": "About us"
             },
             {
