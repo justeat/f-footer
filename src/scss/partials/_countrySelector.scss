@@ -9,10 +9,10 @@
 /**
  * Component Variables
  */
-$countrySelector-textColor      : $color-text !default;
-$countrySelector-iconColor      : $grey--darkest !default;
-$countrySelector-bgColor        : $grey--lighter !default;
-$countrySelector-borderColor    : $color-border !default;
+$countrySelector-textColor      : $color-content-default;
+$countrySelector-iconColor      : $color-content-interactive-tertiary;
+$countrySelector-bgColor        : $color-container-subtle;
+$countrySelector-borderColor    : $color-border-strong;
 $countrySelector-boxShadow      : 0 2px 28px rgba(51, 51, 51, 0.08) !default;
 
 
