@@ -21,20 +21,19 @@
 /**
  * Imports
  */
-@import 'fozzie-colour-palette';
-@import 'f-utils'; // imports a set of helper functions and mixins – https://github.com/justeat/f-utils
+
 @import 'include-media'; // Cleaner media query declarations – http://include-media.com
 
 
 /**
  * Component Variables
  */
-$footer-bgColor         : $grey--light !default;
-$footer-bgLight         : $grey--lighter !default;
-$footer-textColor       : $color-text !default;
-$footer-borderColor     : $color-border !default;
-$footer-chevronColor    : $grey--darkest !default;
-$footer-socialIconColor : $grey--darkest !default;
+$footer-bgColor         : $color-container-strong;
+$footer-bgLight         : $color-container-subtle;
+$footer-textColor       : $color-content-default;
+$footer-borderColor     : $color-border-strong;
+$footer-chevronColor    : $color-content-interactive-tertiary;
+$footer-socialIconColor : $color-content-interactive-tertiary;
 
 
 /**
