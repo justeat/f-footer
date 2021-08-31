@@ -4,9 +4,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.43.1
+------------------------------
+*August 31, 2021*
+
+### Changed
+- `package.json` version.
+
+
 v1.43.0
 ------------------------------
-*August 27, 2021*
+*August 31, 2021*
 
 ### Changed
 - Updating legacy component to be compatible with Fozzie v6.
