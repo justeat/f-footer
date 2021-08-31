@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.43.0
+------------------------------
+*August 27, 2021*
+
+### Changed
+- Updating legacy component to be compatible with Fozzie v6.
+
+
 v1.42.0
 ------------------------------
 *August 12, 2021*
