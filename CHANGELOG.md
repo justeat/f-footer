@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.43.2
+------------------------------
+*October 4, 2021*
+
+### Added
+- Add link to "Gender Pay Gap 2019-2021" report for UK
+
+
 v1.43.1
 ------------------------------
 *August 31, 2021*
