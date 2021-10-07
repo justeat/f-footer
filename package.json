@@ -1,7 +1,7 @@
 {
   "name": "@justeat/f-footer",
   "description": "Fozzie footer – Footer Component for Just Eat projects",
-  "version": "1.43.2",
+  "version": "1.44.0",
   "main": "dist/js/index.js",
   "files": [
     "dist",
@@ -25,7 +25,7 @@
     "node": ">=10.0.0"
   },
   "dependencies": {
-    "@justeat/fozzie": "6.0.0-beta.0",
+    "@justeat/fozzie": "6.0.0-beta.8",
     "include-media": "1.4.9",
     "lite-ready": "1.0.4",
     "lodash.debounce": "4.0.8",
