@@ -1,5 +1,5 @@
 <div class="c-countrySelector">
-    <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" data-test-id="countrySelector-button" aria-label="{{ i18n "changeCurrentCountry" }}">
+    <button type="button" class="o-btn o-btn--link c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list" data-test-id="countrySelector-button" aria-label="{{ i18n "changeCurrentCountry" }}">
         <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
         <p data-test-id="countrySelector-current-country">{{ i18n "currentCountryLocalisedName" }}</p>
         <img class="c-countrySelector-chevron c-icon--chevron--small" src="{{ miscIconPaths.chevronIconUrl }}" alt="" />
@@ -14,11 +14,11 @@
             </li>
         {{/each}}
         <li>
-            <button type="button" class="o-btn o-btnLink c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
+            <button type="button" class="o-btn o-btn--link c-countrySelector-link c-countrySelector-link--selected" data-toggle-target="countrySelector-list">
                 <img class="c-icon--flag--small" src="{{ miscIconPaths.currentCountryFlagIconUrl }}" alt="" />
                 <p>{{ i18n "currentCountryLocalisedName" }}</p>
             </button>
-            <button type="button" class="o-btnLink" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
+            <button type="button" class="o-btn--link" data-toggle-target="countrySelector-list" aria-label="{{ i18n "buttonClose" }}">
                 <img class="c-countrySelector-cross" src="{{ miscIconPaths.crossIconUrl }}" alt="" />
             </button>
         </li>

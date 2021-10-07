@@ -126,6 +126,7 @@ $footer-socialIconColor : $color-content-interactive-tertiary;
 
         a {
             color: $footer-textColor;
+            @include font-size(body-s);
             display: inline-block;
             padding: spacing() spacing(x2);
             text-decoration: none;
@@ -204,6 +205,7 @@ $footer-socialIconColor : $color-content-interactive-tertiary;
     }
 
     .c-footer-feedbackText {
+        @include font-size(body-s);
         margin: 0 spacing(x2) 0 0;
     }
 

@@ -4,6 +4,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.44.0
+------------------------------
+*October 7, 2021*
+
+### Changed
+- Fozzie package update to 6.0.0-beta.8 to include latest pie design tokens values.
+- `o-btnLink` css class to `o-btn--link`.
+
+
 v1.43.2
 ------------------------------
 *October 4, 2021*
