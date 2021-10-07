@@ -918,18 +918,17 @@
   resolved "https://registry.yarnpkg.com/@justeat/f-utils/-/f-utils-2.0.0.tgz#34e34870f20ec85b5d0aca8a87e2bc2225e2f597"
   integrity sha512-fFkNH39Qe6sg6e2YZmbh4l4g4qegvpsaEKnj1grCDRspQQvzpmBQBifx6nkHsdaEhetZTJC3LqwOXybmlVJI/g==
 
-"@justeat/fozzie@6.0.0-beta.0":
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@justeat/fozzie/-/fozzie-6.0.0-beta.0.tgz#cdd4ddd0b718c2361d33cc1c411d12d061d4c4b9"
-  integrity sha512-BhRJN5OPBoxQQ5H2c+qVgV0104ZVIHn+vcG4Uk+4N6rhWztVJeHIHBYgTvXAeshwkYcvMbItwvcqvDJa3nXcRQ==
+"@justeat/fozzie@6.0.0-beta.8":
+  version "6.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@justeat/fozzie/-/fozzie-6.0.0-beta.8.tgz#b809fa3f534c8273482781698b9d365ffcc265a2"
+  integrity sha512-CAgeTMo+Fw32mS8eG0Oyr37bVeJmTWyw2Jd26DQnbX77F5XA6bdrcqc3Vi33B5cMvV5lxT8bbcdu3ofKcQ/09w==
   dependencies:
     "@justeat/f-dom" "1.1.0"
     "@justeat/f-logger" "0.8.1"
     "@justeat/f-utils" "2.0.0"
-    "@justeat/pie-design-tokens" "1.0.0-beta.0"
+    "@justeat/pie-design-tokens" "1.1.0"
     fontfaceobserver "2.1.0"
     include-media "1.4.10"
-    normalize-scss "7.0.1"
 
 "@justeat/gulp-build-fozzie@8.4.0":
   version "8.4.0"
@@ -1012,10 +1011,10 @@
     rimraf "^2.6.2"
     vinyl-fs "^2.0.2"
 
-"@justeat/pie-design-tokens@1.0.0-beta.0":
-  version "1.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@justeat/pie-design-tokens/-/pie-design-tokens-1.0.0-beta.0.tgz#272457e7f806ac931800935cd54b10801c45a589"
-  integrity sha512-egiGduhwftk8O9KSnTnK5rN3cP/FY1TurdvFiC12C3mkXEImEZnpLTbf/sZ/StV95m4E69y45jiaPB87FXzSVw==
+"@justeat/pie-design-tokens@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@justeat/pie-design-tokens/-/pie-design-tokens-1.1.0.tgz#d93ad0411cd0457522d8bd466de521382682e05d"
+  integrity sha512-YtiJ7Uq+JZgYAJAFYr0e0an+p8RRk9MimAtqNnk2MFI5au7eNMFt3lTugwfoRgk4jKQfNg2RwTZe0tuuzzc8nw==
   dependencies:
     jsonc-parser "2.2.0"
     lodash.merge "4.6.2"
@@ -11028,11 +11027,6 @@ normalize-range@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/normalize-range/-/normalize-range-0.1.2.tgz#2d10c06bdfd312ea9777695a4d28439456b75942"
   integrity sha1-LRDAa9/TEuqXd2laTShDlFa3WUI=
-
-normalize-scss@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/normalize-scss/-/normalize-scss-7.0.1.tgz#74485e82bb5d0526371136422a09fdb868ffc1a4"
-  integrity sha512-qj16bWnYs+9/ac29IgGjySg4R5qQTp1lXfm7ApFOZNVBYFY8RZ3f8+XQNDDLHeDtI3Ba7Jj4+LuPgz9v/fne2A==
 
 normalize-selector@^0.2.0:
   version "0.2.0"
