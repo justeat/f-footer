@@ -698,7 +698,7 @@
                 "text": "Mobile apps"
             },
             {
-                "url": "/member/updateuserinfo",
+                "url": "/account/info",
                 "text": "My account"
             },
             {
@@ -2776,7 +2776,7 @@
                 "text": "[Šûĝĝéšţẋẋẋ åẋ ŕéšţåûŕåñţẋẋẋẋ]"
             },
             {
-                "url": "/member/updateuserinfo",
+                "url": "/account/info",
                 "text": "[Ṁýẋ åççöûñţẋẋẋ]"
             }
         ],
